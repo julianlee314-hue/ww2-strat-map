@@ -2,7 +2,7 @@
 
 Country geometries: [Natural Earth](https://www.naturalearthdata.com/) (public domain).
 
-Basemap tiles: © OpenStreetMap contributors, © CARTO.
+Basemap tiles: Esri World Dark Gray Canvas (Esri, HERE, Garmin, FAO, NOAA, USGS).
 
 Event photographs via Wikimedia Commons (licenses per file below).
 

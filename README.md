@@ -8,7 +8,7 @@ Companion timelines: [The Dow, 1896–2026](https://julianlee314-hue.github.io/d
 
 ## What’s in v1
 
-- Full-bleed dark Europe map (Leaflet + CARTO basemap)
+- Full-bleed dark Europe map (Leaflet + Esri Dark Gray Canvas basemap)
 - **18** control / front-line snapshots (Aug 1939 → May 1945)
 - **55** curated big events (Poland → VE Day), with Commons plates where fetched
 - Month scrubber, era jumps, ← → keys
