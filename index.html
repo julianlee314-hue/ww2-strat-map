@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="A scrubbable strategic map of World War II in continental Europe, 1939–1945: monthly control snapshots, major campaigns, and archive plates.">
+<title>WW2 Europe — Strategic Map, 1939–1945</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,500;6..96,600&family=Libre+Franklin:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+<div class="app">
+  <header class="top">
+    <div class="brand">
+      <h1>WW2 Europe · Strategic Map</h1>
+      <div class="sub">1939–1945 · continental campaigns · teaching sketch</div>
+    </div>
+    <div class="top-actions">
+      <span id="status" class="chip" style="cursor:default;opacity:.8">loading…</span>
+      <button type="button" class="chip" id="perspectiveBtn" aria-pressed="false">Perspective: what we know now</button>
+      <button type="button" class="chip" id="metricBtn" aria-pressed="true">Atlantic tonnage</button>
+    </div>
+  </header>
+
+  <div class="main">
+    <div class="map-wrap">
+      <div id="map" role="img" aria-label="Map of Europe showing wartime control"></div>
+      <div class="map-overlay">
+        <div class="date-big" id="dateBig">—</div>
+        <div class="snap-label" id="snapLabel"></div>
+        <div class="snap-note" id="snapNote"></div>
+      </div>
+      <div class="legend" aria-hidden="true">
+        <div><span class="swatch" style="background:#3d7ea6"></span>Allied / liberated</div>
+        <div><span class="swatch" style="background:#8b3a3a"></span>Axis homeland</div>
+        <div><span class="swatch" style="background:#5c2a2a"></span>Axis-occupied</div>
+        <div><span class="swatch" style="background:#6b4a6b"></span>Axis ally / client</div>
+        <div><span class="swatch" style="background:#c45c2a"></span>Soviet</div>
+        <div><span class="swatch" style="background:#c4a35a"></span>Contested</div>
+        <div><span class="swatch" style="background:#3a4550"></span>Neutral</div>
+      </div>
+    </div>
+
+    <aside class="side">
+      <div class="side-tabs" role="tablist">
+        <button type="button" role="tab" data-tab="event" aria-selected="false">Event</button>
+        <button type="button" role="tab" data-tab="list" aria-selected="false">Register</button>
+        <button type="button" role="tab" data-tab="about" aria-selected="true">About</button>
+      </div>
+      <div class="side-body">
+        <div id="eventPane" class="event-card tab-pane" hidden>
+          <p class="empty-hint">Scrub the timeline or click a gold marker on the map.</p>
+        </div>
+        <ul id="listPane" class="event-list tab-pane" hidden></ul>
+        <div id="aboutPane" class="about tab-pane">
+          <p>A <strong>map-first</strong> companion to the Dow / Bank timelines: scrub month by month across continental Europe and watch approximate control shift from Poland to Berlin.</p>
+          <h3>How to use</h3>
+          <ul>
+            <li>Drag the scrubber (or use ← →) to move through <strong>18 curated map frames</strong>.</li>
+            <li>Click gold markers for major campaigns and turning points.</li>
+            <li>Toggle <em>Perspective</em> for a light “1940s framing” note — not a classified big-board reconstruction.</li>
+            <li>Optional sparkline: approximate Allied merchant tonnage sunk per month (Battle of the Atlantic).</li>
+          </ul>
+          <h3>Honest limits</h3>
+          <ul>
+            <li>Front lines and occupation are <strong>teaching approximations</strong> (country fills + a few schematic overlays), not day-accurate GIS.</li>
+            <li>Modern borders stand in for 1939 states (Yugoslavia, Czechoslovakia, USSR republics).</li>
+            <li>Pacific theatre is out of scope for v1.</li>
+            <li>Holocaust / mass-death topics appear only as sober notes — not as gamified map dots.</li>
+          </ul>
+          <h3>Sources</h3>
+          <p>Control narrative distilled from standard campaign histories and West Point atlas sequences. Photographs from Wikimedia Commons (public domain / CC). Natural Earth country geometries (public domain). See <a href="CREDITS.md">CREDITS.md</a>.</p>
+          <p style="color:var(--muted);font-size:0.78rem;margin-top:1.2rem">v1 · julianlee314-hue/ww2-strat-map</p>
+        </div>
+      </div>
+    </aside>
+  </div>
+
+  <footer class="scrub">
+    <div class="scrub-top">
+      <div class="era-pills" aria-label="Jump to era"></div>
+    </div>
+    <div class="scrub-row">
+      <button type="button" class="nav-btn" id="prevBtn" aria-label="Previous frame">‹</button>
+      <input type="range" id="scrubber" min="0" max="17" value="0" aria-label="Time scrubber">
+      <button type="button" class="nav-btn" id="nextBtn" aria-label="Next frame">›</button>
+    </div>
+    <div class="ticks"><span>Sep 1939</span><span>1941</span><span>1943</span><span>May 1945</span></div>
+    <div class="spark" id="spark"></div>
+  </footer>
+</div>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
