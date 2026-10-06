@@ -10,7 +10,7 @@ Companion timelines: [The Dow, 1896–2026](https://julianlee314-hue.github.io/d
 
 - Full-bleed dark Europe map (Leaflet + Esri Dark Gray Canvas basemap)
 - **18** control / front-line snapshots (Aug 1939 → May 1945)
-- **55** curated big events (Poland → VE Day), with Commons plates where fetched
+- **131** curated events — roughly **one+ notable war/culture beat per month** (Sep 1939–May 1945), denser in crisis months; Commons plates where fetched
 - Month scrubber, era jumps, ← → keys
 - Optional Battle of the Atlantic tonnage sparkline (approximate teaching series)
 - Light **perspective** toggle (what we know now vs a 1940s-framing note in copy)
@@ -32,6 +32,10 @@ python3 -m http.server 8766
 ```
 
 Same-origin `fetch` loads `data/*.json` and `data/europe.geojson`.
+
+## Month grain (v1.1)
+
+Every calendar month from September 1939 through May 1945 has at least one pinned event. Huge months (e.g. June 1944, May 1945) keep multiple. Culture / home-front / diplomacy sit beside campaigns; Holocaust-related entries stay sober.
 
 ## Honest limitations
 

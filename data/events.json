@@ -3,7 +3,7 @@
     "id": "e01",
     "date": "1939-08-23",
     "ym": "1939-08",
-    "title": "Molotov\u2013Ribbentrop Pact",
+    "title": "Molotov–Ribbentrop Pact",
     "place": "Moscow",
     "lat": 55.75,
     "lon": 37.62,
@@ -32,7 +32,7 @@
     "lat": 51.51,
     "lon": -0.13,
     "chapter": "Descent",
-    "blurb": "Chamberlain\u2019s broadcast ends the illusions of Munich. The European war is official\u2014yet for months the Western Front barely stirs.",
+    "blurb": "Chamberlain’s broadcast ends the illusions of Munich. The European war is official—yet for months the Western Front barely stirs.",
     "commons": "Infantry_of_the_1st_Battalion_Cameronians_%28Scottish_Rifles%29_crossing_the_River_Garigliano%2C_Italy%2C_19_January_1944._NA1061.jpg"
   },
   {
@@ -44,8 +44,32 @@
     "lat": 49.84,
     "lon": 24.03,
     "chapter": "Descent",
-    "blurb": "The Red Army crosses Poland\u2019s eastern border under the secret pact. Poland is erased between two totalitarian partners.",
+    "blurb": "The Red Army crosses Poland’s eastern border under the secret pact. Poland is erased between two totalitarian partners.",
     "commons": "Soviet_invasion_of_Poland_1939.jpg"
+  },
+  {
+    "date": "1939-10-06",
+    "ym": "1939-10",
+    "title": "Hitler’s ‘peace’ offer rejected",
+    "place": "Berlin / London",
+    "lat": 52.52,
+    "lon": 13.41,
+    "chapter": "Descent",
+    "kind": "diplomacy",
+    "blurb": "After Poland’s fall, Hitler offers a vague ‘peace.’ Britain and France say no. The Phoney War settles in—quiet front, loud propaganda.",
+    "id": "e56"
+  },
+  {
+    "date": "1939-10-14",
+    "ym": "1939-10",
+    "title": "HMS Royal Oak sunk at Scapa Flow",
+    "place": "Orkney",
+    "lat": 58.93,
+    "lon": -2.95,
+    "chapter": "Atlantic",
+    "kind": "war",
+    "blurb": "U-47 slips into the Home Fleet’s anchorage and sinks a battleship at rest. The Atlantic war will not wait for a Western Front.",
+    "id": "e57"
   },
   {
     "id": "e05",
@@ -60,6 +84,102 @@
     "commons": "Finnish_machinegun_nest_Winter_War.jpg"
   },
   {
+    "date": "1939-12-13",
+    "ym": "1939-12",
+    "title": "Battle of the River Plate",
+    "place": "Off Uruguay",
+    "lat": -35.0,
+    "lon": -55.0,
+    "chapter": "Atlantic",
+    "kind": "war",
+    "blurb": "British cruisers corner the pocket battleship Admiral Graf Spee. She limps into Montevideo and is scuttled days later—early Allied naval prestige.",
+    "id": "e58"
+  },
+  {
+    "date": "1939-12-17",
+    "ym": "1939-12",
+    "title": "First British Empire Empire Air Training graduates",
+    "place": "Canada (scheme)",
+    "lat": 45.4,
+    "lon": -75.7,
+    "chapter": "Home front",
+    "kind": "culture",
+    "blurb": "The British Commonwealth Air Training Plan ramps up. Pilots will be forged far from the Luftwaffe—logistics as strategy.",
+    "id": "e59"
+  },
+  {
+    "date": "1940-01-08",
+    "ym": "1940-01",
+    "title": "British rationing bites harder",
+    "place": "United Kingdom",
+    "lat": 51.51,
+    "lon": -0.13,
+    "chapter": "Home front",
+    "kind": "culture",
+    "blurb": "Bacon, butter and sugar were already ticketed; the coupon book becomes daily life. Fair shares—and black markets—define the home front.",
+    "id": "e60"
+  },
+  {
+    "date": "1940-01-10",
+    "ym": "1940-01",
+    "title": "Mechelen Incident",
+    "place": "Belgium",
+    "lat": 50.96,
+    "lon": 4.52,
+    "chapter": "Western storm",
+    "kind": "war",
+    "blurb": "A German plane force-lands with invasion plans for the West. Brussels and Paris are warned; Hitler postpones, then revises. The leak does not save May.",
+    "id": "e61"
+  },
+  {
+    "date": "1940-02-01",
+    "ym": "1940-02",
+    "title": "Soviet assault on the Mannerheim Line",
+    "place": "Karelian Isthmus",
+    "lat": 60.5,
+    "lon": 29.0,
+    "chapter": "Descent",
+    "kind": "war",
+    "blurb": "After December disasters, the Red Army massively reinforces and pounds Finnish fortifications. The Winter War enters its grinding phase.",
+    "id": "e63"
+  },
+  {
+    "date": "1940-02-16",
+    "ym": "1940-02",
+    "title": "Altmark Incident",
+    "place": "Jøssingfjord, Norway",
+    "lat": 58.32,
+    "lon": 6.34,
+    "chapter": "Western storm",
+    "kind": "war",
+    "blurb": "HMS Cossack boards a German tanker in neutral Norwegian waters and frees Allied POWs. Neutrality frays; Norway’s fate draws nearer.",
+    "id": "e62"
+  },
+  {
+    "date": "1940-03-12",
+    "ym": "1940-03",
+    "title": "Moscow Peace ends Winter War",
+    "place": "Moscow",
+    "lat": 55.75,
+    "lon": 37.62,
+    "chapter": "Descent",
+    "kind": "diplomacy",
+    "blurb": "Finland cedes territory but keeps independence. Stalin gets a buffer; Mannerheim’s army becomes legend—and a later co-belligerent against the USSR.",
+    "id": "e64"
+  },
+  {
+    "date": "1940-03-28",
+    "ym": "1940-03",
+    "title": "Allies debate mining Norwegian waters",
+    "place": "London / Paris",
+    "lat": 51.51,
+    "lon": -0.13,
+    "chapter": "Western storm",
+    "kind": "diplomacy",
+    "blurb": "Supreme War Council talks of cutting Sweden’s iron ore route. Plans for Scandinavia collide with Germany’s own—April will decide who moves first.",
+    "id": "e65"
+  },
+  {
     "id": "e06",
     "date": "1940-04-09",
     "ym": "1940-04",
@@ -68,7 +188,7 @@
     "lat": 59.91,
     "lon": 10.75,
     "chapter": "Western storm",
-    "blurb": "Weser\u00fcbung seizes Denmark in hours and contests Norway for two months. The Allies evacuate; Churchill becomes PM mid-crisis.",
+    "blurb": "Weserübung seizes Denmark in hours and contests Norway for two months. The Allies evacuate; Churchill becomes PM mid-crisis.",
     "commons": "The_German_Invasion_of_Norway%2C_1940_N229.jpg"
   },
   {
@@ -92,7 +212,7 @@
     "lat": 51.03,
     "lon": 2.38,
     "chapter": "Western storm",
-    "blurb": "Operation Dynamo lifts ~338,000 Allied troops from the beaches. A military disaster becomes a propaganda deliverance\u2014and Britain fights on.",
+    "blurb": "Operation Dynamo lifts ~338,000 Allied troops from the beaches. A military disaster becomes a propaganda deliverance—and Britain fights on.",
     "commons": "Dunkirk_1940_TR1539.jpg"
   },
   {
@@ -104,7 +224,7 @@
     "lat": 48.86,
     "lon": 2.35,
     "chapter": "Western storm",
-    "blurb": "An open city falls without a fight. The swastika rises over the Eiffel Tower; France\u2019s Third Republic is days from collapse.",
+    "blurb": "An open city falls without a fight. The swastika rises over the Eiffel Tower; France’s Third Republic is days from collapse.",
     "commons": "Bundesarchiv_Bild_146-1994-055-36%2C_Paris%2C_Deutsche_Truppen.jpg"
   },
   {
@@ -112,7 +232,7 @@
     "date": "1940-06-22",
     "ym": "1940-06",
     "title": "French armistice",
-    "place": "Compi\u00e8gne",
+    "place": "Compiègne",
     "lat": 49.43,
     "lon": 2.91,
     "chapter": "Western storm",
@@ -130,6 +250,30 @@
     "chapter": "Western storm",
     "blurb": "The Luftwaffe tries to smash the RAF ahead of invasion. Radar, fighter production, and pilot skill deny Germany the sky.",
     "commons": "Battle_of_britain.jpg"
+  },
+  {
+    "date": "1940-08-13",
+    "ym": "1940-08",
+    "title": "Adler Tag — Eagle Day",
+    "place": "Southern England",
+    "lat": 51.1,
+    "lon": 0.2,
+    "chapter": "Western storm",
+    "kind": "war",
+    "blurb": "The Luftwaffe’s planned knockout blow against RAF airfields. Radar, pilots, and production keep Fighter Command alive.",
+    "id": "e66"
+  },
+  {
+    "date": "1940-08-20",
+    "ym": "1940-08",
+    "title": "‘Never was so much owed’",
+    "place": "London",
+    "lat": 51.51,
+    "lon": -0.13,
+    "chapter": "Culture",
+    "kind": "culture",
+    "blurb": "Churchill’s Commons tribute to the Few becomes the war’s most quoted line. Rhetoric as national glue while the sky burns.",
+    "id": "e67"
   },
   {
     "id": "e12",
@@ -152,8 +296,128 @@
     "lat": 39.6,
     "lon": 20.5,
     "chapter": "Balkans",
-    "blurb": "Mussolini\u2019s poorly prepared offensive stalls in the mountains. Greek counterattacks push into Albania\u2014drawing German attention south.",
+    "blurb": "Mussolini’s poorly prepared offensive stalls in the mountains. Greek counterattacks push into Albania—drawing German attention south.",
     "commons": "Greek_soldiers_fighting_in_the_Albanian_front.jpg"
+  },
+  {
+    "date": "1940-11-11",
+    "ym": "1940-11",
+    "title": "Taranto — carrier strike",
+    "place": "Taranto, Italy",
+    "lat": 40.47,
+    "lon": 17.23,
+    "chapter": "Mediterranean",
+    "kind": "war",
+    "blurb": "Swordfish biplanes cripple the Italian battle fleet in harbour. A proof of concept that Japan’s planners will study.",
+    "id": "e69"
+  },
+  {
+    "date": "1940-11-14",
+    "ym": "1940-11",
+    "title": "Coventry Blitz",
+    "place": "Coventry",
+    "lat": 52.41,
+    "lon": -1.51,
+    "chapter": "Western storm",
+    "kind": "war",
+    "blurb": "A concentrated night raid gutting the medieval city centre. ‘Coventrate’ enters German propaganda vocabulary; British resolve hardens.",
+    "id": "e68"
+  },
+  {
+    "date": "1940-12-09",
+    "ym": "1940-12",
+    "title": "Operation Compass opens",
+    "place": "Sidi Barrani, Egypt",
+    "lat": 31.61,
+    "lon": 25.92,
+    "chapter": "Mediterranean",
+    "kind": "war",
+    "blurb": "Wavell’s Western Desert Force smashes Italian positions in Egypt. A ‘raid’ becomes a rout across Cyrenaica.",
+    "id": "e70"
+  },
+  {
+    "date": "1940-12-29",
+    "ym": "1940-12",
+    "title": "Second Great Fire of London",
+    "place": "London",
+    "lat": 51.51,
+    "lon": -0.09,
+    "chapter": "Home front",
+    "kind": "war",
+    "blurb": "Incendiaries turn the City into a firestorm on a Sunday night. St Paul’s dome, photographed amid smoke, becomes an icon of endurance.",
+    "id": "e71"
+  },
+  {
+    "date": "1941-01-06",
+    "ym": "1941-01",
+    "title": "Roosevelt’s Four Freedoms",
+    "place": "Washington, D.C.",
+    "lat": 38.89,
+    "lon": -77.04,
+    "chapter": "Culture",
+    "kind": "culture",
+    "blurb": "State of the Union frames the war as freedom of speech and worship, freedom from want and fear. Soft power for a not-yet-belligerent America.",
+    "id": "e73"
+  },
+  {
+    "date": "1941-01-22",
+    "ym": "1941-01",
+    "title": "Tobruk falls to the Allies",
+    "place": "Tobruk, Libya",
+    "lat": 32.08,
+    "lon": 23.96,
+    "chapter": "Mediterranean",
+    "kind": "war",
+    "blurb": "Australian and British troops take the port. It will become a siege symbol when Rommel returns.",
+    "id": "e72"
+  },
+  {
+    "date": "1941-02-08",
+    "ym": "1941-02",
+    "title": "US Lend-Lease debate peaks",
+    "place": "Washington, D.C.",
+    "lat": 38.89,
+    "lon": -77.04,
+    "chapter": "Diplomacy",
+    "kind": "diplomacy",
+    "blurb": "Congress fights over becoming the ‘arsenal of democracy.’ The bill will pass in March—Britain’s supply line politicised and saved.",
+    "id": "e75"
+  },
+  {
+    "date": "1941-02-12",
+    "ym": "1941-02",
+    "title": "Rommel arrives in Africa",
+    "place": "Tripoli",
+    "lat": 32.89,
+    "lon": 13.19,
+    "chapter": "Mediterranean",
+    "kind": "war",
+    "blurb": "The Desert Fox lands to stiffen Italian forces. Within weeks the map of Cyrenaica flips again.",
+    "id": "e74"
+  },
+  {
+    "date": "1941-03-11",
+    "ym": "1941-03",
+    "title": "Lend-Lease becomes law",
+    "place": "Washington, D.C.",
+    "lat": 38.89,
+    "lon": -77.04,
+    "chapter": "Diplomacy",
+    "kind": "diplomacy",
+    "blurb": "Roosevelt signs. Food, fuel, and weapons flow under a legal fiction of ‘lending.’ Neutrality in name only.",
+    "id": "e76"
+  },
+  {
+    "date": "1941-03-25",
+    "ym": "1941-03",
+    "title": "Yugoslavia signs the Tripartite Pact",
+    "place": "Vienna",
+    "lat": 48.21,
+    "lon": 16.37,
+    "chapter": "Balkans",
+    "kind": "diplomacy",
+    "blurb": "Prince Paul’s government joins the Axis orbit—then a coup in Belgrade days later invites German fury in April.",
+    "id": "e77"
   },
   {
     "id": "e14",
@@ -164,8 +428,44 @@
     "lat": 44.79,
     "lon": 20.45,
     "chapter": "Balkans",
-    "blurb": "Germany overruns Yugoslavia in days and Greece soon after. Crete falls by air in May\u2014costly for German paratroops.",
+    "blurb": "Germany overruns Yugoslavia in days and Greece soon after. Crete falls by air in May—costly for German paratroops.",
     "commons": "Bundesarchiv_Bild_101I-185-0117-02A%2C_Griechenland%2C_Panzer_in_Ort.jpg"
+  },
+  {
+    "date": "1941-05-10",
+    "ym": "1941-05",
+    "title": "Hess flies to Scotland",
+    "place": "Eaglesham / London",
+    "lat": 55.74,
+    "lon": -4.27,
+    "chapter": "Diplomacy",
+    "kind": "diplomacy",
+    "blurb": "Deputy Führer parachutes in with a private ‘peace’ fantasy. Berlin calls him mad; London locks him up. A bizarre sideshow before Barbarossa.",
+    "id": "e79"
+  },
+  {
+    "date": "1941-05-20",
+    "ym": "1941-05",
+    "title": "Battle of Crete begins",
+    "place": "Crete",
+    "lat": 35.31,
+    "lon": 25.0,
+    "chapter": "Balkans",
+    "kind": "war",
+    "blurb": "German airborne assault seizes the island at brutal cost to Fallschirmjäger. Hitler never tries a comparable drop again.",
+    "id": "e78"
+  },
+  {
+    "date": "1941-05-24",
+    "ym": "1941-05",
+    "title": "Hood sunk — Bismarck chase",
+    "place": "Denmark Strait",
+    "lat": 62.0,
+    "lon": -32.0,
+    "chapter": "Atlantic",
+    "kind": "war",
+    "blurb": "Bismarck destroys HMS Hood in minutes. The Royal Navy’s revenge hunt ends with Bismarck down on the 27th.",
+    "id": "e80"
   },
   {
     "id": "e15",
@@ -176,8 +476,57 @@
     "lat": 53.9,
     "lon": 27.57,
     "chapter": "Barbarossa",
-    "blurb": "Three million Axis troops smash into the Soviet Union\u2014the largest land invasion in history. Stalin is stunned; the character of the war turns genocidal in the East.",
+    "blurb": "Three million Axis troops smash into the Soviet Union—the largest land invasion in history. Stalin is stunned; the character of the war turns genocidal in the East.",
     "commons": "Bundesarchiv_Bild_101I-210-0136-02A%2C_Russland-S%C3%BCd%2C_Panzer_III.jpg"
+  },
+  {
+    "date": "1941-07-12",
+    "ym": "1941-07",
+    "title": "Anglo-Soviet agreement",
+    "place": "Moscow",
+    "lat": 55.75,
+    "lon": 37.62,
+    "chapter": "Barbarossa",
+    "kind": "diplomacy",
+    "blurb": "Mutual assistance against Germany—awkward partners united by necessity. Convoys to Murmansk will follow.",
+    "id": "e81"
+  },
+  {
+    "date": "1941-07-31",
+    "ym": "1941-07",
+    "title": "Göring orders the ‘Final Solution’ prep",
+    "place": "Berlin",
+    "lat": 52.52,
+    "lon": 13.41,
+    "chapter": "Occupation & crime",
+    "kind": "war",
+    "blurb": "A bureaucratic directive tasks Heydrich with an overall plan. Mass murder in the East is already underway; Wannsee will coordinate it. Sober, not a game piece.",
+    "sober": true,
+    "id": "e82"
+  },
+  {
+    "date": "1941-08-14",
+    "ym": "1941-08",
+    "title": "Atlantic Charter",
+    "place": "Newfoundland waters",
+    "lat": 47.5,
+    "lon": -52.5,
+    "chapter": "Diplomacy",
+    "kind": "diplomacy",
+    "blurb": "Churchill and Roosevelt draft postwar ideals aboard warships: no aggrandisement, free trade, self-determination. A prospectus for the UN world.",
+    "id": "e83"
+  },
+  {
+    "date": "1941-08-23",
+    "ym": "1941-08",
+    "title": "Kiev pocket forming",
+    "place": "Ukraine",
+    "lat": 50.45,
+    "lon": 30.52,
+    "chapter": "Barbarossa",
+    "kind": "war",
+    "blurb": "Hitler prioritises the southern encirclement over the direct Moscow drive. Hundreds of thousands of Soviet troops will be trapped by September.",
+    "id": "e84"
   },
   {
     "id": "e16",
@@ -188,7 +537,7 @@
     "lat": 59.93,
     "lon": 30.33,
     "chapter": "Barbarossa",
-    "blurb": "The city is cut off. Nearly 900 days of starvation, cold, and shelling follow\u2014one of the war\u2019s longest and cruelest sieges.",
+    "blurb": "The city is cut off. Nearly 900 days of starvation, cold, and shelling follow—one of the war’s longest and cruelest sieges.",
     "commons": "RIA_Novosti_Archive%2C_image_%2360479_%28cropped%29.jpg"
   },
   {
@@ -200,7 +549,7 @@
     "lat": 50.45,
     "lon": 30.52,
     "chapter": "Barbarossa",
-    "blurb": "The Wehrmacht completes a vast encirclement. Hundreds of thousands of Soviet troops are captured\u2014and the road opens toward further atrocity in Ukraine.",
+    "blurb": "The Wehrmacht completes a vast encirclement. Hundreds of thousands of Soviet troops are captured—and the road opens toward further atrocity in Ukraine.",
     "commons": "Bundesarchiv_Bild_183-B12190%2C_Kiew%2C_zerst%C3%B6rte_Stra%C3%9Fe.jpg"
   },
   {
@@ -214,6 +563,30 @@
     "chapter": "Barbarossa",
     "blurb": "Operation Typhoon aims to take the Soviet capital before winter. Mud, then frost, then a Soviet reserve army will stop it.",
     "commons": "Battle_for_Moscow.jpg"
+  },
+  {
+    "date": "1941-11-18",
+    "ym": "1941-11",
+    "title": "Operation Crusader",
+    "place": "Libyan desert",
+    "lat": 31.8,
+    "lon": 24.0,
+    "chapter": "Mediterranean",
+    "kind": "war",
+    "blurb": "Eighth Army drives to relieve Tobruk. Chaotic tank battles; Rommel eventually falls back—Tobruk free for now.",
+    "id": "e85"
+  },
+  {
+    "date": "1941-11-22",
+    "ym": "1941-11",
+    "title": "Rostov changes hands",
+    "place": "Rostov-on-Don",
+    "lat": 47.23,
+    "lon": 39.72,
+    "chapter": "Barbarossa",
+    "kind": "war",
+    "blurb": "Germans take the city, then Soviet counterattacks force the first major Wehrmacht withdrawal of the eastern campaign.",
+    "id": "e86"
   },
   {
     "id": "e19",
@@ -236,7 +609,7 @@
     "lat": 52.52,
     "lon": 13.41,
     "chapter": "Global war",
-    "blurb": "Four days after Pearl Harbor, Hitler declares war on the United States\u2014bringing American industry fully into the European struggle.",
+    "blurb": "Four days after Pearl Harbor, Hitler declares war on the United States—bringing American industry fully into the European struggle.",
     "commons": "Bundesarchiv_Bild_183-1987-0703-014%2C_Berlin%2C_Reichstag%2C_Sitzung.jpg"
   },
   {
@@ -248,9 +621,81 @@
     "lat": 52.43,
     "lon": 13.27,
     "chapter": "Occupation & crime",
-    "blurb": "Senior Nazi officials coordinate the logistics of the \u2018Final Solution.\u2019 This site treats the Holocaust soberly and separately from campaign scrubbing\u2014see the note in About.",
+    "blurb": "Senior Nazi officials coordinate the logistics of the ‘Final Solution.’ This site treats the Holocaust soberly and separately from campaign scrubbing—see the note in About.",
     "commons": "Villa_Wannsee_-_Haus_der_Wannsee-Konferenz.jpg",
     "sober": true
+  },
+  {
+    "date": "1942-02-09",
+    "ym": "1942-02",
+    "title": "Albert Speer becomes Armaments Minister",
+    "place": "Berlin",
+    "lat": 52.52,
+    "lon": 13.41,
+    "chapter": "Home front",
+    "kind": "culture",
+    "blurb": "After Todt’s death, Speer inherits the war economy. German production will rise even as the strategic picture darkens—slave labour included.",
+    "id": "e88"
+  },
+  {
+    "date": "1942-02-15",
+    "ym": "1942-02",
+    "title": "Singapore falls",
+    "place": "Singapore",
+    "lat": 1.29,
+    "lon": 103.85,
+    "chapter": "Global war",
+    "kind": "war",
+    "blurb": "Outside Europe’s map, but it shakes London: Britain’s eastern fortress surrenders. Churchill calls it the worst disaster in British military history.",
+    "id": "e87"
+  },
+  {
+    "date": "1942-03-03",
+    "ym": "1942-03",
+    "title": "RAF Bomber Command’s area-bombing directive era",
+    "place": "London / Ruhr",
+    "lat": 51.5,
+    "lon": 7.0,
+    "chapter": "Air war",
+    "kind": "war",
+    "blurb": "Night area attacks on German cities intensify under Harris’s rising influence. Ethics and effectiveness will be argued for decades.",
+    "id": "e90"
+  },
+  {
+    "date": "1942-03-28",
+    "ym": "1942-03",
+    "title": "St Nazaire Raid",
+    "place": "St Nazaire",
+    "lat": 47.27,
+    "lon": -2.21,
+    "chapter": "Atlantic",
+    "kind": "war",
+    "blurb": "Commandos ram HMS Campbeltown into the Normandie dry dock and wreck it. Costly; the only Atlantic dock for capital ships is denied to Tirpitz.",
+    "id": "e89"
+  },
+  {
+    "date": "1942-04-18",
+    "ym": "1942-04",
+    "title": "Doolittle Raid (echo in Europe)",
+    "place": "Berlin reaction",
+    "lat": 52.52,
+    "lon": 13.41,
+    "chapter": "Global war",
+    "kind": "culture",
+    "blurb": "US bombers hit Japan from a carrier—news that stiffens Allied morale worldwide even as Europe waits for a second front.",
+    "id": "e92"
+  },
+  {
+    "date": "1942-04-23",
+    "ym": "1942-04",
+    "title": "Baedeker Blitz begins",
+    "place": "Exeter / Bath / Norwich",
+    "lat": 50.72,
+    "lon": -3.53,
+    "chapter": "Air war",
+    "kind": "war",
+    "blurb": "Luftwaffe retaliatory raids on historic English towns after RAF hits Lübeck and Rostock. Culture as target.",
+    "id": "e91"
   },
   {
     "id": "e22",
@@ -261,8 +706,45 @@
     "lat": 31.9,
     "lon": 23.9,
     "chapter": "Mediterranean",
-    "blurb": "The Desert Fox breaks the Gazala line; Tobruk falls in June. Egypt\u2014and the Suez\u2014suddenly look reachable.",
+    "blurb": "The Desert Fox breaks the Gazala line; Tobruk falls in June. Egypt—and the Suez—suddenly look reachable.",
     "commons": "The_British_Army_in_North_Africa_1942_E14059.jpg"
+  },
+  {
+    "date": "1942-06-04",
+    "ym": "1942-06",
+    "title": "Midway (global hinge)",
+    "place": "Central Pacific",
+    "lat": 28.2,
+    "lon": -177.4,
+    "chapter": "Global war",
+    "kind": "war",
+    "blurb": "Not on the Europe map—but the Pacific turn matters to London and Berlin’s calendars. Japan’s carrier elite is gutted.",
+    "id": "e93"
+  },
+  {
+    "date": "1942-06-10",
+    "ym": "1942-06",
+    "title": "Lidice destroyed",
+    "place": "Lidice, Protectorate",
+    "lat": 50.14,
+    "lon": 14.19,
+    "chapter": "Occupation & crime",
+    "kind": "war",
+    "blurb": "After Heydrich’s assassination, the village is erased—men shot, women and children deported. Terror as policy. Treated soberly here.",
+    "sober": true,
+    "id": "e95"
+  },
+  {
+    "date": "1942-06-21",
+    "ym": "1942-06",
+    "title": "Tobruk falls to Rommel",
+    "place": "Tobruk",
+    "lat": 32.08,
+    "lon": 23.96,
+    "chapter": "Mediterranean",
+    "kind": "war",
+    "blurb": "A shock surrender. Churchill, in Washington, takes the blow; Egypt suddenly looks open.",
+    "id": "e94"
   },
   {
     "id": "e23",
@@ -273,7 +755,7 @@
     "lat": 48.71,
     "lon": 44.51,
     "chapter": "Eastern Front",
-    "blurb": "House-by-house fighting begins on the Volga. What starts as a city fight becomes the war\u2019s decisive German catastrophe.",
+    "blurb": "House-by-house fighting begins on the Volga. What starts as a city fight becomes the war’s decisive German catastrophe.",
     "commons": "Stalingrad_-_sowjetische_Soldaten.jpg"
   },
   {
@@ -289,6 +771,30 @@
     "commons": "Dieppe_Raid.jpg"
   },
   {
+    "date": "1942-09-10",
+    "ym": "1942-09",
+    "title": "Gandhi’s Quit India echoes in London",
+    "place": "London",
+    "lat": 51.51,
+    "lon": -0.13,
+    "chapter": "Culture",
+    "kind": "culture",
+    "blurb": "August’s mass movement in India keeps Whitehall sweating over imperial legitimacy while the desert and Volga burn.",
+    "id": "e97"
+  },
+  {
+    "date": "1942-09-13",
+    "ym": "1942-09",
+    "title": "Stalingrad street fighting intensifies",
+    "place": "Stalingrad",
+    "lat": 48.71,
+    "lon": 44.51,
+    "chapter": "Eastern Front",
+    "kind": "war",
+    "blurb": "Chuikov’s 62nd Army clings to Volga rubble. Every block costs a company; the city becomes a meat grinder.",
+    "id": "e96"
+  },
+  {
     "id": "e25",
     "date": "1942-10-23",
     "ym": "1942-10",
@@ -297,7 +803,7 @@
     "lat": 30.84,
     "lon": 28.95,
     "chapter": "Mediterranean",
-    "blurb": "Montgomery\u2019s Eighth Army breaks Rommel. Churchill: \u2018Before Alamein we never had a victory. After Alamein we never had a defeat.\u2019",
+    "blurb": "Montgomery’s Eighth Army breaks Rommel. Churchill: ‘Before Alamein we never had a victory. After Alamein we never had a defeat.’",
     "commons": "El_Alamein_1942_-_British_infantry.jpg"
   },
   {
@@ -325,6 +831,55 @@
     "commons": "RIAN_archive_602161_Stalingrad_-_Central_embankment.jpg"
   },
   {
+    "date": "1942-12-17",
+    "ym": "1942-12",
+    "title": "UN declaration on Jewish mass murder",
+    "place": "London / Allied capitals",
+    "lat": 51.51,
+    "lon": -0.13,
+    "chapter": "Occupation & crime",
+    "kind": "diplomacy",
+    "blurb": "Allies publicly condemn the Nazi extermination program. Knowledge is no longer deniable; rescue still lags. Sober entry.",
+    "sober": true,
+    "id": "e99"
+  },
+  {
+    "date": "1942-12-22",
+    "ym": "1942-12",
+    "title": "Operation Winter Storm fails",
+    "place": "Stalingrad corridor",
+    "lat": 48.3,
+    "lon": 43.5,
+    "chapter": "Eastern Front",
+    "kind": "war",
+    "blurb": "Manstein’s relief drive toward the pocket stalls. Sixth Army’s fate is sealed short of Christmas miracles.",
+    "id": "e98"
+  },
+  {
+    "date": "1943-01-14",
+    "ym": "1943-01",
+    "title": "Casablanca Conference",
+    "place": "Casablanca",
+    "lat": 33.57,
+    "lon": -7.59,
+    "chapter": "Diplomacy",
+    "kind": "diplomacy",
+    "blurb": "Roosevelt and Churchill demand unconditional surrender and map the Sicily path. Stalin isn’t there—still the eastern butcher’s bill speaks loudest.",
+    "id": "e100"
+  },
+  {
+    "date": "1943-01-27",
+    "ym": "1943-01",
+    "title": "First USAAF heavy raid on Germany",
+    "place": "Wilhelmshaven",
+    "lat": 53.53,
+    "lon": 8.11,
+    "chapter": "Air war",
+    "kind": "war",
+    "blurb": "American daylight doctrine arrives over the Reich. Escort gaps will bloody the 8th Air Force before long-range fighters mature.",
+    "id": "e101"
+  },
+  {
     "id": "e28",
     "date": "1943-02-02",
     "ym": "1943-02",
@@ -333,20 +888,81 @@
     "lat": 48.71,
     "lon": 44.51,
     "chapter": "Eastern Front",
-    "blurb": "Field Marshal Paulus capitulates. Roughly 90,000 Axis troops march into captivity; maybe 5\u20136,000 ever see home. The strategic initiative in the East passes to the USSR.",
+    "blurb": "Field Marshal Paulus capitulates. Roughly 90,000 Axis troops march into captivity; maybe 5–6,000 ever see home. The strategic initiative in the East passes to the USSR.",
     "commons": "Friedrich_Paulus_arriving_at_HQ.jpg"
   },
   {
     "id": "e29",
     "date": "1943-02-18",
     "ym": "1943-02",
-    "title": "Goebbels\u2019 Total War speech",
+    "title": "Goebbels’ Total War speech",
     "place": "Berlin",
     "lat": 52.52,
     "lon": 13.41,
     "chapter": "Home fronts",
-    "blurb": "At the Sportpalast, Goebbels asks \u2018Do you want total war?\u2019 The crowd roars yes. Propaganda tries to paper over Stalingrad.",
+    "blurb": "At the Sportpalast, Goebbels asks ‘Do you want total war?’ The crowd roars yes. Propaganda tries to paper over Stalingrad.",
     "commons": "Bundesarchiv_Bild_183-J00575%2C_Berlin%2C_Gro%C3%9Fe_Kundgebung_im_Sportpalast.jpg"
+  },
+  {
+    "date": "1943-03-02",
+    "ym": "1943-03",
+    "title": "Battle of the Bismarck Sea",
+    "place": "SW Pacific",
+    "lat": -7.0,
+    "lon": 148.0,
+    "chapter": "Global war",
+    "kind": "war",
+    "blurb": "Allied air power annihilates a Japanese convoy—another Pacific datapoint that Allied industrial air supremacy is transferable.",
+    "id": "e103"
+  },
+  {
+    "date": "1943-03-05",
+    "ym": "1943-03",
+    "title": "Battle of the Ruhr opens",
+    "place": "Ruhr Valley",
+    "lat": 51.47,
+    "lon": 7.2,
+    "chapter": "Air war",
+    "kind": "war",
+    "blurb": "Bomber Command’s campaign against Germany’s industrial heartland. Dams Raid will punctuate May; the cities burn for months.",
+    "id": "e104"
+  },
+  {
+    "date": "1943-03-13",
+    "ym": "1943-03",
+    "title": "First major Smersh/plot talk — Hitler nearly bombed",
+    "place": "Smolensk front",
+    "lat": 54.78,
+    "lon": 32.04,
+    "chapter": "Germany",
+    "kind": "war",
+    "blurb": "Officers’ resistance circles keep trying; a bomb on Hitler’s plane fails to detonate. July 1944 will be the near-miss that gets into textbooks.",
+    "id": "e102"
+  },
+  {
+    "date": "1943-04-07",
+    "ym": "1943-04",
+    "title": "Boulter / Voskhod — Atlantic convoy crisis eases",
+    "place": "North Atlantic",
+    "lat": 50.0,
+    "lon": -30.0,
+    "chapter": "Atlantic",
+    "kind": "war",
+    "blurb": "May will be ‘Black May’ for U-boats; by spring 1943 escort carriers, Huff-Duff, and centimetric radar are winning the tonnage war.",
+    "id": "e106"
+  },
+  {
+    "date": "1943-04-19",
+    "ym": "1943-04",
+    "title": "Warsaw Ghetto Uprising",
+    "place": "Warsaw",
+    "lat": 52.24,
+    "lon": 21.0,
+    "chapter": "Occupation & crime",
+    "kind": "war",
+    "blurb": "Jewish fighters resist the final deportation. The ghetto is razed; the rising becomes a symbol of defiance amid genocide. Sober.",
+    "sober": true,
+    "id": "e105"
   },
   {
     "id": "e30",
@@ -361,6 +977,30 @@
     "commons": "Prisoners_of_war_in_North_Africa.jpg"
   },
   {
+    "date": "1943-06-11",
+    "ym": "1943-06",
+    "title": "Pantelleria surrenders",
+    "place": "Pantelleria",
+    "lat": 36.79,
+    "lon": 11.99,
+    "chapter": "Mediterranean",
+    "kind": "war",
+    "blurb": "An island pounded into surrender largely by air—prelude to Husky. Mussolini’s empire shrinks to the mainland and nerves.",
+    "id": "e107"
+  },
+  {
+    "date": "1943-06-20",
+    "ym": "1943-06",
+    "title": "Race riot / Zoot Suit echoes reach Allied press",
+    "place": "London newsrooms",
+    "lat": 51.51,
+    "lon": -0.13,
+    "chapter": "Culture",
+    "kind": "culture",
+    "blurb": "US home-front racial violence (Zoot Suit / Detroit) is reported abroad. Democracies at war still fail their own ideals—lesson, not decoration.",
+    "id": "e108"
+  },
+  {
     "id": "e31",
     "date": "1943-07-05",
     "ym": "1943-07",
@@ -369,7 +1009,7 @@
     "lat": 51.73,
     "lon": 36.19,
     "chapter": "Eastern Front",
-    "blurb": "The largest tank battle in history. Germany\u2019s last major strategic offensive in the East dies in Soviet defenses and counterstrokes.",
+    "blurb": "The largest tank battle in history. Germany’s last major strategic offensive in the East dies in Soviet defenses and counterstrokes.",
     "commons": "Bundesarchiv_Bild_101I-219-0595-05%2C_Russland%2C_Kampf_um_Kursk.jpg"
   },
   {
@@ -381,8 +1021,44 @@
     "lat": 37.5,
     "lon": 14.1,
     "chapter": "Italy",
-    "blurb": "Husky lands Anglo-American forces on Sicily. Within weeks Mussolini is deposed; Italy\u2019s Fascist regime cracks.",
+    "blurb": "Husky lands Anglo-American forces on Sicily. Within weeks Mussolini is deposed; Italy’s Fascist regime cracks.",
     "commons": "Sicily_Invasion_1943.jpg"
+  },
+  {
+    "date": "1943-08-17",
+    "ym": "1943-08",
+    "title": "Sicily secured — Messina taken",
+    "place": "Messina",
+    "lat": 38.19,
+    "lon": 15.55,
+    "chapter": "Italy",
+    "kind": "war",
+    "blurb": "Allies finish the island; many Axis troops escape to the mainland. Mussolini is already gone; Italy’s surrender talks accelerate.",
+    "id": "e109"
+  },
+  {
+    "date": "1943-08-17",
+    "ym": "1943-08",
+    "title": "Schweinfurt–Regensburg raids",
+    "place": "Schweinfurt",
+    "lat": 50.05,
+    "lon": 10.23,
+    "chapter": "Air war",
+    "kind": "war",
+    "blurb": "Deep USAAF strikes on ball-bearing plants without adequate escort. Losses are staggering; daylight strategy is forced to rethink.",
+    "id": "e110"
+  },
+  {
+    "date": "1943-08-24",
+    "ym": "1943-08",
+    "title": "Quebec Conference (Quadrant)",
+    "place": "Quebec",
+    "lat": 46.81,
+    "lon": -71.21,
+    "chapter": "Diplomacy",
+    "kind": "diplomacy",
+    "blurb": "Overlord planning firms up; South-East Asia command reshuffles. The second front gets a calendar.",
+    "id": "e111"
   },
   {
     "id": "e33",
@@ -397,6 +1073,30 @@
     "commons": "Salerno_landings.jpg"
   },
   {
+    "date": "1943-10-01",
+    "ym": "1943-10",
+    "title": "Naples rises and is liberated",
+    "place": "Naples",
+    "lat": 40.85,
+    "lon": 14.27,
+    "chapter": "Italy",
+    "kind": "war",
+    "blurb": "Four Days of Naples: civilians fight Germans before Allied entry. The city’s port will feed the Italian campaign.",
+    "id": "e113"
+  },
+  {
+    "date": "1943-10-13",
+    "ym": "1943-10",
+    "title": "Italy declares war on Germany",
+    "place": "Brindisi / Bari",
+    "lat": 40.63,
+    "lon": 17.94,
+    "chapter": "Italy",
+    "kind": "diplomacy",
+    "blurb": "The Badoglio government switches sides. German occupation of the north hardens; civil war layers onto the campaign.",
+    "id": "e112"
+  },
+  {
     "id": "e34",
     "date": "1943-11-28",
     "ym": "1943-11",
@@ -407,6 +1107,30 @@
     "chapter": "Diplomacy",
     "blurb": "Roosevelt, Churchill, and Stalin meet. Overlord is locked in for 1944; the shape of the postwar world starts to be bargained.",
     "commons": "Tehran_Conference%2C_1943.jpg"
+  },
+  {
+    "date": "1943-12-02",
+    "ym": "1943-12",
+    "title": "Bari mustard-gas disaster",
+    "place": "Bari",
+    "lat": 41.12,
+    "lon": 16.87,
+    "chapter": "Italy",
+    "kind": "war",
+    "blurb": "A Luftwaffe raid hits a ship secretly carrying Allied chemical munitions. Secrecy first; medical lessons later. Ugly logistics of deterrence.",
+    "id": "e115"
+  },
+  {
+    "date": "1943-12-26",
+    "ym": "1943-12",
+    "title": "Scharnhorst sunk at North Cape",
+    "place": "Off North Cape",
+    "lat": 72.5,
+    "lon": 28.0,
+    "chapter": "Atlantic",
+    "kind": "war",
+    "blurb": "Royal Navy battleship Duke of York and escorts kill Germany’s last major fleet threat to Arctic convoys in a polar night fight.",
+    "id": "e114"
   },
   {
     "id": "e35",
@@ -429,8 +1153,104 @@
     "lat": 59.93,
     "lon": 30.33,
     "chapter": "Eastern Front",
-    "blurb": "After 872 days, the corridor opens for good. The human cost is almost beyond measure\u2014estimates near a million civilian dead.",
+    "blurb": "After 872 days, the corridor opens for good. The human cost is almost beyond measure—estimates near a million civilian dead.",
     "commons": "Leningrad_siege_-_people_drawing_water.jpg"
+  },
+  {
+    "date": "1944-02-15",
+    "ym": "1944-02",
+    "title": "Monte Cassino abbey bombed",
+    "place": "Monte Cassino",
+    "lat": 41.49,
+    "lon": 13.81,
+    "chapter": "Italy",
+    "kind": "war",
+    "blurb": "Allied bombers smash the medieval monastery—wrongly thought to be a German OP. The ruins become better defences. Culture destroyed for little gain.",
+    "id": "e116"
+  },
+  {
+    "date": "1944-02-20",
+    "ym": "1944-02",
+    "title": "Big Week — Argument",
+    "place": "German aircraft plants",
+    "lat": 48.78,
+    "lon": 9.18,
+    "chapter": "Air war",
+    "kind": "war",
+    "blurb": "Concentrated USAAF attacks on Luftwaffe production and, crucially, attrition of German fighters. Air superiority for Overlord is being bought.",
+    "id": "e117"
+  },
+  {
+    "date": "1944-03-15",
+    "ym": "1944-03",
+    "title": "Third Battle of Monte Cassino",
+    "place": "Cassino",
+    "lat": 41.49,
+    "lon": 13.83,
+    "chapter": "Italy",
+    "kind": "war",
+    "blurb": "New Zealand and Indian troops grind into the town. The Gustav Line still holds; spring will need a fresh plan.",
+    "id": "e118"
+  },
+  {
+    "date": "1944-03-24",
+    "ym": "1944-03",
+    "title": "The Great Escape",
+    "place": "Stalag Luft III, Sagan",
+    "lat": 51.6,
+    "lon": 15.29,
+    "chapter": "Culture",
+    "kind": "culture",
+    "blurb": "Allied airmen tunnel out; most are recaptured, fifty murdered on Hitler’s order. Wartime legend with a body count.",
+    "id": "e119"
+  },
+  {
+    "date": "1944-04-05",
+    "ym": "1944-04",
+    "title": "Ploiești oil under renewed attack",
+    "place": "Ploiești, Romania",
+    "lat": 44.94,
+    "lon": 26.02,
+    "chapter": "Air war",
+    "kind": "war",
+    "blurb": "Fifteenth Air Force hammers Axis fuel. Oil, not just factories, becomes the strategic target set.",
+    "id": "e120"
+  },
+  {
+    "date": "1944-04-28",
+    "ym": "1944-04",
+    "title": "Exercise Tiger disaster",
+    "place": "Slapton Sands, Devon",
+    "lat": 50.28,
+    "lon": -3.65,
+    "chapter": "Northwest Europe",
+    "kind": "war",
+    "blurb": "D-Day rehearsal hit by E-boats; hundreds of US troops die. Kept quiet lest Overlord’s calendar slip.",
+    "id": "e121"
+  },
+  {
+    "date": "1944-05-12",
+    "ym": "1944-05",
+    "title": "Crimea cleared — Sevastopol retaken",
+    "place": "Sevastopol",
+    "lat": 44.62,
+    "lon": 33.52,
+    "chapter": "Eastern Front",
+    "kind": "war",
+    "blurb": "Soviet armies finish the Crimean offensive. German 17th Army wrecked; the Black Sea map flips.",
+    "id": "e123"
+  },
+  {
+    "date": "1944-05-18",
+    "ym": "1944-05",
+    "title": "Monte Cassino finally falls",
+    "place": "Monte Cassino",
+    "lat": 41.49,
+    "lon": 13.81,
+    "chapter": "Italy",
+    "kind": "war",
+    "blurb": "Polish II Corps raises its flag over the ruins. The road toward Rome opens—just in time for headlines to be stolen by Normandy.",
+    "id": "e122"
   },
   {
     "id": "e37",
@@ -441,19 +1261,19 @@
     "lat": 41.89,
     "lon": 12.49,
     "chapter": "Italy",
-    "blurb": "The first Axis capital falls\u2014two days before Normandy steals the headlines. German forces withdraw in good order to the Gothic Line.",
+    "blurb": "The first Axis capital falls—two days before Normandy steals the headlines. German forces withdraw in good order to the Gothic Line.",
     "commons": "Allied_troops_in_Rome_1944.jpg"
   },
   {
     "id": "e38",
     "date": "1944-06-06",
     "ym": "1944-06",
-    "title": "D-Day \u2014 Normandy landings",
+    "title": "D-Day — Normandy landings",
     "place": "Normandy",
     "lat": 49.35,
     "lon": -0.85,
     "chapter": "Northwest Europe",
-    "blurb": "Overlord: five beaches, airborne drops, the greatest amphibious assault ever mounted. A foothold in Fortress Europe is won by nightfall\u2014at terrible cost on Omaha.",
+    "blurb": "Overlord: five beaches, airborne drops, the greatest amphibious assault ever mounted. A foothold in Fortress Europe is won by nightfall—at terrible cost on Omaha.",
     "commons": "Into_the_Jaws_of_Death_crop.jpg"
   },
   {
@@ -477,7 +1297,7 @@
     "lat": 54.09,
     "lon": 21.48,
     "chapter": "Germany",
-    "blurb": "Stauffenberg\u2019s bomb fails to kill Hitler. The purge that follows guts the conservative resistance inside the Wehrmacht.",
+    "blurb": "Stauffenberg’s bomb fails to kill Hitler. The purge that follows guts the conservative resistance inside the Wehrmacht.",
     "commons": "Bundesarchiv_Bild_146-1972-025-10%2C_Hitler-Attentat%2C_Lagebesprechung.jpg"
   },
   {
@@ -489,7 +1309,7 @@
     "lat": 52.23,
     "lon": 21.01,
     "chapter": "Eastern Front",
-    "blurb": "The Polish Home Army rises as the Red Army nears. Stalin\u2019s forces halt across the Vistula; the city is destroyed over 63 days.",
+    "blurb": "The Polish Home Army rises as the Red Army nears. Stalin’s forces halt across the Vistula; the city is destroyed over 63 days.",
     "commons": "Warsaw_Uprising_-_barricade.jpg"
   },
   {
@@ -501,7 +1321,7 @@
     "lat": 43.25,
     "lon": 6.63,
     "chapter": "Northwest Europe",
-    "blurb": "Operation Dragoon races up the Rh\u00f4ne. German Army Group G retreats; France is liberated from two directions.",
+    "blurb": "Operation Dragoon races up the Rhône. German Army Group G retreats; France is liberated from two directions.",
     "commons": "Operation_Dragoon.jpg"
   },
   {
@@ -513,7 +1333,7 @@
     "lat": 48.86,
     "lon": 2.35,
     "chapter": "Northwest Europe",
-    "blurb": "French 2nd Armored and US forces enter; Resistance rises. De Gaulle walks the Champs-\u00c9lys\u00e9es. The city\u2019s cultural weight makes the moment electric.",
+    "blurb": "French 2nd Armored and US forces enter; Resistance rises. De Gaulle walks the Champs-Élysées. The city’s cultural weight makes the moment electric.",
     "commons": "Liberation_of_Paris_-_Parade.jpg"
   },
   {
@@ -529,6 +1349,102 @@
     "commons": "Operation_Market_Garden_-_Arnhem.jpg"
   },
   {
+    "date": "1944-10-02",
+    "ym": "1944-10",
+    "title": "Warsaw Uprising ends",
+    "place": "Warsaw",
+    "lat": 52.23,
+    "lon": 21.01,
+    "chapter": "Eastern Front",
+    "kind": "war",
+    "blurb": "After 63 days, Home Army survivors surrender. The city is systematically destroyed; Soviet forces had stayed across the river.",
+    "id": "e124"
+  },
+  {
+    "date": "1944-10-14",
+    "ym": "1944-10",
+    "title": "Rommel forced to suicide",
+    "place": "Herrlingen, Germany",
+    "lat": 48.42,
+    "lon": 9.9,
+    "chapter": "Germany",
+    "kind": "war",
+    "blurb": "Implied July Plot links: choose poison, get a state funeral. The regime eats its own legend.",
+    "id": "e125"
+  },
+  {
+    "date": "1944-10-20",
+    "ym": "1944-10",
+    "title": "Belgrade liberated",
+    "place": "Belgrade",
+    "lat": 44.79,
+    "lon": 20.45,
+    "chapter": "Eastern Front",
+    "kind": "war",
+    "blurb": "Soviet and Yugoslav Partisan forces take the capital. The Balkans unravel westward.",
+    "id": "e126"
+  },
+  {
+    "date": "1944-10-21",
+    "ym": "1944-10",
+    "title": "Aachen falls",
+    "place": "Aachen",
+    "lat": 50.78,
+    "lon": 6.08,
+    "chapter": "Northwest Europe",
+    "kind": "war",
+    "blurb": "First German city taken by the Western Allies. Urban fighting preview for what waits deeper in the Reich.",
+    "id": "e127"
+  },
+  {
+    "date": "1944-10-23",
+    "ym": "1944-10",
+    "title": "Battle of Leyte Gulf (global)",
+    "place": "Philippines seas",
+    "lat": 11.0,
+    "lon": 126.0,
+    "chapter": "Global war",
+    "kind": "war",
+    "blurb": "Largest naval battle; Japanese surface fleet effectively finished. Europe’s map doesn’t move—Tokyo’s options collapse.",
+    "id": "e128"
+  },
+  {
+    "date": "1944-11-07",
+    "ym": "1944-11",
+    "title": "FDR wins fourth term",
+    "place": "Washington, D.C.",
+    "lat": 38.89,
+    "lon": -77.04,
+    "chapter": "Culture",
+    "kind": "culture",
+    "blurb": "Wartime America re-elects Roosevelt. Continuity of Allied leadership—until April’s shock.",
+    "id": "e131"
+  },
+  {
+    "date": "1944-11-12",
+    "ym": "1944-11",
+    "title": "Tirpitz sunk",
+    "place": "Tromsø, Norway",
+    "lat": 69.65,
+    "lon": 18.96,
+    "chapter": "Atlantic",
+    "kind": "war",
+    "blurb": "Lancasters with Tallboys finally kill the lonely battleship. The ‘fleet in being’ that pinned British capital ships is gone.",
+    "id": "e129"
+  },
+  {
+    "date": "1944-11-16",
+    "ym": "1944-11",
+    "title": "Operation Queen — Hurtgen continues",
+    "place": "Hürtgen Forest",
+    "lat": 50.7,
+    "lon": 6.36,
+    "chapter": "Northwest Europe",
+    "kind": "war",
+    "blurb": "US push toward the Roer stalls in dense woods and minefields. A meat-grinder often overshadowed by the Bulge next door.",
+    "id": "e130"
+  },
+  {
     "id": "e45",
     "date": "1944-12-16",
     "ym": "1944-12",
@@ -537,19 +1453,19 @@
     "lat": 50.25,
     "lon": 5.67,
     "chapter": "Northwest Europe",
-    "blurb": "Hitler\u2019s last major western offensive punches a salient through thin US lines. Bastogne holds; fuel and air power decide the rest.",
+    "blurb": "Hitler’s last major western offensive punches a salient through thin US lines. Bastogne holds; fuel and air power decide the rest.",
     "commons": "Battle_of_the_Bulge.jpg"
   },
   {
     "id": "e46",
     "date": "1945-01-12",
     "ym": "1945-01",
-    "title": "Vistula\u2013Oder offensive",
-    "place": "Poland \u2192 Oder",
+    "title": "Vistula–Oder offensive",
+    "place": "Poland → Oder",
     "lat": 52.2,
     "lon": 18.0,
     "chapter": "Endgame",
-    "blurb": "Zhukov and Konev surge from the Vistula to the Oder in two weeks\u2014stopping 70 km from Berlin. East Prussia is cut off.",
+    "blurb": "Zhukov and Konev surge from the Vistula to the Oder in two weeks—stopping 70 km from Berlin. East Prussia is cut off.",
     "commons": "Soviet_troops_in_Poland_1945.jpg"
   },
   {
@@ -561,7 +1477,7 @@
     "lat": 44.5,
     "lon": 34.16,
     "chapter": "Diplomacy",
-    "blurb": "The Big Three carve occupation zones and argue Poland\u2019s future. The Cold War\u2019s outline is visible if you squint.",
+    "blurb": "The Big Three carve occupation zones and argue Poland’s future. The Cold War’s outline is visible if you squint.",
     "commons": "Yalta_Conference_1945_-_Churchill%2C_Roosevelt%2C_Stalin.jpg"
   },
   {
@@ -597,14 +1513,14 @@
     "lat": 52.52,
     "lon": 13.41,
     "chapter": "Endgame",
-    "blurb": "Soviet armies assault the capital. Street fighting, Hitler\u2019s bunker, and the final collapse of Nazi authority follow.",
+    "blurb": "Soviet armies assault the capital. Street fighting, Hitler’s bunker, and the final collapse of Nazi authority follow.",
     "commons": "Raising_a_flag_over_the_Reichstag.jpg"
   },
   {
     "id": "e51",
     "date": "1945-04-25",
     "ym": "1945-04",
-    "title": "Elbe Day \u2014 link-up",
+    "title": "Elbe Day — link-up",
     "place": "Torgau",
     "lat": 51.56,
     "lon": 13.01,
@@ -621,7 +1537,7 @@
     "lat": 52.51,
     "lon": 13.38,
     "chapter": "Endgame",
-    "blurb": "Hitler suicides as Soviet troops close on the Reich Chancellery. D\u00f6nitz inherits a wreck for a few days of \u2018government.\u2019",
+    "blurb": "Hitler suicides as Soviet troops close on the Reich Chancellery. Dönitz inherits a wreck for a few days of ‘government.’",
     "commons": "Bundesarchiv_Bild_183-V00576-0%2C_Berlin%2C_Reichskanzlei%2C_Bunker.jpg"
   },
   {
@@ -645,7 +1561,7 @@
     "lat": 49.26,
     "lon": 4.03,
     "chapter": "Endgame",
-    "blurb": "Jodl signs unconditional surrender at Eisenhower\u2019s HQ. A second ceremony in Berlin follows; VE Day is celebrated on the 8th (and the 9th in Moscow).",
+    "blurb": "Jodl signs unconditional surrender at Eisenhower’s HQ. A second ceremony in Berlin follows; VE Day is celebrated on the 8th (and the 9th in Moscow).",
     "commons": "Jodl_signs_surrender_at_Reims.jpg"
   },
   {
@@ -657,7 +1573,7 @@
     "lat": 51.51,
     "lon": -0.13,
     "chapter": "Endgame",
-    "blurb": "Crowds fill Whitehall and the Champs-\u00c9lys\u00e9es. The European war is over. The Pacific war\u2014and the atomic age\u2014still wait.",
+    "blurb": "Crowds fill Whitehall and the Champs-Élysées. The European war is over. The Pacific war—and the atomic age—still wait.",
     "commons": "VE_Day_celebrations_in_London%2C_8_May_1945_HU41808.jpg"
   }
 ]

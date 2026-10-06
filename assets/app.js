@@ -1,4 +1,4 @@
-/* WW2 Europe strategic map — v1 */
+/* WW2 Europe strategic map — v1.1 monthly grain */
 (function () {
   const COLORS = {
     allied: '#3d7ea6',
@@ -177,8 +177,8 @@
       const et = parseYm(ev.ym);
       const snT = snap.year * 12 + snap.month;
       const evT = et.y * 12 + et.m;
-      if (evT > snT + 1) m.setOpacity(0.15);
-      else if (evT < snT - 6) m.setOpacity(0.35);
+      if (evT > snT + 1) m.setOpacity(0.12);
+      else if (evT < snT - 3) m.setOpacity(0.28);
       else m.setOpacity(1);
     });
   }
@@ -252,10 +252,11 @@
       ? `<div class="plate"><img src="img/${art.file}" alt="" loading="lazy"></div>
          <p class="credit">${escapeHtml(art.artist)} · ${escapeHtml(art.license)} · <a href="${art.commons_url}" target="_blank" rel="noopener">Commons</a></p>`
       : `<p class="empty-hint">Archive plate not yet attached for this event.</p>`;
+    const kind = ev.kind ? `<span>${escapeHtml(ev.kind)}</span>` : '';
     $('#eventPane').innerHTML = `
       ${sober}
       <h2>${escapeHtml(ev.title)}</h2>
-      <div class="meta-row"><span>${escapeHtml(ev.date)}</span><span>${escapeHtml(ev.place)}</span><span>${escapeHtml(ev.chapter)}</span></div>
+      <div class="meta-row"><span>${escapeHtml(ev.date)}</span><span>${escapeHtml(ev.place)}</span><span>${escapeHtml(ev.chapter)}</span>${kind}</div>
       <p class="blurb">${escapeHtml(ev.blurb)}</p>
       ${plate}
     `;
@@ -269,9 +270,10 @@
       const t = parseYm(ev.ym);
       const past = t.y * 12 + t.m <= snT;
       const active = ev.id === state.selectedEvent ? 'active' : '';
+      const k = ev.kind ? ` · ${escapeHtml(ev.kind)}` : '';
       return `<li class="${active}" data-id="${ev.id}" style="opacity:${past ? 1 : 0.45}">
         <div class="d">${ev.date.slice(0,7)}</div>
-        <div><div class="t">${escapeHtml(ev.title)}</div><div class="p">${escapeHtml(ev.place)}</div></div>
+        <div><div class="t">${escapeHtml(ev.title)}</div><div class="p">${escapeHtml(ev.place)}${k}</div></div>
       </li>`;
     }).join('');
     ul.onclick = (e) => {
