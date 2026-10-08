@@ -1,0 +1,104 @@
+@@ 127 | 1.35,103.82 | Singapore | asia
+H: Singapore alone
+P: w:Battle of Singapore ; s:Singapore 1942 Johor causeway
+A: On 31 January the last British and Commonwealth troops crossed the causeway from the Malayan mainland to Singapore island, and engineers blew a gap in it behind them. In under eight weeks the Japanese 25th Army under Tomoyuki Yamashita had driven the length of the Malay peninsula, outmanoeuvring larger forces with infiltration, flanking landings and bicycle-mounted infantry. Singapore had been built up for twenty years as the great naval base of the Empire in the East, but its defences were designed against attack from the sea, and there was no fleet to use it. The island was crowded with troops, refugees and civilians. In Libya, Rommel struck again on 21 January and retook Benghazi on the 29th, sending the Eighth Army back toward Gazala.
+
+@@ 128 | 9.20,167.50 | Marshall Islands | pacific
+H: The first American carrier raids
+P: w:Marshalls–Gilberts raids ; s:USS Enterprise 1942 raid
+A: On 1 February carrier task forces under William Halsey and Frank Fletcher raided Japanese bases in the Marshall and Gilbert Islands. The damage was modest, but it was the first American offensive action of the Pacific war, and it showed the carriers that had been absent from Pearl Harbor were very much in the fight. Admiral Chester Nimitz now commanded the Pacific Fleet. American newspapers called it revenge for Pearl Harbor, which overstated the case. In the Dutch East Indies, Japanese forces were moving on Sumatra, Borneo and Java, while in Burma they advanced from Thailand toward Moulmein. On the Eastern Front, Soviet attacks continued against German salients south of Leningrad and near Moscow.
+
+@@ 129 | 57.82,32.70 | Demyansk | east
+H: Germans encircled at Demyansk
+P: w:Demyansk Pocket ; s:Demjansk 1942 Luftbrücke Ju 52
+A: On 8 February Soviet forces closed a ring around about 95,000 German troops of the 16th Army at Demyansk, south of Lake Ilmen, and a smaller pocket formed at Kholm. Hitler forbade a breakout and ordered the Luftwaffe to supply the pocket by air. Transport planes flew in hundreds of tonnes a day and brought out the wounded, and the pocket held until a relief force broke through in April. The airlift worked, at a large cost in aircraft and crews, and it taught Hitler and Göring the wrong lesson about what air supply could do. Further south, Soviet forces were attempting to surround German forces near Rzhev and Vyazma, with mixed success.
+
+@@ 130 | 1.35,103.82 | Singapore | asia
+H: Singapore surrenders
+P: w:Fall of Singapore ; s:Percival surrender Singapore 1942
+A: Japanese troops crossed the Johor Strait on the night of 8 February and broke through the island's defences. Water supplies were failing and the city was under constant bombardment. On 15 February Lieutenant-General Arthur Percival surrendered Singapore with about 80,000 British, Australian, Indian and local troops, the largest capitulation in British military history. Churchill called it the worst disaster in British history. Many prisoners would die building the Burma–Thailand railway. In the days after, the Japanese military police carried out the Sook Ching massacres of Chinese civilians in Singapore. On 11–13 February the German battlecruisers Scharnhorst and Gneisenau dashed up the English Channel from Brest to home waters, a humiliation for the Royal Navy and RAF.
+
+@@ 131 | -6.50,112.00 | Java Sea | pacific
+H: The Battle of the Java Sea
+P: w:Battle of the Java Sea ; s:HNLMS De Ruyter 1942
+A: On 27 February a scratch force of Dutch, American, British and Australian cruisers and destroyers under the Dutch admiral Karel Doorman tried to stop a Japanese invasion convoy heading for Java. Without a common signal system or air cover, it was outfought by Japanese cruisers using long-range torpedoes. Doorman went down with his flagship De Ruyter, and over the next days most of the surviving Allied ships were sunk trying to escape, including the cruisers Houston and Perth. Darwin in northern Australia had been bombed on 19 February by the same carrier force that hit Pearl Harbor, killing over 200 people. Java was now open to invasion.
+
+@@ 132 | 48.88,2.24 | Boulogne-Billancourt / Broome | europe
+H: Japan bombs Australia; Britain bombs France
+P: w:Bombing of Broome ; w:Bruneval raid ; s:Renault factory Billancourt bombing 1942
+A: In the first days of March, Japanese fighters raided Broome in Western Australia, destroying flying boats full of refugees from Java, and Japanese troops landed on Java itself; the Dutch surrendered on 8–9 March. In Europe, British paratroopers raided a German radar station at Bruneval on the French coast on 27–28 February and brought back key parts of a Würzburg radar. On 3–4 March RAF Bomber Command attacked the Renault works at Boulogne-Billancourt near Paris, which was building trucks for the Germans. The factory was badly damaged, but several hundred French civilians were killed. The raid foreshadowed the hard moral arithmetic of bombing occupied countries.
+
+@@ 133 | 16.84,96.17 | Rangoon | asia
+H: Rangoon falls; MacArthur leaves the Philippines
+P: w:Japanese conquest of Burma ; s:Rangoon 1942 evacuation
+A: The British abandoned Rangoon on 7 March after destroying the port and oil installations; Japanese troops entered the next day. Burma's only major port was gone and with it the supply route to China by sea and the Burma Road. British, Indian and Burmese troops, with Chinese armies sent by Chiang Kai-shek, began a long fighting retreat north. On 11 March, on Roosevelt's orders, MacArthur left Corregidor by PT boat for Mindanao and then flew to Australia. On arrival he told reporters: "I shall return." The troops he left on Bataan were starving. In the Netherlands East Indies, the colonial army had surrendered.
+
+@@ 134 | -12.00,140.00 | Australia | pacific
+H: MacArthur in Australia
+P: w:Douglas MacArthur ; s:MacArthur Australia 1942
+A: MacArthur reached Melbourne on 21 March and was named Supreme Commander, Allied Forces, South West Pacific Area. The Pacific was split into two commands: MacArthur's to the south-west and Nimitz's Pacific Ocean Areas, a division driven by inter-service rivalry that would shape the whole war. Australia's prime minister John Curtin had already announced that his country now looked to America rather than Britain for its defence, and Australian divisions were brought home from the Middle East. Japanese forces took the Andaman Islands and pushed into New Guinea. In Burma, the Allied retreat continued, and in the Philippines, American and Filipino troops on Bataan were down to quarter rations.
+
+@@ 135 | 50.00,36.20 | Eastern Front | east
+H: The Red Army after its first winter
+P: w:Lyuban offensive operation ; s:Red Army spring 1942 tanks
+A: The Soviet winter counteroffensive had saved Moscow but then overreached. Stalin had ordered attacks along the whole front instead of concentrating, and by March they had largely stalled in the thaw. In the north, the Second Shock Army had pushed into a narrow salient toward Lyuban in an attempt to relieve Leningrad and was now in danger of being cut off. Both armies were rebuilding: the Red Army had nine million men under arms by the spring, but much of it was poorly trained. On 28 March Hitler issued instructions for the summer offensive in the south, aimed at the Caucasus oil fields. Soviet commanders expected the main German blow to fall on Moscow again.
+
+@@ 136 | 53.87,10.69 | Lübeck | europe
+H: Bomber Command burns Lübeck
+P: w:Bombing of Lübeck in World War II ; w:Arthur Harris ; s:Lübeck 1942 destroyed church
+A: On the night of 28–29 March RAF Bomber Command dropped large numbers of incendiaries on the medieval Hanseatic city of Lübeck, whose narrow streets and timber buildings burned easily. Much of the old town was destroyed and over 300 people were killed. It was the first major success for the new head of Bomber Command, Arthur Harris, who had taken over in February with a directive to target the morale of German civilians, in practice the centres of cities. Hitler ordered retaliatory "Baedeker raids" on historic English towns, including Exeter, Bath, Norwich and York. On 28 March British commandos rammed an explosive-filled destroyer into the dock gates at St Nazaire, wrecking the only Atlantic dock able to hold the battleship Tirpitz.
+
+@@ 137 | 14.68,120.54 | Bataan | pacific | sober
+H: Bataan surrenders
+P: w:Bataan Death March ; s:Bataan 1942 prisoners
+A: On 9 April Major General Edward King surrendered about 75,000 American and Filipino troops on Bataan, starving, sick and out of ammunition. It was the largest surrender of US forces in history. Japanese forces then marched the prisoners about 100 kilometres to a railhead in tropical heat with little food or water; those who fell behind were often beaten, bayoneted or shot. Thousands of Filipinos and hundreds of Americans died on what became known as the Bataan Death March, and many more died in the camps afterwards. Corregidor held out for another month. Japanese carriers raided Ceylon in early April and sank the British carrier Hermes and two cruisers.
+
+@@ 138 | 35.68,139.69 | Tokyo | pacific
+H: The Doolittle raid on Tokyo
+P: w:Doolittle Raid ; s:B-25 USS Hornet Doolittle 1942
+A: On 18 April sixteen US Army B-25 bombers, led by Lieutenant Colonel James Doolittle, took off from the carrier Hornet about 1,000 kilometres from Japan and bombed Tokyo, Yokohama, Nagoya and Kobe. The damage was slight; most aircraft ran out of fuel and crash-landed in China, where Chinese civilians helped the crews escape. Japan took brutal reprisals against Chinese villages suspected of helping. The raid gave a huge boost to American morale, and it rattled Japan's leaders, who had promised the home islands were untouchable. It strengthened Admiral Yamamoto's case for an operation to destroy the US carriers at Midway.
+
+@@ 139 | 21.31,-157.86 | Pearl Harbor | pacific
+H: Codebreakers read the Japanese plans
+P: w:Station HYPO ; w:Joseph Rochefort ; s:Joseph Rochefort
+A: At Pearl Harbor, the US Navy codebreaking unit known as Station HYPO, led by Commander Joseph Rochefort, had been working on the main Japanese naval code, JN-25. By late April it could read enough of the traffic to detect that Japan was preparing an operation against Port Moresby in New Guinea, to be covered by aircraft carriers. Nimitz acted on the intelligence and sent his own carriers south to the Coral Sea. The codebreakers also picked up hints of a larger operation in the central Pacific. In Burma, the Japanese captured Lashio on 29 April, cutting the Burma Road to China. In Germany, Hitler addressed the Reichstag on 26 April and was granted unlimited legal powers.
+
+@@ 140 | 22.00,96.00 | Burma | asia
+H: Japan at the height of its power
+P: w:Burma campaign (1942–1943) ; s:Stilwell Burma 1942 retreat
+A: By the end of April Japan controlled an empire stretching from Burma to the Gilbert Islands and from the Aleutians to the borders of Australia. It had done so in under five months at modest cost. Mandalay fell on 1 May. General Joseph Stilwell, the American commander of Chinese troops in Burma, walked out to India with a small party and told reporters, "We got a hell of a beating." Japan's naval leaders debated where to strike next: Australia, Hawaii, India or the Aleutians. Some believed one more decisive victory would force the Americans to negotiate. Few in Tokyo had a plan for how the war would actually end.
+
+@@ 141 | -15.00,155.00 | Coral Sea | pacific
+H: Carrier against carrier in the Coral Sea
+P: w:Battle of the Coral Sea ; s:USS Lexington Coral Sea 1942
+A: From 4 to 8 May American and Japanese carrier forces fought the Battle of the Coral Sea, the first naval battle in which the opposing ships never saw each other: all the fighting was done by aircraft. The US lost the carrier Lexington and Japan the light carrier Shoho; the Japanese carrier Shokaku was badly damaged and Zuikaku lost many aircraft. Tactically it was close to a draw, but the Japanese called off their seaborne invasion of Port Moresby, their first strategic check of the war. Neither of the two big Japanese carriers would be available for Midway. Corregidor surrendered on 6 May.
+
+@@ 142 | 49.99,36.23 | Kharkov | east
+H: Stalin's offensive at Kharkov fails
+P: w:Second Battle of Kharkov ; s:Kharkov 1942 Bundesarchiv
+A: On 12 May the Red Army under Timoshenko attacked from the Izium bulge to retake Kharkov, Ukraine's second city. Stalin had insisted on offensives despite advice to stay on the defensive until the Germans showed their hand. The southern pincer pushed forward, but on 17 May German forces struck the base of the bulge. Requests to call off the attack were refused until too late. By the end of the month several Soviet armies had been surrounded and over 200,000 men captured. In Crimea, German and Romanian forces under Manstein had destroyed Soviet forces on the Kerch peninsula. The road was open for the German summer offensive.
+
+@@ 143 | 28.21,-177.38 | Midway | pacific
+H: "AF is short of water"
+P: w:Battle of Midway ; s:Midway atoll 1942 aerial
+A: American codebreakers knew a major Japanese operation was coming against a target designated "AF", but Washington doubted it was Midway. Rochefort's team had the garrison on Midway send an uncoded radio message reporting that its water distillation plant had broken down. Within days a Japanese intercept reported that "AF" was short of water. Nimitz now knew where and roughly when. He ordered the damaged carrier Yorktown repaired in three days instead of the estimated three months, and positioned his three carriers north-east of Midway to ambush the Japanese fleet. In Czechoslovakia, Czech and Slovak parachutists from Britain attacked Reinhard Heydrich in Prague on 27 May.
+
+@@ 144 | 32.10,23.50 | Gazala, Libya | africa
+H: Rommel attacks at Gazala
+P: w:Battle of Gazala ; s:Gazala 1942 British tanks
+A: On 26 May Rommel attacked the Eighth Army's Gazala line, a string of fortified "boxes" protected by minefields running south from the coast west of Tobruk. He swung his armour around the southern end at Bir Hakeim, where a Free French brigade under General Koenig held out for two weeks. The battle that followed was confused and bloody. Rommel's forces, briefly trapped in an area the British called "the Cauldron", broke out and destroyed British armour that attacked piecemeal. On the night of 30–31 May, Bomber Command sent over 1,000 bombers against Cologne for the first time, a show of strength that killed 469 people and made headlines worldwide.
+
+@@ 145a | 30.00,-178.00 | Midway | pacific
+H: Midway: four carriers in five minutes
+P: f:SBD-3 Dauntless bombers of VS-8 over the burning Japanese cruiser Mikuma on 6 June 1942.jpg ; w:Battle of Midway ; s:Battle of Midway 1942 dive bombers
+A: On the morning of 4 June Japanese aircraft attacked Midway while American carriers launched their strikes. Torpedo planes attacked first and were cut to pieces. But their attacks drew the Japanese fighters down, and around 10:20 dive-bombers from the Enterprise and Yorktown found three Japanese carriers, Akagi, Kaga and Soryu, with aircraft refuelling and rearming on their decks. Within minutes all three were burning wrecks. The fourth, Hiryu, launched strikes that crippled Yorktown before being sunk herself that afternoon. Japan lost four fleet carriers and many experienced aircrew. It was the turning point of the Pacific war. In five minutes the balance of the Pacific war had changed.
+
+@@ 145b | 44.62,33.52 | Sevastopol | east
+H: Manstein moves on Sevastopol
+P: w:Siege of Sevastopol (1941–1942) ; s:Schwerer Gustav Sevastopol 1942
+A: In early June Manstein's 11th Army prepared its final assault on Sevastopol, the Soviet naval base in Crimea, besieged since November 1941. It was one of the strongest fortified positions in the world, with heavy forts, coastal batteries and tunnels. The Germans assembled an enormous artillery park, including the giant railway gun "Dora" with 80cm shells and huge mortars, and began a five-day bombardment on 2 June. The Luftwaffe flew hundreds of sorties a day. The defenders, about 100,000 soldiers and marines, had little hope of rescue. Capturing the port would free Manstein's army for the summer offensive and remove a Soviet base on the Black Sea.
+
+@@ 145c | 30.00,-178.00 | Midway | pacific
+H: After Midway: a different war
+P: w:USS Yorktown (CV-5) ; s:USS Yorktown Midway 1942 damaged
+A: The battle ended on 6–7 June. American dive-bombers sank the heavy cruiser Mikuma; a Japanese submarine finished off the Yorktown and a destroyer alongside her. Japan had lost four carriers and a cruiser; America one carrier and a destroyer. More important than the ships were the trained crews and pilots, which Japan could not replace quickly, while American shipyards were building carriers at a rate Japan could not match. The Japanese government concealed the scale of the defeat from its own people. On 7 June Japanese forces occupied Attu and Kiska in the Aleutians, a diversion that won barren islands. The Pacific war now turned toward attrition, and the Americans began planning their first offensive.

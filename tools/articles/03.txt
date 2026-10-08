@@ -1,0 +1,139 @@
+@@ 43 | 49.43,2.91 | Compiègne | europe
+H: France signs an armistice
+P: f:Bundesarchiv Bild 146-1982-089-18, Compiègne, Waffenstillstandsverhandlungen.jpg ; w:Armistice of 22 June 1940 ; s:Compiègne 1940 armistice railway carriage
+A: Pétain asked for terms on 17 June and told the French people by radio that the fighting must stop. The next day, from London, a little-known brigadier-general named Charles de Gaulle broadcast an appeal on the BBC for the French to continue the war. Hitler chose the place of signing for humiliation: the same railway carriage in the forest of Compiègne where Germany had signed the armistice of 1918. The armistice was signed there on 22 June and with Italy two days later. Germany would occupy the north and the whole Atlantic coast; a French government would run the unoccupied south and keep the empire and the fleet. France would pay for the occupation and its 1.5 million prisoners of war would stay in German camps.
+
+@@ 44 | 48.86,2.29 | Paris | europe
+H: Hitler tours Paris; the Baltic states are swallowed
+P: f:Bundesarchiv Bild 183-H28708, Paris, Eiffelturm, Besuch Adolf Hitler.jpg ; w:Soviet occupation of the Baltic states (1940) ; s:Hitler Paris 23 June 1940
+A: Early on 23 June Hitler made a three-hour sightseeing tour of an empty Paris with his architect Albert Speer and the sculptor Arno Breker, posing in front of the Eiffel Tower and standing at Napoleon's tomb. He did not come back. The armistice came into force on 25 June. Stalin used Europe's distraction to collect the rest of his share: Soviet troops occupied Lithuania, Latvia and Estonia in mid-June, and on 28 June Romania was forced to hand over Bessarabia and northern Bukovina. Britain stood without allies in Europe apart from the exiled governments in London. Churchill's speech of 18 June had warned of the battle to come: "the Battle of France is over. I expect that the Battle of Britain is about to begin."
+
+@@ 45 | 35.72,-0.69 | Mers-el-Kébir | med
+H: Britain fires on the French fleet
+P: w:Attack on Mers-el-Kébir ; s:Bretagne Mers-el-Kébir 1940
+A: The armistice left France's powerful navy intact, and Churchill's government would not risk it falling into German hands. On 3 July a British force under Admiral Somerville arrived off Mers-el-Kébir in Algeria and gave the French squadron an ultimatum: join the British, sail to a British or distant neutral port, or scuttle. Negotiations failed, and that evening British battleships opened fire. The battleship Bretagne blew up and nearly 1,300 French sailors were killed. French ships in British ports were seized the same day, and those at Alexandria were disarmed by agreement. Vichy broke off relations with Britain. The attack shocked France. It also told the world, and especially Washington, that Britain intended to fight.
+
+@@ 46 | 46.13,3.43 | Vichy | europe
+H: Pétain takes full power at Vichy
+P: w:Philippe Pétain ; w:Vichy France ; s:Pétain Vichy 1940
+A: On 10 July the French National Assembly, meeting in the spa town of Vichy, voted 569 to 80 to give Marshal Pétain full powers to draw up a new constitution. The next day he made himself "Head of the French State", and the Third Republic was over. The new regime replaced "Liberty, Equality, Fraternity" with "Work, Family, Fatherland" and set about blaming the defeat on parliamentarians, Freemasons, communists and Jews. Pierre Laval became its deputy leader. Most French people, stunned by defeat, gave the 84-year-old hero of Verdun the benefit of the doubt. In London, de Gaulle's Free French numbered only a few thousand. The Luftwaffe began attacking convoys in the Channel, the opening phase of the air battle.
+
+@@ 47 | 52.52,13.38 | Reichstag, Berlin | europe
+H: Hitler offers peace; Britain refuses
+P: w:Last Appeal to Reason ; s:Reichstag Sitzung 19 Juli 1940
+A: On 19 July Hitler addressed the Reichstag, promoted a dozen generals to field marshal, and made what he called a final appeal to reason to Britain. He offered no actual terms, only the suggestion that Britain accept German domination of the continent. The British response came within an hour from a BBC journalist and officially on 22 July from Lord Halifax: no. Hitler had already issued Directive 16 on 16 July, ordering preparations for a landing in England, Operation Sea Lion, which would require the Luftwaffe to destroy the RAF first. Meanwhile Germany looked east: by late July Hitler was telling his generals that the USSR should be attacked in 1941.
+
+@@ 48 | 51.13,1.31 | English Channel, off Dover | europe
+H: The Battle of Britain begins over the Channel
+P: f:Battle of britain.jpg ; w:Battle of Britain ; s:Channel convoy 1940 attack Dover
+A: Through July the Luftwaffe attacked coastal convoys and ports to draw RAF Fighter Command into battle over the Channel. The British counted 10 July as the start of the Battle of Britain. Fighter Command, under Air Chief Marshal Hugh Dowding, had about 600 serviceable Hurricanes and Spitfires and a system no other air force possessed: a chain of radar stations feeding plots to filter rooms and operations rooms, which directed squadrons by radio to intercept raids. Losses at sea mounted and the Admiralty pulled destroyers out of Dover in late July. The Luftwaffe was preparing its main assault, code-named Adlerangriff, Eagle Attack, against airfields and the radar chain.
+
+@@ 49 | 50.95,0.76 | Kent and Sussex | europe
+H: Fighter Command braces
+P: w:Hawker Hurricane ; w:Supermarine Spitfire ; s:RAF pilots scramble 1940
+A: The air fighting widened at the start of August, with raids on Channel shipping and coastal targets and growing losses on both sides. On 1 August Hitler issued Directive 17, ordering the Luftwaffe to overpower the RAF "in the shortest possible time". Göring believed it would take a few days. British aircraft production, driven by Lord Beaverbrook, was outpacing German production of fighters, but trained pilots were the real limit. Fighter Command drew in pilots from bomber and coastal units, the Fleet Air Arm, and squadrons of Poles, Czechs, Canadians and others who had escaped or volunteered. In Somaliland, Italian forces from Ethiopia were advancing on the small British garrison.
+
+@@ 50 | 10.43,45.00 | British Somaliland | africa
+H: Italy invades British Somaliland
+P: w:Italian conquest of British Somaliland ; s:Italian troops East Africa 1940
+A: On 3 August Italian forces from Ethiopia, which Mussolini had conquered in 1935–36, invaded British Somaliland on the Gulf of Aden with roughly 25,000 men against a British garrison of a few thousand Somali, Indian, African and British troops. The Italians outnumbered the defenders many times over in men, artillery and aircraft. The defenders made a stand at the Tug Argan gap on the road to the port of Berbera. Italy had over 250,000 troops in East Africa, though most were local colonial units and the colony was cut off from Italy by British control of Suez. Haile Selassie, the exiled Ethiopian emperor, was preparing to return to Sudan to lead resistance.
+
+@@ 51 | 10.44,45.01 | Berbera | africa
+H: Britain abandons Somaliland; Eagle Day
+P: w:Battle of Tug Argan ; w:Adlertag ; s:Berbera 1940 evacuation
+A: After four days of fighting at Tug Argan, the British commander judged the position lost, and between 15 and 18 August about 7,000 troops and civilians were evacuated from Berbera to Aden. It was the only British colony Italy ever conquered. Churchill was furious at the small number of casualties, which he took to mean the position had not been properly defended. Over Britain the Luftwaffe launched Eagle Day on 13 August and on 15 August, the heaviest day of the campaign, attacked from Norway as well as France and lost heavily in the north. On 20 August Churchill told the Commons: "Never in the field of human conflict was so much owed by so many to so few."
+
+@@ 52 | 51.32,0.03 | Biggin Hill | europe
+H: The airfields under attack
+P: w:RAF Biggin Hill ; s:Biggin Hill 1940 damage ; s:Dornier 17 over England 1940
+A: From 18 August the Luftwaffe concentrated on Fighter Command's airfields in south-east England. Kenley, Biggin Hill, Hornchurch, Manston and others were bombed repeatedly; ground crews, including women of the WAAF, kept them working under fire. 18 August, with heavy losses on both sides, became known as "the hardest day". Keith Park's 11 Group, defending the south-east, was stretched thin, and arguments raged with the neighbouring 12 Group over tactics. On the night of 24 August German bombers, apparently off course, dropped bombs on central London. Churchill ordered a retaliatory raid on Berlin the next night. It did little damage but enraged Hitler.
+
+@@ 53 | 51.50,-0.13 | Britain | europe
+H: One year of war
+P: w:Battle of Britain Day ; s:Ministry of Information 1940 poster ; s:Britain 1940 evacuees
+A: The war was a year old. Poland, Denmark, Norway, the Low Countries and France had fallen; the Baltic states and parts of Romania had been annexed by the USSR. Britain and its empire fought on with no ally but exile governments. The air battle was at its most dangerous in the last days of August, with Fighter Command losing pilots faster than training schools could replace them and sector stations badly damaged. On 30 August Romania was forced by the "Second Vienna Award" to cede northern Transylvania to Hungary. In the Atlantic, U-boats operating from new bases in occupied France were sinking ships at a rate that alarmed the Admiralty. The United States was edging toward Britain but was still neutral.
+
+@@ 54 | 51.51,-0.07 | East End, London | europe
+H: The Blitz begins
+P: f:Air Raid Damage in Britain during the Second World War HU36200.jpg ; w:The Blitz ; s:London Blitz 7 September 1940 docks
+A: On the afternoon of 7 September some 350 German bombers with fighter escort attacked London's docks in the East End. Fires burned through the night and guided more bombers in after dark. About 430 civilians were killed that day. It was the start of 57 consecutive nights of bombing on the capital. The switch from airfields to London gave Fighter Command a reprieve when it needed one, and its airfields and pilots recovered. On 2 September Britain and the United States had announced the destroyers-for-bases deal: 50 old American destroyers in exchange for leases on British bases in the western hemisphere. The invasion alarm was raised in Britain with the code word "Cromwell" the night the Blitz began.
+
+@@ 55 | 50.95,1.86 | Channel ports, France | europe
+H: Invasion barges in the Channel ports
+P: w:Operation Sea Lion ; s:invasion barges Boulogne 1940 RAF
+A: German invasion preparations were visible from the air: hundreds of river barges, tugs and transports had been gathered in ports from Antwerp to Le Havre. RAF Bomber Command attacked them night after night and sank or damaged a significant number. The German army wanted a broad landing across southern England; the navy, which had lost much of its destroyer strength in Norway, insisted it could only protect a narrow crossing and needed air superiority to do even that. The decision date kept slipping. The British prepared beach defences, roadblocks, pillboxes and the Home Guard, and removed signposts. Night raids on London grew heavier, and Londoners took shelter in the Underground.
+
+@@ 56 | 51.50,-0.13 | London skies | europe
+H: Battle of Britain Day
+P: s:Battle of Britain Day 15 September 1940 ; s:Heinkel He 111 over London 1940
+A: On Sunday 15 September the Luftwaffe sent two large daylight raids against London expecting to find Fighter Command finished. Instead Park and Leigh-Mallory met them with most of their squadrons, including 12 Group's "Big Wing". German bomber formations were broken up and scattered. The RAF claimed far more kills than the actual figure of around 60 German aircraft, against about 29 British losses, but the meaning was clear in Berlin. On 17 September Hitler postponed Sea Lion indefinitely. Britain marks 15 September as Battle of Britain Day. Daylight fighting continued into October, but the Luftwaffe was turning to night bombing of cities. On 13 September Italian forces in Libya invaded Egypt.
+
+@@ 57 | 52.52,13.38 | Berlin | europe
+H: Germany, Italy and Japan sign the Tripartite Pact
+P: w:Tripartite Pact ; s:Dreimächtepakt 1940 Berlin Unterzeichnung
+A: On 27 September Germany, Italy and Japan signed the Tripartite Pact in Berlin. Each promised to assist the others if attacked by a power not yet in the war, which in practice meant the United States. The pact recognised German and Italian leadership in Europe and Japan's in East Asia. Japan had just moved troops into northern French Indochina with Vichy's reluctant consent, to cut a supply route to China. Washington responded by banning the export of scrap iron and steel to Japan. In Dakar, a British and Free French attempt to rally French West Africa to de Gaulle ended in failure on 25 September after Vichy forces fired back, a blow to de Gaulle's standing.
+
+@@ 58 | 43.36,-1.79 | Hendaye | europe
+H: Hitler and Franco at Hendaye
+P: w:Meeting at Hendaye ; s:Hitler Franco Hendaye 1940
+A: Hitler hoped to bring Spain into the war and take Gibraltar, closing the western Mediterranean to Britain. Franco's price was high: large amounts of grain, fuel and weapons for a country ruined by its civil war, and much of French North Africa, which Hitler could not give without driving Vichy into the Allied camp. Throughout the autumn Spanish and German officials negotiated. On 4 October Hitler and Mussolini met again at the Brenner. On 23 October Hitler met Franco at Hendaye on the French–Spanish border and came away saying he would rather have teeth pulled than go through it again. Spain stayed out, though it remained friendly to the Axis. The London Blitz continued nightly.
+
+@@ 59 | 51.51,-0.12 | London Underground | europe
+H: Life under the Blitz
+P: w:Use of London Underground stations as air-raid shelters ; s:Aldwych tube shelter Blitz 1940 ; s:London Blitz shelter 1940
+A: By October London had been bombed every night for a month. Hundreds of thousands of people slept in Tube stations, crypts, railway arches and garden Anderson shelters; many more stayed in their beds and took their chances. Fire crews, wardens, rescue squads and nurses worked through every raid. The government at first discouraged use of the Underground and then gave in, adding bunks, toilets and refreshments. Censorship and morale propaganda kept up the image of cheerful defiance, which was partly true and partly not: there was fear, exhaustion, looting and anger at poor shelter provision in working-class districts. Bombing spread to Birmingham, Liverpool, Bristol and other cities.
+
+@@ 60 | 38.90,-77.04 | Washington | usa
+H: America registers for the draft
+P: w:Selective Training and Service Act of 1940 ; s:draft lottery 1940 Stimson
+A: On 16 October some 16 million American men registered for the first peacetime draft in US history under the Selective Training and Service Act. On 29 October Secretary of War Henry Stimson, blindfolded, drew the first number from a fishbowl. Roosevelt was campaigning for an unprecedented third term against Wendell Willkie, and both men promised to keep American boys out of foreign wars. Yet the country was rearming and moving step by step toward Britain. American factories were taking British orders, and British purchasing missions were running out of dollars. In Europe, Hitler met Pétain at Montoire on 24 October and the word "collaboration" entered public use.
+
+@@ 61 | 47.79,0.86 | Montoire-sur-le-Loir | europe
+H: Montoire: Pétain shakes Hitler's hand
+P: w:Montoire meeting ; s:Montoire Pétain Hitler 1940
+A: Hitler spent late October on a tour of Western Europe by train, trying to build a coalition against Britain. At Hendaye Franco gave him nothing definite. At Montoire on 24 October he met Pétain, who agreed in principle to "collaboration" without signing anything specific. The photograph of the two shaking hands was widely published and did great damage to Pétain's reputation over time. Hitler wanted Vichy to defend its African empire against the British and Free French. His travels showed the limits of his position: his would-be allies all had competing interests. Then, on his way back, he learned that Mussolini was about to invade Greece.
+
+@@ 62 | 39.67,20.86 | Epirus, Greece | europe
+H: Italy invades Greece
+P: f:Greek soldiers fighting in the Albanian front.jpg ; w:Greco-Italian War ; s:Greek soldiers 1940 Pindus
+A: Before dawn on 28 October the Italian ambassador in Athens handed Prime Minister Ioannis Metaxas an ultimatum demanding passage for Italian troops. Metaxas refused, a moment Greeks still mark as "Ochi Day". Italian forces from Albania attacked within hours. Mussolini had planned it without telling Hitler, partly to show he too could win quick victories. The invasion began in autumn rain in mountains with poor roads, and the Greek army, mobilised fast, stopped the Italians in the Pindus range. Britain sent RAF squadrons to Greece and occupied Crete, which gave it a base deep in the Mediterranean. Hitler was angry. Mussolini's war had opened the Balkans to the British.
+
+@@ 63 | 40.30,20.60 | Albanian front | europe
+H: Roosevelt re-elected; the Greeks push back
+P: w:1940 United States presidential election ; s:Greek army Albania 1940 winter
+A: On 5 November Roosevelt won a third term with 449 electoral votes, giving him freedom to help Britain more openly. In Greece, the Italian offensive was failing everywhere, and in mid-November the Greek army counterattacked, driving the Italians back into Albania. In occupied Europe the plunder was becoming systematic: France's occupation costs were set at 20 million Reichsmarks a day at an artificial exchange rate, and German agencies were buying, requisitioning and looting art, food and industrial goods. In the Atlantic, the armed merchant cruiser Jervis Bay was sunk on 5 November by the pocket battleship Admiral Scheer while defending her convoy; most of the merchant ships escaped.
+
+@@ 64 | 40.47,17.24 | Taranto | med
+H: Swordfish strike at Taranto
+P: w:Battle of Taranto ; w:Fairey Swordfish ; s:Taranto 1940 aerial reconnaissance
+A: On the night of 11–12 November, 21 Fairey Swordfish biplanes flew from the carrier Illustrious and attacked the Italian battle fleet in its harbour at Taranto. In two waves they torpedoed three battleships, sinking the Conte di Cavour and putting the Littorio and Caio Duilio out of action for months. Two aircraft were lost. In one night the balance of naval power in the Mediterranean shifted to Britain, and the Italian fleet moved north to Naples. Japanese naval officers studied the attack closely; it proved that aircraft could sink battleships in a shallow harbour with torpedoes. In Berlin, Molotov arrived for talks on 12 November.
+
+@@ 65 | 52.52,13.38 | Berlin | europe
+H: Molotov in Berlin
+P: w:German–Soviet Axis talks ; s:Molotov Berlin November 1940
+A: Molotov's visit to Berlin on 12–13 November was supposed to explore Soviet membership of the Tripartite Pact. Hitler and Ribbentrop offered the USSR a vague sphere toward India and the Persian Gulf. Molotov asked precise questions about Finland, Romania, Bulgaria and the Turkish straits, areas where German and Soviet interests collided. During a British air raid the talks moved to a shelter, where Ribbentrop insisted Britain was finished; Molotov reportedly asked why, then, they were in a shelter. Stalin later sent written conditions that Hitler never answered. Hungary, Romania and Slovakia joined the Tripartite Pact in late November. Coventry was devastated by bombing on 14 November.
+
+@@ 66 | 48.86,2.33 | Occupied Paris | europe
+H: The occupation of France settles in
+P: w:German occupation of France during World War II ; w:Einsatzstab Reichsleiter Rosenberg ; s:Paris 1940 German soldiers café
+A: Five months in, occupied France had a routine: German clocks, German road signs, a curfew, and a demarcation line between the zones that needed a pass to cross. Food was rationed and getting scarcer. The Einsatzstab Reichsleiter Rosenberg was seizing art collections owned by Jews, with the Jeu de Paume museum used as a sorting depot. Vichy had already passed its own anti-Jewish statute in October, excluding Jews from public service and the professions without being asked. On 11 November students in Paris demonstrated at the Arc de Triomphe and were dispersed with arrests and shots. Resistance was still small and scattered, mostly leaflets and listening to the BBC.
+
+@@ 67 | 52.52,13.38 | OKH, Berlin | europe
+H: Planning the road to Moscow
+P: w:Operation Barbarossa ; w:Franz Halder ; s:Halder Brauchitsch 1940
+A: Through late autumn the German army staff worked on plans for invading the Soviet Union. General Marcks and General Paulus drafted and war-gamed variants; the army chief of staff Franz Halder favoured a main thrust on Moscow. On 5 December Halder briefed Hitler, who agreed in principle but wanted the Baltic and Ukraine taken as well, priorities that would never be fully settled. The planners assumed the Red Army would be destroyed near the border within weeks and that logistics would then be manageable. They seriously underestimated Soviet reserves. In Greece the Italians were in retreat; Pogradec and Gjirokastër fell to the Greeks in early December.
+
+@@ 68 | 31.62,25.93 | Sidi Barrani | africa
+H: Operation Compass routs the Italians
+P: w:Operation Compass ; s:Italian prisoners Sidi Barrani 1940 ; s:Western Desert Force 1940 Matilda tank
+A: On 9 December the British Western Desert Force under Richard O'Connor, about 36,000 men, attacked an Italian army several times its size that had dug in around Sidi Barrani in western Egypt. Planned as a five-day raid, it became a rout. Indian and British infantry with Matilda tanks overran the Italian fortified camps one after another, and some 38,000 prisoners were taken in the first days. The Italians fell back into Libya. In London the news came as a huge boost after months of bad news, and O'Connor was ordered to press on toward Bardia. In Washington, Roosevelt was considering how to keep supplies flowing to Britain once its dollars ran out.
+
+@@ 69 | 52.52,13.38 | Berlin | europe
+H: Directive 21: Barbarossa
+P: w:Directive 21 ; s:Bundesarchiv Führerhauptquartier 1940
+A: On 18 December Hitler signed Directive 21, Operation Barbarossa: "The German Armed Forces must be prepared, even before the conclusion of the war against England, to crush Soviet Russia in a rapid campaign." Preparations were to be complete by 15 May 1941. Finland and Romania were expected to take part. The name came from Frederick Barbarossa, the medieval emperor said to sleep beneath a mountain until Germany needed him. On 17 December Roosevelt, at a press conference, compared aid to Britain to lending a neighbour a garden hose to put out a fire, the idea that became Lend-Lease. In Libya, O'Connor's troops had surrounded the Italian fortress of Bardia.
+
+@@ 70 | 51.50,-0.13 | Britain | europe
+H: A cold Christmas, a long war
+P: w:Second Great Fire of London ; s:St Paul's Cathedral survives Blitz 1940 ; s:London December 1940 fire
+A: The year closed with fronts frozen in place. In Albania, Greek and Italian troops fought in snow at high altitude; in Libya, O'Connor's forces prepared to storm Bardia. On 29 December Roosevelt gave a fireside chat calling the United States the "great arsenal of democracy". That night the Luftwaffe dropped incendiaries on the City of London, starting the "Second Great Fire". St Paul's Cathedral survived, and a photograph of its dome rising through the smoke became one of the defining images of the war. Britain had survived 1940. It had not won anything decisive, and the Germans controlled Europe from the North Cape to the Pyrenees.

@@ -1,0 +1,7 @@
+# Commons files never to use (shock imagery or wrong subject). One title per line.
+File:American Embassy in Warsaw 1939 (cropped).jpg
+File:American Embassy in Warsaw 1939.jpg
+File:PL languages 1931.png
+File:Bitwa kock 1939 1.png
+File:Памятник Тимошенко С.К. в Фурмановке.JPG
+File:Formation of No.19 Squadron RAF Supermarine Spitfire Mk.Is in 1938 over Cambridgeshire.jpg

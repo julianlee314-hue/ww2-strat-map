@@ -1,0 +1,114 @@
+@@ 20 | 60.70,28.75 | Karelian Isthmus | europe
+H: Timoshenko takes over in Finland
+P: w:Semyon Timoshenko ; s:Winter War Red Army artillery 1940
+A: After a month of failure Stalin reorganised the Finnish front. Semyon Timoshenko took command of a new North-Western Front on 7 January with orders to break the Mannerheim Line properly. The Red Army paused major attacks, brought up heavy artillery and fresh divisions, and trained infantry to work with tanks and engineers against bunkers. Soviet bombers kept striking Finnish towns. Finland used the lull to rest troops but had no reserves worth the name and was running short of shells. Britain and France talked about sending an expedition to help Finland through northern Norway and Sweden, which would conveniently also cut Germany off from Swedish iron ore. Oslo and Stockholm, determined to stay neutral, made clear they would not allow it.
+
+@@ 21 | 66.00,24.00 | Swedish–Finnish border | europe
+H: Swedish volunteers, not Swedish troops
+P: w:Swedish Volunteer Corps (Winter War) ; s:Swedish volunteers Finland 1940
+A: Sweden refused to join the war but did a great deal short of it. About 8,000 Swedish volunteers formed a corps that took over a sector of the front at Salla in Finnish Lapland, freeing Finnish units for the south. Sweden also sent aircraft, artillery, ammunition and money, and its pilots flew with the volunteer F 19 wing. Volunteers from Norway, Denmark, Hungary and elsewhere arrived in smaller numbers. Stockholm's priority was to avoid giving either Moscow or Berlin a reason to invade, and to keep the Allies off its soil. In the Gulf of Finland the ice froze hard enough for troops to cross, widening the front the Finns had to watch. Soviet bombers hit Finnish cities repeatedly through January.
+
+@@ 22 | 52.52,13.40 | Berlin | europe
+H: Germany's war economy under strain
+P: w:Four Year Plan ; w:Fritz Todt ; s:Bundesarchiv Rüstungsindustrie 1940
+A: Germany had gone to war years earlier than its own planners wanted. Its economy was large but short of oil, rubber, copper and foreign currency, and the British blockade cut off most overseas trade. The regime leaned on the Soviet Union, which under a February 1940 trade agreement shipped grain, oil and metals in exchange for machinery and weapons technology, and on Swedish iron ore shipped through Narvik in winter. Göring's Four Year Plan office and the military competed for control of armaments. In March, Fritz Todt was made minister of armaments and munitions to bring some order. Rationing at home was already in force. The picture Allied planners drew was of a Germany that might be strangled slowly. It was too optimistic: Germany was about to gain the resources of half of Europe.
+
+@@ 23 | 61.10,28.85 | Summa, Karelian Isthmus | europe
+H: The Soviet hammer falls on Summa
+P: w:Battle of Summa ; s:Winter War Summa bunker
+A: From the start of February the Red Army opened a sustained bombardment along the Mannerheim Line, firing hundreds of thousands of shells a day at selected sectors. On 1 February the main assault began, aimed especially at the Summa sector on the road to Viipuri. Infantry now advanced behind tanks, sledges carried armoured shields, and engineers blew bunkers with demolition charges. The Finns held for ten days of near-continuous fighting while their positions were smashed and their men worn down by lack of sleep. Mannerheim asked repeatedly for foreign troops; very few arrived. In London and Paris the plan for a Scandinavian expedition grew more concrete, though it still depended on Norwegian and Swedish permission that would never be given.
+
+@@ 24 | 29.56,106.55 | Chongqing | china
+H: Stalemate in China, bombs over Finland
+P: w:Bombing of Chongqing ; w:Second Sino-Japanese War ; s:Chongqing 1940 air raid
+A: In China the fighting had reached a grim balance. Japan's 1939–40 winter battles in Guangxi and along the Yangtze gained ground but could not finish Chiang Kai-shek's government, which had moved inland to Chongqing. Japanese bombers struck the city repeatedly in a campaign that killed thousands of civilians and would intensify through 1940. Communist forces under Mao Zedong held base areas in the north and fought a guerrilla war against Japan while also competing with the Nationalists for control. In Finland, Soviet bombers raided Helsinki, Viipuri, Turku and smaller towns, but the Finnish civilian death toll stayed relatively low thanks to shelters and dispersal. The main danger to Finland lay on the Karelian Isthmus, where the Mannerheim Line was beginning to crack.
+
+@@ 25 | 60.71,28.75 | Viipuri | europe
+H: The Mannerheim Line is broken
+P: w:Viipuri ; s:Winter War Viipuri 1940
+A: On 11 February Soviet troops broke through at Lähde, near Summa, the decisive breach of the main Finnish defensive line. Mannerheim ordered a withdrawal to the intermediate and then rear lines closer to Viipuri, Finland's second city. The retreat was carried out in reasonable order, but the men were exhausted and shells were rationed. Finland's government, led by Risto Ryti with foreign minister Väinö Tanner, began exploring peace terms through Sweden. Stockholm told Helsinki plainly that Swedish troops would not come and that Finland should settle. The Allies, meanwhile, promised an expeditionary force of tens of thousands if Finland formally asked for it, an offer that Finnish leaders suspected was more about Narvik than about them.
+
+@@ 26 | 50.94,6.96 | OKH / Western Front | europe
+H: Manstein's plan reaches Hitler
+P: w:Erich von Manstein ; w:Manstein Plan ; s:Bundesarchiv Erich von Manstein
+A: German plans for invading the West had originally been a cautious rerun of 1914: a sweep through central Belgium. After a German plane carrying parts of the plan crash-landed at Mechelen in January, the army looked again. Erich von Manstein, chief of staff of Army Group A, had argued for months that the main blow should come through the wooded Ardennes, cross the Meuse at Sedan, and race to the Channel, cutting off the Allied armies that would move into Belgium. His superiors found him tiresome and posted him to a corps command. On 17 February, over lunch, he got to explain the idea to Hitler directly. Hitler, who had been groping toward something similar, embraced it. In the Altmark incident the day before, British sailors had boarded a German supply ship in Norwegian waters and freed 299 prisoners.
+
+@@ 27 | 50.74,7.10 | Western Front | europe
+H: Fall Gelb takes its final shape
+P: w:Battle of France ; s:Bundesarchiv Westfeldzug 1940 Vorbereitung
+A: On 24 February the German army issued the revised directive for Fall Gelb, Case Yellow, built around Manstein's idea. Army Group B in the north would invade the Netherlands and Belgium loudly enough to draw the Allies forward. Army Group A, with most of the panzer divisions, would push through Luxembourg and the Ardennes, cross the Meuse and drive for the sea. Army Group C would hold the Maginot Line. Many generals thought the Ardennes too risky for tanks. In Allied headquarters the Dyle Plan stood: the best French armies and the British Expeditionary Force would move into Belgium the moment it was attacked. Each side's plan, in other words, fitted the other's almost perfectly, to Germany's advantage. In the north, Finland asked Moscow for terms.
+
+@@ 28 | 60.71,28.75 | Viipuri Bay | europe
+H: Finland's last stand at Viipuri
+P: w:Battle of Viipuri Bay (1940) ; s:Winter War soldiers March 1940
+A: In early March the Red Army attacked across the frozen Bay of Viipuri to outflank the city from the west, landing troops on the far shore. Finnish defenders, now with almost no reserves, held on by improvisation. Peace negotiations began in Moscow on 7 March, with Ryti leading the Finnish delegation. The Soviet terms were harsher than in autumn: all of the Karelian Isthmus including Viipuri, the shores of Lake Ladoga, a lease on Hanko, and territory in the north. Mannerheim told the government the army could not hold much longer. The Allies pressed Finland to keep fighting and ask for their expedition, which would not have arrived for weeks. Finland chose to negotiate.
+
+@@ 29 | 55.75,37.62 | Moscow | europe
+H: The Winter War ends
+P: w:Moscow Peace Treaty ; s:Winter War end 1940 Finland
+A: The Moscow Peace Treaty was signed on 12 March and the guns stopped at 11 a.m. the next day. Finland kept its independence but lost about 11 percent of its territory, including Viipuri. More than 400,000 Karelians, around a tenth of the population, chose to leave their homes rather than live under Soviet rule. Finland had lost about 25,000 dead. Soviet losses were far higher, at least 125,000 dead by later estimates. The Red Army had won, but its performance convinced foreign observers, Hitler included, that it was weak. In Paris, the failure to help Finland brought down Édouard Daladier's government; Paul Reynaud became prime minister on 21 March, promising a more aggressive war.
+
+@@ 30 | 47.00,11.51 | Brenner Pass | europe
+H: Hitler and Mussolini meet at the Brenner
+P: w:Pact of Steel ; s:Hitler Mussolini Brenner 1940
+A: On 18 March Hitler and Mussolini met in a railway carriage at the Brenner Pass on the Austro-Italian border. Italy had declared "non-belligerence" in September 1939; its army was poorly equipped after wars in Ethiopia and Spain, and Mussolini had told Hitler Italy could not fight before 1942 or 1943. Now Hitler told him an offensive in the West was coming and invited Italy to join once it was clear how things were going. Mussolini, eager not to be left out of a German victory, promised he would enter the war at the right moment. In Britain, rationing of meat began, and the government planned how to stop Swedish iron ore reaching Germany along the Norwegian coast.
+
+@@ 31 | 48.86,2.35 | Paris / London | europe
+H: The Allies plan to mine Norway's waters
+P: w:Operation Wilfred ; w:Plan R 4 ; s:Supreme War Council 1940
+A: At the Supreme War Council on 28 March Britain and France agreed to lay mines in Norwegian territorial waters to force German ore ships out to sea, where the Royal Navy could stop them. The plan, Operation Wilfred, was to be followed by landings at Narvik, Trondheim, Bergen and Stavanger if Germany reacted. The council also agreed that neither country would make a separate peace. French proposals to bomb Soviet oil fields in the Caucasus, which supplied Germany, were discussed and shelved. Allied planners assumed they had the initiative. In Berlin, German planning for an invasion of Denmark and Norway, Weserübung, was already complete and troopships were being loaded.
+
+@@ 32 | 68.44,17.43 | Narvik | europe
+H: Two fleets head north
+P: w:Operation Weserübung ; s:Kriegsmarine 1940 Norwegen Zerstörer
+A: In the first week of April both sides were moving toward Norway. German supply ships disguised as merchantmen sailed for Norwegian ports from 3 April, and warships carrying troops left German harbours on the 6th and 7th. RAF reconnaissance spotted heavy German units moving north on 7 April, but the Admiralty assumed it was a breakout into the Atlantic and moved the Home Fleet to block that instead. British destroyers began laying Wilfred mines off Narvik on the morning of 8 April. That same day the destroyer Glowworm ran into the cruiser Admiral Hipper and rammed her before sinking. The Polish submarine Orzeł sank the German transport Rio de Janeiro off southern Norway; survivors told Norwegian rescuers they were going to Bergen.
+
+@@ 33 | 59.91,10.75 | Oslo | europe
+H: Germany seizes Denmark and invades Norway
+P: f:The German Invasion of Norway, 1940 N229.jpg ; w:Norwegian campaign ; w:German invasion of Denmark (1940)
+A: Before dawn on 9 April German forces occupied Denmark, which surrendered within hours, and landed in Norway at Oslo, Kristiansand, Bergen, Trondheim and Narvik. In the Oslofjord, the old guns and torpedoes of Oscarsborg fortress sank the new heavy cruiser Blücher, carrying troops and officials meant to take the capital. The delay let King Haakon VII, the government and the gold reserve escape north. Vidkun Quisling announced himself prime minister on the radio; the king refused to accept him. On 10 April and again on 13 April British destroyers attacked at Narvik and destroyed all ten German destroyers there. Norway had been caught by surprise, but it was fighting.
+
+@@ 34 | 63.43,10.39 | Trondheim region | europe
+H: The scramble for Norway
+P: w:Namsos campaign ; w:Åndalsnes landings ; s:British troops Norway 1940
+A: Britain and France now improvised the landings they had planned. British troops went ashore at Harstad near Narvik from 14 April, and at Namsos and Åndalsnes to either side of Trondheim from 16 to 18 April, intending a pincer on the city. They were short of artillery, anti-aircraft guns, transport and maps, some units had their equipment loaded on the wrong ships, and German aircraft operating from captured airfields controlled the sky. Norwegian troops fought delaying actions in the valleys north of Oslo. German paratroopers dropped at Dombås were rounded up by Norwegians after several days. Neutral Sweden came under German pressure to allow transit of supplies and held out for now.
+
+@@ 35 | 61.60,9.75 | Gudbrandsdal | europe
+H: Norway burns
+P: w:Battle of Kvam ; s:Norway 1940 burning town Namsos
+A: German columns pushed north from Oslo up the Gudbrandsdal and Østerdal valleys toward Trondheim, pushing Norwegian and newly arrived British troops back in a string of rearguard fights such as Kvam. The Luftwaffe bombed the small towns used as Allied ports, and Namsos, Åndalsnes, Molde and others were largely burned. British commanders reported that without air cover the positions south of Trondheim could not be held. In London the War Cabinet decided on 26–27 April to withdraw from central Norway and concentrate on Narvik. The campaign's handling, much of it directed by Churchill at the Admiralty, was becoming a political problem for Chamberlain.
+
+@@ 36 | 62.57,7.69 | Åndalsnes | europe
+H: Retreat from central Norway
+P: w:Norwegian campaign ; s:Åndalsnes 1940 evacuation
+A: Between 30 April and 3 May the Royal Navy evacuated Allied troops from Åndalsnes and Namsos. The Norwegian forces in the south, left behind, began to surrender. King Haakon and his government went north to Tromsø. Around Narvik, British, French, Polish and Norwegian troops continued to press the German mountain troops under General Dietl. In London the failure prompted the Norway Debate in the House of Commons on 7–8 May. The Conservative Leo Amery quoted Cromwell at Chamberlain: "In the name of God, go." The government won the vote but its majority fell from over 200 to 81. Across the Channel, German forces were massing on the borders of the Netherlands, Belgium and Luxembourg.
+
+@@ 37 | 50.95,5.70 | Eben-Emael / Maastricht | europe
+H: Germany strikes in the West; Churchill takes over
+P: w:Battle of the Netherlands ; w:Fort Eben-Emael ; w:Winston Churchill ; s:Rotterdam Blitz 1940
+A: At dawn on 10 May Germany invaded the Netherlands, Belgium and Luxembourg. Glider-borne troops landed on top of Belgium's modern fort at Eben-Emael and disabled it within hours; paratroopers seized bridges around Rotterdam and Moerdijk. As planned, British and French armies drove into Belgium to meet the attack. The same evening Chamberlain resigned and King George VI asked Winston Churchill to form a coalition government. Churchill told the Commons on 13 May he had nothing to offer but blood, toil, tears and sweat. Meanwhile, largely unseen by Allied air reconnaissance, German armoured columns were crawling through the Ardennes toward the Meuse.
+
+@@ 38 | 49.70,4.94 | Sedan | europe
+H: The breakthrough at Sedan
+P: w:Battle of Sedan (1940) ; w:Bombing of Rotterdam ; s:Bundesarchiv Maas 1940 Übergang
+A: On 13 May German infantry crossed the Meuse at Sedan under a massive Luftwaffe bombardment that broke the nerve of second-rate French reserve divisions. Guderian's panzers were across the next day; Allied bombers attacking the bridges were shot down in large numbers. Further north Rommel's division crossed at Dinant. On 14 May the Luftwaffe bombed central Rotterdam, killing around 900 people, and the Netherlands surrendered the next day. On 15 May Reynaud telephoned Churchill: "We are beaten; we have lost the battle." Churchill flew to Paris the next day and found officials burning files. German armour was now racing west across open country behind the Allied armies in Belgium.
+
+@@ 39 | 50.10,1.83 | Abbeville | europe
+H: The panzers reach the Channel
+P: w:Battle of Arras (1940) ; w:Maxime Weygand ; s:Bundesarchiv Frankreich Mai 1940 Panzer
+A: On 20 May German armour reached Abbeville at the mouth of the Somme, cutting the Allied armies in the north off from France. The French commander-in-chief, Gamelin, was sacked and replaced by the 73-year-old Maxime Weygand. A British counterattack at Arras on 21 May, with a few dozen tanks, shook Rommel's division badly and made German commanders nervous about their flanks, but it was too small to change anything. Weygand's plan to cut the panzer corridor from north and south never came together. Boulogne fell; Calais was ordered to hold to the end. On 24 May Hitler confirmed a halt order that stopped the panzers short of Dunkirk for three days. The British began planning to evacuate.
+
+@@ 40 | 51.03,2.37 | Dunkirk | europe
+H: Evacuation from Dunkirk
+P: f:Dunkirk 1940 TR1539.jpg ; w:Dunkirk evacuation ; s:Dunkirk evacuation 1940 IWM
+A: Operation Dynamo began on 26 May. Belgium's King Leopold III surrendered his army on 28 May, exposing the British flank. Over nine days, destroyers, ferries, minesweepers and hundreds of small civilian craft lifted about 338,000 British and French troops from the harbour mole and the beaches at Dunkirk, while French rearguards held the perimeter and the RAF fought over it at a distance. The army left behind almost all its tanks, guns and vehicles. Britain lost six destroyers and the French navy three. In London the War Cabinet argued over whether to explore peace terms through Mussolini; Churchill prevailed against Halifax. The evacuation was a deliverance and a defeat at the same time. Churchill said as much.
+
+@@ 41 | 49.90,2.30 | The Somme | europe
+H: Britain will fight on; France fights on the Somme
+P: w:Fall Rot ; w:We shall fight on the beaches ; s:French soldiers June 1940 Somme
+A: Dunkirk ended on 4 June with the last French troops taken off and some 40,000 left to surrender. That afternoon Churchill told the Commons "we shall fight on the beaches", a speech aimed as much at the United States as at Germany. On 5 June Germany launched Fall Rot, the second phase, against the French line along the Somme and Aisne. French divisions fought much harder than in May, using "hedgehog" defences in villages, but they were outnumbered and had no reserves. Norway's last fighting ended as the Allies evacuated Narvik, which they had captured on 28 May, and King Haakon left for London on 7 June.
+
+@@ 42 | 48.86,2.35 | Paris | europe
+H: Italy enters the war; Paris falls
+P: f:Bundesarchiv Bild 146-1994-055-36, Paris, Deutsche Truppen.jpg ; w:Italian invasion of France ; s:Germans Paris June 1940 Arc de Triomphe
+A: On 10 June, with France plainly beaten, Mussolini declared war on France and Britain. Roosevelt called it a stab in the back. The French government left Paris for Tours and then Bordeaux. Paris was declared an open city and German troops entered it unopposed on 14 June; a swastika flag went up on the Eiffel Tower. Verdun fell on the 15th. Reynaud wanted to fight on from North Africa; much of his cabinet, led by Marshal Pétain and Weygand, wanted an armistice. Churchill offered an "Anglo-French Union" with common citizenship, a measure of desperation. Reynaud resigned on 16 June, and Pétain formed a government to ask for terms.

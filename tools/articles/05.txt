@@ -1,0 +1,104 @@
+@@ 93 | 35.20,24.15 | Sphakia, Crete | med
+H: Left behind on Crete
+P: w:Battle of Crete ; s:Crete 1941 evacuation Sphakia ; s:Crete 1941 British prisoners
+A: The evacuation of Crete ended on 1 June. About 16,000 British, Australian and New Zealand troops were lifted from the small south-coast port of Sphakia and from Heraklion, at a heavy cost in warships to German bombing. Roughly 12,000 were left behind and became prisoners; some escaped into the mountains, helped by Cretans who paid heavily in reprisals. Accounts of officers being taken off while their men waited on the beach caused bitterness that lasted for decades. German paratroop losses had been so severe that Hitler never again used them in a large airborne operation. In Iraq, Rashid Ali's regime collapsed; in Baghdad on 1–2 June, the Farhud pogrom killed some 180 Jews.
+
+@@ 94 | 60.17,24.94 | Helsinki / Damascus | europe
+H: Finland drifts toward Germany; Syria invaded
+P: w:Syria–Lebanon campaign ; s:Free French Syria 1941 ; s:Finnish army June 1941
+A: Finland, still smarting from the Winter War, had been drawn into Barbarossa planning. German troops were already in Finnish Lapland, and in early June Finnish officers coordinated mobilisation dates with Berlin, though Helsinki would insist it fought a separate "Continuation War". On 8 June British, Australian, Indian and Free French forces invaded Vichy-held Syria and Lebanon, after Vichy had allowed German aircraft to use Syrian airfields during the Iraq revolt. Vichy troops fought hard. Free French soldiers were now fighting French soldiers loyal to Pétain. In Libya, Wavell prepared Operation Battleaxe to relieve Tobruk, using tanks rushed across the Mediterranean.
+
+@@ 95 | 33.51,36.29 | Damascus | mideast
+H: French against French in Syria
+P: w:Battle of Damascus (1941) ; w:Operation Battleaxe ; s:Australian troops Syria 1941
+A: In Syria and Lebanon the fighting was bitter. Australian troops advancing up the coast met determined Vichy resistance at the Litani River and Damour; Free French and Indian troops fought toward Damascus, which fell on 21 June. In Libya, Operation Battleaxe, launched on 15 June, failed within three days: British tanks charged into German anti-tank screens, including the 88mm guns at Halfaya Pass, and lost heavily. Churchill replaced Wavell with Claude Auchinleck. Along the Soviet border, German, Romanian and Finnish forces had completed their deployment; Soviet intelligence and foreign governments had warned Stalin repeatedly. He dismissed the warnings as provocation.
+
+@@ 96a | 52.09,23.69 | Brest-Litovsk | east
+H: Operation Barbarossa begins
+P: f:Bundesarchiv Bild 101I-210-0136-02A, Russland-Süd, Panzer III.jpg ; w:Operation Barbarossa ; s:Barbarossa 22 June 1941 Bundesarchiv
+A: At about 3:15 a.m. on 22 June more than three million German troops, with Romanian and later Finnish, Hungarian, Slovak and Italian forces, attacked the Soviet Union along a front from the Baltic to the Black Sea. It was the largest invasion in history. The Luftwaffe destroyed well over a thousand Soviet aircraft on the ground on the first day. Soviet forward units, which had been ordered not to provoke the Germans, were overrun; communications collapsed. The garrison of the fortress at Brest held out for weeks behind the front. Molotov, not Stalin, broadcast the news to the Soviet people at noon. That night Churchill pledged British help to the USSR.
+
+@@ 96b | 53.90,27.57 | Minsk | east
+H: The first great encirclements
+P: w:Battle of Białystok–Minsk ; s:Barbarossa 1941 Soviet prisoners column
+A: Within a week German armoured groups had driven deep into Soviet territory. In the centre, Guderian's and Hoth's panzer groups closed a vast pocket around Białystok and Minsk; Minsk fell on 28 June, and over 300,000 Soviet soldiers would be captured. In the north, German troops reached Riga and the Dvina. In Ukraine, Soviet mechanised corps counterattacked around Dubno and Brody in one of the largest tank battles of the war, slowing Army Group South at enormous cost. Hungary and Slovakia declared war on the USSR; Finland joined on 25–26 June. In the occupied areas, SS Einsatzgruppen began mass shootings of Jews, communists and others behind the front.
+
+@@ 97 | 54.78,32.05 | Smolensk approaches | east
+H: A third of the way to Moscow
+P: w:Battle of Smolensk (1941) ; s:Bundesarchiv Russland 1941 Panzer Vormarsch Straße
+A: By early July Army Group Centre had crossed the Berezina and was approaching the Dnieper and Smolensk, some 600 kilometres from the border and 400 from Moscow. On 3 July Stalin finally spoke to the Soviet people by radio, addressing them as "brothers and sisters" and calling for a scorched-earth retreat and partisan war. The State Defence Committee had been created under his chairmanship. Factories in the west were being dismantled and shipped east by rail, an evacuation that would eventually move some 1,500 enterprises to the Urals and Siberia. German commanders were triumphant. Halder wrote in his diary that the campaign had probably been won in fourteen days.
+
+@@ 98 | 54.78,32.05 | Smolensk | east
+H: Has Germany already lost?
+P: w:Battle of Smolensk (1941) ; s:Red Army 1941 counterattack Smolensk
+A: The victories were huge, but so were the problems. German infantry divisions marched on foot behind the panzers and fell far behind; most supplies moved by horse-drawn cart on dirt roads; Soviet railways used a different gauge and had to be converted. Tank strength in the panzer divisions was dropping fast from breakdowns and losses. Soviet resistance, while chaotic, did not collapse: new armies appeared faster than German intelligence expected, and they counterattacked. At Smolensk, the encirclement battle that began around 10 July would take weeks. Some German officers privately began to wonder whether this would be a quick campaign after all. In London, Britain and the USSR signed a mutual assistance agreement on 12 July.
+
+@@ 99 | 54.78,32.05 | Smolensk | east
+H: Barbarossa loses its shape
+P: w:Yelnya offensive ; s:Wehrmacht Smolensk 1941
+A: German troops took most of Smolensk on 16 July, but closing the pocket east of the city proved slow and costly, and large numbers of Soviet troops broke out. Hitler and the army leadership argued over what to do next. Hitler's Directive 33 of 19 July shifted panzer forces away from Moscow toward Leningrad in the north and Ukraine in the south, while Halder and the army group commanders wanted to keep driving for the capital. The argument would run for weeks while the panzer groups halted to refit. Japan, meanwhile, decided to move into southern Indochina. In the Baltic, German forces were closing on Estonia.
+
+@@ 100 | 53.00,31.00 | Central front | east
+H: An army that marched on foot
+P: w:Horses in World War II ; s:Bundesarchiv Russland 1941 Pferde Wehrmacht
+A: Behind the panzer spearheads the Wehrmacht of 1941 looked much like the army of 1914. It used around 600,000 horses in the invasion of the USSR, pulling artillery, supply wagons and field kitchens. Most of its infantry walked, often 30 to 40 kilometres a day in summer heat and dust. Motor vehicles were a mixture of German and captured French, British and Czech types, which made spare parts a nightmare. The dirt roads of the western USSR turned into dust clouds in summer and mud in rain. The Soviets were in a similar position, but they were falling back toward their supplies while the Germans moved away from theirs. Soviet aircraft bombed Moscow's attackers; Moscow itself was bombed for the first time on 21–22 July.
+
+@@ 101 | 10.82,106.63 | Saigon | asia
+H: Japan moves south; Barbarossa argues with itself
+P: w:Japanese invasion of French Indochina ; s:Japanese troops Saigon 1941
+A: On 24 July Vichy France agreed to let Japan station troops in southern Indochina, and they moved in over the following days, putting Japanese bombers within range of Malaya, Singapore and the Dutch East Indies. On 26 July Roosevelt froze Japanese assets in the United States; Britain and the Netherlands followed. On 1 August Washington stopped oil exports to Japan, which imported most of its oil from America. Tokyo's leaders now faced a choice between backing down in China or seizing the oil of the East Indies. In the USSR, the Smolensk pocket was finally mopped up, and German commanders still argued over Moscow.
+
+@@ 102 | 49.00,30.50 | Uman, Ukraine | east
+H: Hitler turns the panzers south
+P: w:Battle of Uman ; s:Bundesarchiv Panzer Ukraine 1941
+A: In early August Army Group South closed a pocket around Uman in central Ukraine, capturing over 100,000 Soviet troops. Further north, Guderian's panzer group fought off Soviet counterattacks around Roslavl and Yelnya. Hitler's decision was becoming clear: he wanted the industrial and agricultural wealth of Ukraine and the Donbas, and the Soviet armies around Kiev, before Moscow. Guderian flew to the Wolf's Lair on 23 August to argue for Moscow and came away agreeing to lead his panzers south. Soviet production was meanwhile being relocated eastward; the Germans had underestimated how many tanks the USSR could build, and how fast it could replace lost armies.
+
+@@ 103 | 47.70,-53.95 | Placentia Bay, Newfoundland | atlantic
+H: The Atlantic Charter
+P: w:Atlantic Charter ; s:Churchill Roosevelt Prince of Wales 1941 church service
+A: Churchill and Roosevelt met for the first time as leaders aboard warships in Placentia Bay, Newfoundland, from 9 to 12 August. They issued a joint statement, the Atlantic Charter, setting out shared aims: no territorial gains, self-determination for peoples, freer trade, and a peace that would let all nations live in safety after "the final destruction of the Nazi tyranny". The United States was not at war, but its president had just signed a declaration of war aims with a belligerent. The phrase on self-determination would be quoted back at Britain for years by colonial nationalists. On Sunday 10 August the two leaders attended a church service on the deck of HMS Prince of Wales.
+
+@@ 104 | 52.10,23.70 | Prisoner of war camps, East | east | sober
+H: The fate of Soviet prisoners
+P: f:Bundesarchiv Bild 183-B21845, Russland, Kriegsgefangene Rotarmisten.jpg ; w:German mistreatment of Soviet prisoners of war ; s:Soviet prisoners of war 1941 column
+A: In August 1941 Stalin issued Order No. 270, which declared Red Army soldiers who surrendered to be traitors and allowed the families of captured officers to be arrested. Millions were being captured. On the German side, Soviet prisoners were held in open-air enclosures with little or no food, shelter or medical care, and the regime deliberately excluded them from the protection given to Western prisoners. By the spring of 1942 around two million of them had died, and the total by 1945 was about three million, more than half of all those taken. Political commissars and Jewish prisoners were singled out and shot under the "Commissar Order". It was one of the largest crimes of the war and received relatively little attention afterwards.
+
+@@ 105 | 32.65,51.67 | Iran | mideast
+H: Britain and the USSR invade Iran
+P: w:Anglo-Soviet invasion of Iran ; s:Soviet British troops Iran 1941
+A: On 25 August British and Soviet forces invaded Iran from the south and north. They wanted to secure its oil fields and the Abadan refinery, expel German agents, and open a supply route to the USSR through the Persian Gulf. The Iranian army resisted for a few days. Reza Shah, who had been friendly with Germany, abdicated in favour of his son Mohammad Reza Pahlavi on 16 September. The Persian Corridor would carry a large share of Lend-Lease supplies to the Soviets. In Ukraine, Guderian's panzers turned south behind the Soviet armies defending Kiev, while Army Group North approached Leningrad.
+
+@@ 106 | 59.93,30.31 | Leningrad | east
+H: Two years of war; Leningrad is cut off
+P: f:RIA Novosti archive, image #60479 (cropped).jpg ; w:Siege of Leningrad ; s:Leningrad 1941 anti-aircraft
+A: The war was two years old. Germany ruled continental Europe and its armies were deep in the Soviet Union. On 30 August German troops reached Mga, cutting the last railway linking Leningrad to the rest of the country, and on 8 September they took Shlisselburg on Lake Ladoga, completing the land blockade of the city. Finland's army had advanced to near the old 1939 border north of the city but would not attack it. About 2.5 million civilians were trapped. Hitler ordered that Leningrad be starved rather than stormed. The siege would last 872 days. In Britain, the convoy routes to Arkhangelsk began: the first Arctic convoy, "Dervish", arrived on 31 August.
+
+@@ 107 | 54.60,33.20 | Yelnya | east
+H: The Red Army retakes Yelnya
+P: w:Yelnya offensive ; s:Red Army 1941 Yelnya
+A: On 6 September Soviet troops under Zhukov retook the salient around Yelnya, east of Smolensk, which the Germans had held since July. It was the first time in the war that the Red Army had forced the Wehrmacht to give up ground in a planned operation, and Soviet propaganda made the most of it. Several rifle divisions were awarded the new title of "Guards". The victory came at heavy cost and was small next to the disaster forming in Ukraine, where Guderian's panzers from the north and Kleist's from the south were closing around Kiev. Stalin refused to allow the Kiev armies to withdraw.
+
+@@ 108 | 50.45,30.52 | Kiev | east
+H: The Kiev pocket
+P: w:Battle of Kiev (1941) ; s:Bundesarchiv Kiew 1941
+A: On 14–15 September Guderian's and Kleist's panzer groups met near Lokhvytsia, 200 kilometres east of Kiev, closing the largest encirclement in military history. Stalin had refused repeated requests to withdraw; the commander of the South-Western Front, Kirponos, was killed trying to break out. Kiev fell on 19 September. The Germans claimed over 600,000 prisoners. It was a catastrophic Soviet defeat. It had also cost the Germans weeks of time, and the panzers now had to turn north again to strike at Moscow before the autumn rains. In the north, Zhukov had been sent to Leningrad to stiffen its defence, which he did with threats as much as tactics.
+
+@@ 109 | 59.40,24.00 | Estonia / Ukraine | east
+H: Partisans and the promise of liberation
+P: w:Soviet partisans ; s:Soviet partisans 1941
+A: Some people in the Baltic states and western Ukraine, who had suffered Soviet deportations only months earlier, greeted the Germans as liberators. Ukrainian nationalists proclaimed an independent state in Lviv on 30 June; its leaders were promptly arrested by the Germans. Nazi plans had no room for independent states in the east, only colonies to be exploited and emptied. Behind German lines, Soviet partisan groups were forming, at first weak and poorly organised, often made up of soldiers cut off in the encirclements. Collective farms were kept going under German management because they made grain easier to seize. Around 26 September German forces near Kiev massacred more than 33,000 Jews at Babi Yar.
+
+@@ 110 | 54.93,33.30 | Vyazma | east
+H: Operation Typhoon: the drive on Moscow
+P: f:Battle for Moscow.jpg ; w:Battle of Moscow ; s:Operation Typhoon 1941 Bundesarchiv
+A: On 30 September Guderian's panzers attacked in the south, and on 2 October the main body of Army Group Centre launched Operation Typhoon, the offensive meant to take Moscow before winter. Hitler told the German people on 3 October that the enemy was broken and would never rise again. The Soviet defences, again poorly placed, collapsed. In the north Moscow conference of 29 September to 1 October, Britain and the US had agreed to send the USSR large monthly quantities of aircraft, tanks and raw materials. Roosevelt extended Lend-Lease to the Soviets in November. In the Atlantic, US Navy destroyers were now escorting convoys part of the way.
+
+@@ 111 | 55.21,34.29 | Vyazma–Bryansk | east
+H: Vyazma and Bryansk: the road to Moscow opens
+P: w:Battle of Vyazma ; s:Vyazma 1941 Soviet prisoners
+A: In the first week of October German armour closed two huge pockets around Vyazma and Bryansk, trapping much of the Soviet Western, Reserve and Bryansk Fronts. Around 600,000 to 700,000 Soviet soldiers were captured. For several days there was almost nothing standing between Army Group Centre and Moscow. Stalin recalled Zhukov from Leningrad on 6 October and put him in charge of the Moscow front, scraping together whatever he could along the Mozhaisk line. On 6–7 October the first snow fell, followed by rain. The roads began to turn into the deep mud of the rasputitsa, the season of bad roads.
+
+@@ 112 | 55.75,37.62 | Moscow | east
+H: Panic in Moscow
+P: w:Moscow panic of 1941 ; s:Moscow October 1941 defence
+A: On 15 October the Soviet government ordered the evacuation of ministries, foreign embassies and much of the party apparatus to Kuibyshev on the Volga. The next day Moscow panicked. Factories stopped, officials fled with their families, shops were looted and crowds besieged the railway stations. Lenin's body had already been moved to Siberia. Stalin stayed in the Kremlin. The NKVD restored order with arrests and shootings. Kaluga and Kalinin fell, and the Germans took Mozhaisk on 18 October. But the mud was now deep, German supply columns were stuck, and Soviet resistance in front of the capital was stiffening day by day.

@@ -1,0 +1,69 @@
+@@ 113 | 55.75,37.62 | Moscow | east
+H: A state of siege in Moscow
+P: w:Battle of Moscow ; s:Moscow 1941 anti-tank hedgehogs ; s:Moscow 1941 civilians digging trenches
+A: On 19 October Stalin declared a state of siege in Moscow. Hundreds of thousands of civilians, most of them women, dug anti-tank ditches and trenches around the city. Militia divisions of factory workers and students were thrown into the line with little training. Fresh divisions were beginning to arrive from Siberia and the Far East, released after the spy Richard Sorge in Tokyo reported that Japan intended to strike south rather than north; Stalin had other sources too. In the south, German forces took Kharkov on 24 October and broke into Crimea, laying siege to Sevastopol. The German advance on Moscow had slowed to a crawl in the mud.
+
+@@ 114 | 54.19,37.62 | Tula | east
+H: The mud stops the Wehrmacht
+P: w:Rasputitsa ; s:Wehrmacht mud 1941 Russia
+A: By the end of October the mud had brought Typhoon to a halt. Vehicles sank to their axles; tanks used up fuel at several times the normal rate; horses died in harness. Guderian's attempt to take Tula, the arms-making city south of Moscow, failed against its defenders. The Germans paused to bring up fuel and ammunition and to wait for the ground to freeze. The lull let Zhukov rebuild the Moscow defences. Winter clothing for the Wehrmacht was still mostly in depots in Poland; the army had planned for victory before winter. In the Atlantic, a U-boat sank the US destroyer Reuben James on 31 October, killing over a hundred American sailors.
+
+@@ 115 | 55.75,37.62 | Red Square, Moscow | east
+H: The parade on Red Square
+P: w:1941 October Revolution Parade ; s:Red Square parade 7 November 1941
+A: On 7 November, the anniversary of the revolution, Stalin held the traditional military parade on Red Square, with troops marching past the Kremlin walls and straight on to the front, some 70 kilometres away. Snow fell during the parade. The night before, in a speech held in the Mayakovskaya metro station, he had declared that if the Germans wanted a war of extermination, they would get one. Newsreels of the parade went around the world as proof that Moscow still stood. The Red Army had lost several million men in five months, and Stalin was ordering a vast mobilisation to replace them, conscripting older men and training new divisions in the east.
+
+@@ 116 | 36.00,15.00 | Central Mediterranean | med
+H: Radar and Ultra sink an Axis convoy
+P: w:Battle of the Duisburg Convoy ; w:Force K ; s:Royal Navy cruiser Malta 1941
+A: On the night of 8–9 November Force K, two cruisers and two destroyers based at Malta, used radar to find and destroy an entire Italian convoy carrying supplies to Rommel, the "Duisburg convoy", without loss. The intelligence on its route came from decrypted Axis signals. Through the autumn British submarines, aircraft and ships from Malta sank a large share of Axis cargo headed for Libya, starving Rommel's forces of fuel just as the British prepared a new offensive. The Germans responded by sending U-boats into the Mediterranean and transferring a Luftwaffe air corps from Russia to Sicily. On 13 November a U-boat sank the carrier Ark Royal near Gibraltar.
+
+@@ 117 | 31.72,24.50 | Sidi Rezegh, Libya | africa
+H: Operation Crusader begins
+P: w:Operation Crusader ; s:Crusader tank 1941 desert
+A: On 18 November the newly named British Eighth Army, under Alan Cunningham, launched Operation Crusader to destroy Rommel's armour and relieve Tobruk. It was the largest British offensive of the war so far, with over 700 tanks. The tank battles around the airfield at Sidi Rezegh, south-east of Tobruk, were chaotic and swung back and forth. British armour was committed piecemeal and suffered heavily against German anti-tank guns. On the night before the offensive, a British commando raid aimed at killing or capturing Rommel at what was thought to be his headquarters failed. On the Eastern Front, the ground had frozen and Typhoon resumed.
+
+@@ 118 | 56.00,37.20 | Krasnaya Polyana, near Moscow | east
+H: Within sight of the Kremlin?
+P: w:Battle of Moscow ; s:German soldiers winter 1941 Moscow
+A: With the ground hard, Army Group Centre attacked again in mid-November in a pincer around Moscow from the north and south. Temperatures fell well below freezing and German troops without winter clothing suffered terribly from frostbite; weapons and engines froze. By late November German units in the north reached the Moscow-Volga canal and Krasnaya Polyana, about 30 kilometres from the city; some later claimed to have seen the Kremlin's spires through field glasses. In the south, Guderian bypassed Tula. Rostov was taken on 21 November and lost again on the 29th, the first major German retreat of the war. In Libya, Rommel launched a deep raid toward the Egyptian frontier.
+
+@@ 119 | 55.75,37.62 | Moscow front | east
+H: The Soviet counteroffensive at Moscow
+P: f:RIAN archive 88775 Soviet soldiers attacking house.jpg ; s:Red Army winter counteroffensive December 1941 Moscow
+A: The German attack stalled in the first days of December at temperatures of minus 30 and below. On 5 December, Soviet forces north of Moscow struck back, and the next day the counteroffensive widened along the whole front. German commanders, exhausted and freezing, asked to retreat. Hitler forbade it, then dismissed generals who disobeyed. The German army had suffered its first major defeat. On 7 December, Japanese aircraft attacked the US Pacific Fleet at Pearl Harbor and Japanese forces landed in Malaya; the United States declared war on Japan on the 8th, and Britain did the same. The war was now global.
+
+@@ 120k | 52.52,13.38 | Reichstag, Berlin | europe | sober
+H: Germany declares war on the United States
+P: f:Bundesarchiv Bild 183-1987-0703-014, Berlin, Reichstag, Sitzung.jpg ; s:Reichstag 11 December 1941 Hitler speech
+A: On 11 December Hitler told the Reichstag that Germany was at war with the United States; Italy followed the same day. He was not obliged to by the Tripartite Pact, since Japan had attacked first. He seems to have believed war with America was coming anyway and that U-boats could now be unleashed on American shipping. It was one of his most consequential decisions. On 12 December he met Nazi party leaders, and according to Goebbels's diary he spoke of the "annihilation" of the Jews as the necessary consequence of the world war he claimed they had caused. Historians see these weeks as a turning point in the decision to murder all of Europe's Jews. Mass shootings in the east were already under way; the first gassings at Chełmno began on 8 December.
+
+@@ 121 | 1.35,103.82 | Malaya / Pacific | pacific
+H: Japan advances everywhere
+P: w:Sinking of Prince of Wales and Repulse ; s:Japanese troops Malaya 1941
+A: In the days after Pearl Harbor Japanese forces struck across the Pacific and South-East Asia. On 10 December Japanese aircraft sank the battleship Prince of Wales and the battlecruiser Repulse off Malaya, the first capital ships sunk at sea by aircraft alone; Churchill said he never received a more direct shock. Guam fell; Japanese troops landed in the northern Philippines; Hong Kong's mainland defences collapsed. In Malaya, Japanese troops pushed south through the jungle and on bicycles. In Russia, the Soviet counteroffensive pushed Army Group Centre back from Moscow; Kalinin was retaken on 16 December. Within a fortnight the Western position in Asia was falling apart.
+
+@@ 122 | 22.32,114.17 | Hong Kong | asia
+H: Hong Kong falls; Hitler takes command of the army
+P: w:Battle of Hong Kong ; s:Hong Kong 1941 surrender
+A: Hong Kong's British, Canadian, Indian and local defenders held the island for nearly a week against Japanese assaults before surrendering on Christmas Day, "Black Christmas". Japanese troops committed atrocities against prisoners and nurses. On 19 December Hitler dismissed the commander-in-chief of the army, Walther von Brauchitsch, and took personal command; Guderian was sacked on 26 December for retreating without permission. Hitler's order to "stand fast" did keep the German front from collapse, at a terrible cost. Churchill was in Washington for the Arcadia Conference, where the British and Americans confirmed that defeating Germany came first. The Allies had now lost every possession they held on the China coast.
+
+@@ 123 | 38.90,-77.04 | Washington | usa
+H: The United Nations declaration
+P: w:Declaration by United Nations ; s:Arcadia Conference Churchill Roosevelt 1941
+A: On 1 January 1942 twenty-six nations signed the "Declaration by United Nations" in Washington, pledging to use their full resources against the Axis and not to make a separate peace. The name was Roosevelt's. The Arcadia Conference created the Combined Chiefs of Staff to direct the British and American war effort, and a unified command in South-East Asia under Wavell. Manila was declared an open city and occupied on 2 January; American and Filipino troops withdrew to the Bataan peninsula. In Libya, Crusader had forced Rommel back to El Agheila, where he had started in March; Tobruk had been relieved.
+
+@@ 124 | 14.68,120.54 | Bataan | pacific
+H: Holding on at Bataan
+P: w:Battle of Bataan ; s:Bataan 1942 Filipino soldiers
+A: About 80,000 American and Filipino troops under Douglas MacArthur dug in on the Bataan peninsula, while MacArthur himself directed the defence from the island fortress of Corregidor. They were short of food from the start, with supplies left behind in the hurried retreat, and soon on half rations. Malaria and dysentery spread. Washington knew it could not reinforce them through the Japanese blockade and decided to concentrate resources elsewhere; the men on Bataan increasingly felt abandoned. In Malaya, Japanese forces took Kuala Lumpur on 11 January. In the Soviet Union, the counteroffensive continued along the whole front. Those who were there called themselves the "battling bastards of Bataan".
+
+@@ 125 | 40.70,-73.50 | Off New York | atlantic
+H: U-boats off the American coast
+P: w:Operation Drumbeat ; s:tanker torpedoed off US coast 1942
+A: In mid-January five long-range U-boats arrived off the east coast of the United States in Operation Paukenschlag, Drumbeat. They found ships sailing alone with navigation lights on, coastal towns brightly lit behind them, and almost no convoy system or anti-submarine patrols. In the next months U-boats sank hundreds of ships in American waters, many of them tankers, often within sight of the shore. U-boat crews called it the "second happy time". The US Navy under Admiral King was slow to adopt convoys, partly for lack of escorts. It would take until the summer before losses were brought under control. Americans on beaches watched burning tankers at night.
+
+@@ 126 | 52.43,13.17 | Wannsee, Berlin | europe | sober
+H: The Wannsee Conference
+P: f:Villa Wannsee - Haus der Wannsee-Konferenz.jpg ; w:Wannsee Conference ; s:Haus der Wannsee-Konferenz
+A: On 20 January fifteen senior officials of the SS, Nazi party and government ministries met at a villa on Lake Wannsee in Berlin, chaired by Reinhard Heydrich. The meeting lasted about 90 minutes. Its purpose was to coordinate the "final solution of the Jewish question" across the bureaucracy: who would be included, how mixed-ancestry cases would be treated, and how Jews from all over Europe would be deported east. The minutes, prepared by Adolf Eichmann, listed some 11 million Jews to be included. Mass murder had already begun in the occupied USSR and at Chełmno; Wannsee organised its extension to the whole continent. The villa is now a memorial and education centre. This entry is shown without map styling.

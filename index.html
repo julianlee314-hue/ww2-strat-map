@@ -3,96 +3,134 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="description" content="A scrubbable strategic map of World War II in continental Europe, 1939–1945: monthly control snapshots, month-by-month war and culture events, and archive plates.">
-<title>WW2 Europe — Strategic Map, 1939–1945</title>
+<meta name="description" content="A Chronograph: the Second World War week by week, 1939–1945. A paper atlas of Europe, the Mediterranean and the Middle East with approximate control and front lines, a short article and archive photograph for each of 305 weeks, and the Allied map room's own situation maps from D-Day on.">
+<title>The War, Week by Week · 1939–1945 · A Chronograph</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz,wght@6..96,500;6..96,600&family=Libre+Franklin:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,500;0,6..96,700;1,6..96,500&family=Libre+Franklin:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Big+Shoulders+Display:wght@700;800&family=Courier+Prime:wght@400;700&display=swap">
 <link rel="stylesheet" href="assets/app.css">
 </head>
 <body>
-<div class="app">
+<div class="wrap" id="app">
   <header class="top">
-    <div class="brand">
-      <h1>WW2 Europe · Strategic Map</h1>
-      <div class="sub">1939–1945 · continental campaigns · teaching sketch</div>
-    </div>
-    <div class="top-actions">
-      <span id="status" class="chip" style="cursor:default;opacity:.8">loading…</span>
-      <button type="button" class="chip" id="perspectiveBtn" aria-pressed="false">Perspective: what we know now</button>
-      <button type="button" class="chip" id="metricBtn" aria-pressed="true">Atlantic tonnage</button>
-    </div>
+    <a class="kicker" href="https://julianlee314-hue.github.io/chronographs/">A Chronograph</a>
+    <div class="eyebrow">World War II · 1 Sep 1939 – 8 May 1945 · 305 weeks</div>
+    <h1>The War, week by week — <em>Europe on the map, the world in the margins</em></h1>
+    <p class="lede">One entry for every week of the war in Europe, following the weekly spine of TimeGhost’s <a href="https://www.youtube.com/@WorldWarTwo" id="tgLink">World War Two</a> series. The atlas shows approximate control and the front; each week has a short article of our own and an archive photograph. From D-Day on, the card also shows the US 12th Army Group’s own situation map for that week.</p>
   </header>
 
-  <div class="main">
-    <div class="map-wrap">
-      <div id="map" role="img" aria-label="Map of Europe showing wartime control"></div>
-      <div class="map-overlay">
-        <div class="date-big" id="dateBig">—</div>
-        <div class="snap-label" id="snapLabel"></div>
-        <div class="snap-note" id="snapNote"></div>
-      </div>
-      <div class="legend" aria-hidden="true">
-        <div><span class="swatch" style="background:#3d7ea6"></span>Allied / liberated</div>
-        <div><span class="swatch" style="background:#8b3a3a"></span>Axis homeland</div>
-        <div><span class="swatch" style="background:#5c2a2a"></span>Axis-occupied</div>
-        <div><span class="swatch" style="background:#6b4a6b"></span>Axis ally / client</div>
-        <div><span class="swatch" style="background:#c45c2a"></span>Soviet</div>
-        <div><span class="swatch" style="background:#c4a35a"></span>Contested</div>
-        <div><span class="swatch" style="background:#3a4550"></span>Neutral</div>
+  <div class="controls">
+    <div class="group" id="eras" role="group" aria-label="Jump to year"><span class="group-label">Year</span></div>
+    <div class="group" role="group" aria-label="Map view"><span class="group-label">View</span>
+      <div class="seg" id="viewSeg">
+        <button type="button" class="chip" data-view="theatre" aria-pressed="true">Theatre</button>
+        <button type="button" class="chip" data-view="world" aria-pressed="false">World</button>
+        <button type="button" class="chip" data-view="warroom" aria-pressed="false">War room</button>
       </div>
     </div>
-
-    <aside class="side">
-      <div class="side-tabs" role="tablist">
-        <button type="button" role="tab" data-tab="event" aria-selected="false">Event</button>
-        <button type="button" role="tab" data-tab="list" aria-selected="false">Register</button>
-        <button type="button" role="tab" data-tab="about" aria-selected="true">About</button>
-      </div>
-      <div class="side-body">
-        <div id="eventPane" class="event-card tab-pane" hidden>
-          <p class="empty-hint">Scrub the timeline or click a gold marker on the map.</p>
-        </div>
-        <ul id="listPane" class="event-list tab-pane" hidden></ul>
-        <div id="aboutPane" class="about tab-pane">
-          <p>A <strong>map-first</strong> companion to the Dow / Bank timelines: scrub month by month across continental Europe and watch approximate control shift from Poland to Berlin.</p>
-          <h3>How to use</h3>
-          <ul>
-            <li>Drag the scrubber (or use ← →) to move through <strong>18 curated map frames</strong>.</li>
-            <li>Click gold markers for that month’s war, diplomacy, or culture beat (roughly one+ per month, denser in crisis months).</li>
-            <li>Toggle <em>Perspective</em> for a light “1940s framing” note — not a classified big-board reconstruction.</li>
-            <li>Optional sparkline: approximate Allied merchant tonnage sunk per month (Battle of the Atlantic).</li>
-          </ul>
-          <h3>Honest limits</h3>
-          <ul>
-            <li>Front lines and occupation are <strong>teaching approximations</strong> (country fills + a few schematic overlays), not day-accurate GIS.</li>
-            <li>Modern borders stand in for 1939 states (Yugoslavia, Czechoslovakia, USSR republics).</li>
-            <li>Pacific theatre is out of scope for v1.</li>
-            <li>Holocaust / mass-death topics appear only as sober notes — not as gamified map dots.</li>
-          </ul>
-          <h3>Sources</h3>
-          <p>Control narrative distilled from standard campaign histories and West Point atlas sequences. Photographs from Wikimedia Commons (public domain / CC). Natural Earth country geometries (public domain). See <a href="CREDITS.md">CREDITS.md</a>.</p>
-          <p style="color:var(--muted);font-size:0.78rem;margin-top:1.2rem">v1 · julianlee314-hue/ww2-strat-map</p>
-        </div>
-      </div>
-    </aside>
+  </div>
+  <div class="controls sub">
+    <div class="group" id="palettes" role="group" aria-label="Palette"><span class="group-label">Palette</span>
+      <button type="button" class="chip pal" data-pal="paper" aria-pressed="true"><i class="sw" style="background:#f3f5f1"></i>Paper</button>
+      <button type="button" class="chip pal" data-pal="ink" aria-pressed="false"><i class="sw" style="background:#151e19"></i>Ink</button>
+      <button type="button" class="chip pal" data-pal="atlas" aria-pressed="false"><i class="sw" style="background:#efe4c8"></i>Atlas</button>
+      <button type="button" class="chip pal" data-pal="maproom" aria-pressed="false"><i class="sw" style="background:#e4d6a8"></i>Map Room</button>
+    </div>
+    <div class="group" role="group" aria-label="Layers"><span class="group-label">Layers</span>
+      <label class="toggle"><input type="checkbox" id="lyrFront" checked> Front</label>
+      <label class="toggle"><input type="checkbox" id="lyrCulture"> Home front &amp; culture</label>
+      <label class="toggle"><input type="checkbox" id="lyrAll"> All week pins</label>
+    </div>
   </div>
 
-  <footer class="scrub">
-    <div class="scrub-top">
-      <div class="era-pills" aria-label="Jump to era"></div>
+  <div class="stage">
+    <div class="chart-box" id="chartBox">
+      <div class="warbar" id="warbar" hidden>
+        <div class="clocks" id="clocks"></div>
+        <div class="ticker" aria-hidden="true"><div class="ticker-in" id="ticker"></div></div>
+      </div>
+      <div class="map-frame" id="mapFrame">
+        <svg id="map" role="img" aria-label="Atlas of Europe, the Mediterranean and the Middle East showing approximate wartime control for the selected week"></svg>
+        <div class="map-read" id="mapRead"></div>
+        <div class="map-legend" id="legend"></div>
+        <div class="map-zoom"><button type="button" id="zIn" aria-label="Zoom in">+</button><button type="button" id="zOut" aria-label="Zoom out">−</button><button type="button" id="zReset" aria-label="Reset view">⟲</button></div>
+        <div class="tip" id="tip" hidden></div>
+      </div>
+      <svg id="strip" role="img" aria-label="Leaders and Allied shipping losses across the war, with the selected week marked"></svg>
+      <div class="lead-card" id="leadCard" hidden><div class="lc-name" id="lcName"></div><div class="lc-meta" id="lcMeta"></div><p class="lc-note" id="lcNote"></p></div>
+      <p class="hint">Click a pin or a row in the Logbook to open that week; ← → step week by week. Off-map weeks (Pacific, China, Burma) show as an edge marker — click it for the world view. The lanes under the map are heads of government; the line is Allied merchant shipping sunk per month (a rounded teaching series). Hover a lane for a blunt note.</p>
     </div>
-    <div class="scrub-row">
-      <button type="button" class="nav-btn" id="prevBtn" aria-label="Previous frame">‹</button>
-      <input type="range" id="scrubber" min="0" max="17" value="0" aria-label="Time scrubber">
-      <button type="button" class="nav-btn" id="nextBtn" aria-label="Next frame">›</button>
+
+    <article class="card" id="card" aria-live="polite">
+      <div class="sitrep" id="sitrep"></div>
+      <div class="card-tags" id="cardTags"></div>
+      <h2 class="ev-label" id="evLabel"></h2>
+      <p class="ev-place" id="evPlace"></p>
+      <div class="stamp" id="stamp" hidden>Most Secret</div>
+      <p class="sober-note" id="soberNote" hidden>This week concerns mass murder or civilian death. It is shown plainly, without war-room styling.</p>
+      <p class="ev-sum" id="evSum"></p>
+      <figure class="plate" id="plate" hidden>
+        <button type="button" class="plate-frame" id="plateBtn" aria-label="View photograph full size"><img id="plateImg" alt=""></button>
+        <figcaption class="credit" id="capCredit"></figcaption>
+      </figure>
+      <figure class="plate sitmap" id="sitmap" hidden>
+        <div class="sm-head">What the Allied map room saw this week</div>
+        <button type="button" class="plate-frame" id="smBtn" aria-label="View situation map full size"><img id="smImg" alt=""></button>
+        <figcaption class="credit" id="smCredit"></figcaption>
+      </figure>
+      <p class="no-sitmap" id="noSitmap" hidden></p>
+      <p class="episode" id="episode"></p>
+      <div class="nav">
+        <button type="button" id="prev">← Previous week</button>
+        <button type="button" id="next">Next week →</button>
+      </div>
+      <p class="ai-note">Articles are an editorial draft written for this site from general history. Photographs: Wikimedia Commons, public domain or CC (see <a href="CREDITS.md">CREDITS.md</a>).</p>
+    </article>
+  </div>
+
+  <section class="panel" aria-labelledby="panelTitle">
+    <div class="panel-head">
+      <h2 id="panelTitle">Logbook</h2>
+      <div class="seg" id="panelSeg" role="group" aria-label="Bottom panel mode">
+        <button type="button" class="chip" data-mode="logbook" aria-pressed="true">Logbook</button>
+        <button type="button" class="chip" data-mode="ruler" aria-pressed="false">Ruler</button>
+      </div>
+      <input id="q" type="search" placeholder="Search weeks, e.g. Kursk, convoy, Crete" aria-label="Search weeks">
     </div>
-    <div class="ticks"><span>Sep 1939</span><span>1941</span><span>1943</span><span>May 1945</span></div>
-    <div class="spark" id="spark"></div>
+    <div class="logbook" id="logbook" tabindex="0" aria-label="Week by week logbook"></div>
+    <div class="ruler" id="ruler" hidden>
+      <div class="ruler-read" id="rulerRead"></div>
+      <svg id="rulerSvg" role="slider" tabindex="0" aria-label="Week ruler" aria-valuemin="1" aria-valuemax="305"></svg>
+      <p class="hint">Drag the marker or click anywhere on the line; it snaps to the nearest week. Heavy ticks are years, medium ticks months, fine ticks the 305 weeks of the spine.</p>
+    </div>
+  </section>
+
+  <section class="about" id="about">
+    <h2>About this Chronograph</h2>
+    <p><strong>Chronographs</strong> are long-run “living graphs”: one picture of a period you can scrub through, with an event card, an archive plate and a lane of leaders underneath. Siblings: <a href="https://julianlee314-hue.github.io/dow-timeline/v0.2/">The Dow, 1896–2026</a> and <a href="https://julianlee314-hue.github.io/the-bank-1694/">The Bank, 1694–1994</a>. Series home: <a href="https://julianlee314-hue.github.io/chronographs/">Chronographs</a>.</p>
+    <p>The week spine follows the design team’s guide to the TimeGhost <em>World War Two</em> series presented by Indy Neidell (305 episodes; week 261 is missing from the playlists). Headlines and articles here are our own; each card links to the matching episode. The 24 weeks the guide marks “On the Big Board” are ringed in red.</p>
+    <h3>Honest limits</h3>
+    <ul>
+      <li>Country fills and front lines are <strong>teaching approximations</strong> drawn on modern Natural Earth borders, stepped between 18 curated monthly snapshots: each week uses the latest snapshot dated (mid-month) on or before the week’s last day, so shading can lag events by weeks or months. They are not day-accurate. The World view colours the rest of the world by rough alignment only.</li>
+      <li>The guide’s introduction mentions 31 “Big Board” moments; only 24 rows carry the tag, and those 24 are the ones marked here. The pins and tags on Big Board weeks mark places named in the guide, not army positions.</li>
+      <li>Leader lanes show heads of government only (Hitler, Stalin and Chiang held power throughout). The notes are our own one-line judgements.</li>
+      <li>From 6 June 1944 the card shows the real HQ Twelfth Army Group situation map for that week (Library of Congress, public domain). We show it as a document; we have not re-drawn our own front from it, and we do not reconstruct any German or Allied “big board” beyond what those dated maps show. Weeks without a dated map say so.</li>
+      <li>The war-room clocks show nominal standard-time offsets for the week’s last day; wartime summer time and US “War Time” are not applied. The Battle of Britain plotting table (weeks 48–56) is illustrative, not a record of a real raid, and the convoy plot is drawn from the same rounded shipping series as the strip. Both insets appear in the War room view on wider screens.</li>
+      <li>The shipping line is a rounded monthly teaching series, not a primary statistic.</li>
+    </ul>
+    <h3>About the war room</h3>
+    <p>The War room view borrows from the rooms where the war was actually followed: the Map Room in the Cabinet War Rooms under Whitehall, staffed round the clock from 1939 to 1945; the Fighter Command operations rooms at Bentley Priory and Uxbridge, where WAAF plotters pushed raid blocks across a table map; the Western Approaches convoy plot in Liverpool; and Roosevelt’s Map Room in the White House. Its pins, string and typed tags are a visual language, not a claim about what any of those boards showed on a given day.</p>
+    <div class="wr-plates" id="wrPlates"></div>
+  </section>
+
+  <footer>
+    <p>Basemap: <a href="https://www.naturalearthdata.com/">Natural Earth</a> 1:50m and 1:110m (public domain), drawn with D3. Situation maps: Library of Congress, <a href="https://www.loc.gov/collections/world-war-ii-maps-military-situation-maps-from-1944-to-1945/">World War II Military Situation Maps</a>, via Wikimedia Commons.</p>
+    <p>Week guide: TimeGhost History, <em>World War Two</em> (YouTube). This site is not affiliated with TimeGhost. Code MIT; see <a href="README.md">README</a> and <a href="CREDITS.md">CREDITS.md</a>.</p>
   </footer>
 </div>
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<div id="lightbox" hidden><button type="button" id="lbClose">Close</button><img id="lbImg" alt=""></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
 <script src="assets/app.js"></script>
 </body>
 </html>

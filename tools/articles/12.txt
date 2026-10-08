@@ -1,0 +1,134 @@
+@@ 228 | 50.90,27.50 | Sarny, pre-war Polish border | east
+H: The Red Army reaches the old Polish border
+P: w:Dnieper–Carpathian offensive ; s:Red Army January 1944 Ukraine
+A: In the first week of January Soviet troops of the First Ukrainian Front crossed the pre-1939 Polish–Soviet border near Sarny, in territory the USSR had annexed in 1939 and regarded as its own. The Polish government in London insisted on its 1939 borders; Stalin demanded the Curzon Line, roughly the 1939 Nazi–Soviet partition line. The question of Poland's future became urgent in Allied diplomacy. The Red Army's advance in Ukraine continued despite the winter and mud. In Britain, Eisenhower and Montgomery arrived to take command of the invasion forces and immediately insisted the landing be widened from three divisions to five.
+
+@@ 229 | 59.93,30.31 | Leningrad | east
+H: Time to free Leningrad
+P: f:Leningrad siege - people drawing water.jpg ; w:Leningrad–Novgorod offensive ; s:Leningrad 1944 offensive
+A: On 14 January the Leningrad and Volkhov Fronts launched a major offensive from the Oranienbaum bridgehead west of the city and from Leningrad itself, and from the Volkhov river toward Novgorod. The German Eighteenth Army was well dug in after more than two years of siege, but it had been weakened by transfers to other fronts. After days of heavy fighting, the Soviet attacks broke through. In Italy, the Allied armies prepared to attack the Gustav Line around Cassino in support of the planned landing at Anzio. In the Pacific, Australian and American troops pushed along the north coast of New Guinea.
+
+@@ 230 | 41.49,13.83 | Cassino | europe
+H: Monte Cassino: the battle begins
+P: w:Battle of Monte Cassino ; s:Monte Cassino January 1944
+A: On 17 January the British X Corps attacked across the Garigliano river on the western end of the Gustav Line. On 20–21 January the US 36th Division tried to cross the Rapido river below Cassino and was cut to pieces, losing some 1,700 men in two days; it became one of the most controversial American actions of the war. The town of Cassino and the mountain above it, crowned by the ancient Benedictine abbey of Monte Cassino, dominated the valley that led to Rome. Kesselring's forces held strong positions on the heights. In Leningrad, Soviet forces linked up between the city and the Oranienbaum bridgehead on 19–20 January.
+
+@@ 231 | 41.45,12.62 | Anzio | europe
+H: Anzio: the Allies land and stop
+P: f:Anzio landing 1944.jpg ; w:Battle of Anzio ; s:Anzio 1944 landing craft
+A: On 22 January the US VI Corps under General John Lucas landed at Anzio and Nettuno, about 50 kilometres south of Rome, achieving complete surprise. Lucas spent the next days consolidating his beachhead rather than pushing inland toward the Alban Hills, as he had been told to secure his position. Kesselring reacted quickly, rushing reserves to seal off the beachhead, and soon German forces outnumbered the Allies there. Churchill, who had championed the landing, complained: "I had hoped that we were hurling a wildcat onto the shore, but all we got was a stranded whale." The Allies would be pinned down at Anzio for four months.
+
+@@ 232 | 59.93,30.31 | Leningrad | east
+H: The siege of Leningrad is over
+P: w:Siege of Leningrad ; s:Leningrad January 1944 salute
+A: On 27 January the Soviet command declared that the siege of Leningrad had been completely lifted, 872 days after it began. Leningrad fired a 324-gun salute, the first time a city other than Moscow had been given the honour. German forces were driven back toward the Luga river and eventually to the Panther Line on the old Estonian border. The cost to the city had been immense: perhaps a million civilians dead, most from starvation and cold, and much of its architecture destroyed. At Anzio, German counterattacks began. At Cassino, the US 34th Division gained a foothold in the hills north of the town and fought its way close to the monastery.
+
+@@ 233 | 49.43,31.27 | Korsun, Ukraine | east
+H: The Korsun pocket
+P: w:Battle of the Korsun–Cherkassy Pocket ; s:Korsun 1944 Soviet troops
+A: On 28 January Soviet forces closed a ring around two German corps, about 60,000 men, near Korsun and Cherkassy in central Ukraine, west of the Dnieper. Hitler again forbade a breakout and ordered relief attacks, which ground forward in the mud. The Luftwaffe tried to supply the pocket by air. Soviet propaganda and the "Free Germany" committee of captured German officers appealed to the trapped troops to surrender. In the Marshall Islands, US forces took Kwajalein in early February in an operation that showed lessons from Tarawa had been learned. In Italy, at Cassino, New Zealand and Indian troops prepared to take over the attack.
+
+@@ 234 | 41.49,13.81 | Monte Cassino abbey | europe
+H: The destruction of Monte Cassino abbey
+P: w:Battle of Monte Cassino ; s:Monte Cassino abbey ruins 1944
+A: On 15 February over 200 Allied bombers destroyed the Benedictine abbey of Monte Cassino, founded in the sixth century. Allied commanders, especially the New Zealand corps commander Bernard Freyberg, believed the Germans were using it as an observation post; they were not, though they had positions close to it. Several hundred Italian civilians sheltering inside were killed. German paratroopers then occupied the ruins, which made excellent defensive positions. The ground attacks that followed failed. On 16–17 February, about 30,000 Germans broke out of the Korsun pocket under fire and in snow, losing their heavy equipment and many men. At Anzio, a major German counteroffensive began.
+
+@@ 235 | 7.42,151.80 | Truk | pacific
+H: Tojo takes control; Truk smashed
+P: w:Operation Hailstone ; s:Truk lagoon 1944 attack
+A: On 17–18 February US carrier aircraft attacked Truk, the main Japanese naval base in the central Pacific, sinking dozens of merchant ships and several warships and destroying hundreds of aircraft. The base, sometimes called Japan's Pearl Harbor, was neutralised. Days later, on 21 February, Prime Minister Hideki Tojo took the additional post of chief of the army general staff, concentrating military and political authority in his own hands in an attempt to take control of the faltering war. In Europe, Allied bombers launched "Big Week" from 20 February, a series of raids on German aircraft factories that drew the Luftwaffe into battle with American escort fighters.
+
+@@ 236 | -2.00,147.40 | Admiralty Islands | pacific
+H: MacArthur and Nimitz go head to head
+P: w:Admiralty Islands campaign ; s:Los Negros 1944 landing
+A: On 29 February MacArthur sent troops to land on Los Negros in the Admiralty Islands, on reports that the islands were lightly held. They were not, and the landing was nearly overwhelmed, but it held, and the capture of the Admiralties completed the isolation of Rabaul. In Washington, the Joint Chiefs had to arbitrate between MacArthur's push along New Guinea toward the Philippines and Nimitz's drive across the central Pacific toward the Marianas. They decided both would continue. In Italy, the German counteroffensive at Anzio failed by early March with heavy losses. In the USSR, the Red Army prepared new offensives in the western Ukraine.
+
+@@ 237 | 49.55,25.59 | Western Ukraine | east
+H: Zhukov hits the ground running
+P: w:Proskurov–Chernovtsy offensive ; s:Soviet T-34 spring 1944 mud
+A: On 4 March the First Ukrainian Front, now commanded by Zhukov after the fatal wounding of General Vatutin by Ukrainian nationalist insurgents, launched a new offensive in the western Ukraine, despite the spring thaw that turned the roads into mud. Soviet tanks, with wide tracks, and American-built trucks supplied under Lend-Lease coped better with the mud than the Germans. Further south, Konev's Second Ukrainian Front attacked toward the Romanian border. The German front in the south began to break up. On 6 March the US Eighth Air Force made its first major daylight raid on Berlin. In Burma, the second Chindit expedition under Orde Wingate flew into Japanese-held territory.
+
+@@ 238 | 24.82,93.94 | Imphal | asia
+H: Japan invades India
+P: w:Battle of Imphal ; s:Imphal 1944 Indian Army
+A: On 8 March the Japanese 15th Army under General Renya Mutaguchi crossed the Chindwin river into India, aiming to destroy the British and Indian forces at Imphal and Kohima and seize their supply bases. Units of the Indian National Army, made up of former Indian prisoners of war who now fought with Japan, joined the offensive. The Japanese plan relied on capturing British supplies because it had few of its own. General William Slim's Fourteenth Army pulled back to Imphal and Kohima, supplied by air. In Europe, the Germans had to deal with Hungary, which was secretly trying to leave the war.
+
+@@ 239 | 47.50,19.04 | Budapest | europe
+H: Germany occupies Hungary
+P: w:Operation Margarethe ; s:German troops Budapest March 1944
+A: Hitler had learned that Hungary's regent, Admiral Miklós Horthy, was secretly negotiating with the Allies. He summoned Horthy to Klessheim Castle, and while Horthy was away on 19 March German troops occupied Hungary in Operation Margarethe. A pro-German government was installed. Hungary's Jews, about 800,000 people, had suffered discrimination and forced labour but most had escaped deportation until now. Adolf Eichmann arrived in Budapest with his staff. Between mid-May and early July, around 437,000 Hungarian Jews were deported, almost all to Auschwitz-Birkenau, where most were murdered on arrival. In the Pacific, US forces were advancing along New Guinea. It was one of the fastest deportations of the Holocaust.
+
+@@ 240 | 49.10,26.50 | Kamenets-Podolsky | east
+H: Goodbye Manstein, hello Model
+P: w:Kamenets-Podolsky pocket ; s:Walter Model 1944
+A: In late March the Soviets encircled the German First Panzer Army, around 200,000 men, near Kamenets-Podolsky. Manstein, defying Hitler, ordered it to break out to the west instead of south, and it succeeded in escaping in April. On 30 March Hitler dismissed Manstein and Ewald von Kleist, his two most senior commanders in the south, replacing Manstein with Walter Model, known as a ruthless and energetic defender. Army Group South was renamed Army Group North Ukraine. On 24–25 March, 76 Allied airmen escaped from the Stalag Luft III prisoner of war camp; 50 recaptured men were murdered by the Gestapo.
+
+@@ 241 | 45.30,34.30 | Crimea | east
+H: A new offensive in Crimea
+P: w:Crimean offensive ; s:Crimea April 1944 Soviet troops
+A: On 8 April the Soviet Fourth Ukrainian Front attacked the German and Romanian Seventeenth Army in Crimea, breaking through the Perekop isthmus and the Sivash lagoon. At the same time Soviet forces attacked from the Kerch peninsula in the east. Hitler again ordered Crimea held. Simferopol fell on 13 April. The Germans and Romanians fell back toward Sevastopol, where Germans had fought their way in two years before. In the west, Soviet troops crossed into Romania. In the occupied Netherlands, preparations for a German defence of the coast continued. In Britain, the invasion forces were rehearsing landings on the south coast.
+
+@@ 242 | 49.55,25.59 | Ternopil | east
+H: Trapped in Tarnopol
+P: w:Battle of Tarnopol (1944) ; s:Tarnopol 1944
+A: Hitler declared a number of cities in the path of the Soviet advance to be "fortresses" to be held at all costs. One was Tarnopol in western Ukraine, where about 4,600 German troops, many of them young and inexperienced, were surrounded in March. They held until 15 April; a relief attempt failed, and only around 55 men reached German lines. The "fortress" policy tied down troops who could have been used elsewhere and condemned many of them. In the Pacific, MacArthur's forces landed at Hollandia in New Guinea on 22 April, far behind Japanese lines. At Kohima, the British garrison was holding against Japanese attacks around the deputy commissioner's tennis court.
+
+@@ 243 | 34.75,113.65 | Henan, China | china
+H: The biggest Japanese offensive of the war
+P: w:Operation Ichi-Go ; s:Ichi-go 1944 Japanese troops
+A: In April Japan launched Operation Ichi-Go, the largest offensive in its history, with around 500,000 men. Its aims were to open a land route from Manchuria to Indochina and to destroy the US air bases in southern China from which American bombers could strike Japan. The first phase, in Henan province, rolled over Nationalist forces weakened by years of war, inflation and a terrible famine in 1942–43 that had killed millions. Chinese armies retreated, sometimes in panic, and were attacked by peasants angry at their requisitioning. Chiang Kai-shek's standing with the Americans sank. In Burma, the Kohima battle continued. It would be Japan's last major victory on land.
+
+@@ 244 | 52.52,13.38 | Berlin | europe
+H: Germany's existential crisis
+P: w:Strategic bombing during World War II ; s:Berlin 1944 bombing damage
+A: By spring 1944 Germany was fighting on three fronts and losing on all of them. Allied bombers were striking its cities around the clock, and the Luftwaffe's fighter force was being destroyed by American long-range escorts. Its oil refineries and synthetic fuel plants were about to become targets. Its armies were short of men; boys and older men were being drafted. Hitler still hoped that defeating the coming invasion in the west would allow him to shift forces east. Albert Speer had increased armaments production remarkably, partly using forced labour on a huge scale, but it could not match the combined production of the Allies.
+
+@@ 245 | 34.25,108.95 | Central China | china
+H: Chaos on the Chinese front
+P: w:Battle of Central Henan ; s:Chinese soldiers 1944
+A: In late April and May Japan's Ichi-Go offensive drove through Henan, capturing Luoyang in late May. Nationalist forces collapsed in many places; the Japanese suffered relatively few losses. American officers, including Stilwell, blamed Chiang Kai-shek's leadership and the corruption of his regime; Chiang blamed the lack of Allied supplies. Meanwhile in northern Burma, Chinese and American troops under Stilwell, with Merrill's Marauders, pushed toward Myitkyina, an important airfield and railway junction. In India, the Japanese siege of Kohima and Imphal was faltering as their supplies ran out and the monsoon approached. For the Chinese people, 1944 was among the worst years of the war, and the regime's credibility suffered badly.
+
+@@ 246 | 44.62,33.52 | Sevastopol | east
+H: Sevastopol liberated
+P: w:Crimean offensive ; s:Sevastopol May 1944 liberation
+A: On 9 May Soviet forces liberated Sevastopol after a short but fierce assault. Hitler had ordered the remnants of the Seventeenth Army to hold, and then permitted a late evacuation; thousands of German and Romanian soldiers were killed or captured on the Chersonese peninsula while waiting for ships. Crimea was free of Axis forces by 12 May. Within days, the NKVD deported the entire Crimean Tatar population, nearly 200,000 people, to Central Asia, accusing them of collaboration; many thousands died during the deportation and the following years. In Italy, the Allies launched Operation Diadem, a renewed offensive against the Gustav Line, on 11 May.
+
+@@ 247 | 41.49,13.81 | Monte Cassino | europe
+H: The fall of Monte Cassino
+P: w:Battle of Monte Cassino ; s:Polish flag Monte Cassino 1944
+A: Operation Diadem began on the night of 11–12 May with an attack by British, American, French, Polish, Canadian and Indian forces along the Gustav Line. French colonial troops, many of them Moroccan mountain soldiers, broke through the Aurunci Mountains, outflanking the German defences; they also committed many rapes against Italian civilians, which caused lasting bitterness. On 18 May soldiers of the Polish II Corps raised the Polish flag over the ruins of Monte Cassino abbey after a week of bloody fighting. The road to Rome through the Liri valley was opening. At Kohima, British and Indian troops cleared the last Japanese from the ridge in mid-May.
+
+@@ 248 | 41.45,12.62 | Anzio | europe
+H: Breakout from Anzio
+P: w:Operation Diadem ; s:Anzio breakout May 1944
+A: On 23 May the US VI Corps, now commanded by Lucian Truscott, broke out of the Anzio beachhead. The plan was to drive east to Valmontone and cut off the German Tenth Army retreating from the Gustav Line. On 25 May, troops from Anzio and the main front linked up. Then General Mark Clark, commander of the Fifth Army, turned the bulk of his forces north toward Rome rather than east to cut off the retreating Germans. Much of the German army escaped to fight again on lines further north. Clark wanted his army to be first into Rome. Historians have argued about the decision ever since.
+
+@@ 249 | 41.90,12.49 | Rome | europe
+H: The drive for Rome
+P: w:Allied capture of Rome ; s:Rome June 1944 Allied troops
+A: In the last days of May the US Fifth Army pushed toward Rome through the Alban Hills, while the Germans fell back to avoid being cut off. Kesselring declared Rome an open city and withdrew. In Britain, the invasion forces were sealed into their camps, and the invasion fleet of thousands of ships began to assemble along the south coast. Weather forecasts for early June were bad. The German high command still believed the main invasion would come in the Pas-de-Calais, thanks partly to an elaborate deception, Operation Fortitude, which included a fictional army group under Patton. Rome was within reach and Normandy days away.
+
+@@ 250 | 49.34,-0.65 | Normandy beaches | europe | bb
+H: Rome liberated; D-Day in Normandy
+P: f:Into the Jaws of Death 23-0455M edit.jpg ; w:Normandy landings ; s:D-Day Omaha Beach 1944
+A: American troops entered Rome on 4 June. Two days later, on 6 June, the Allies landed in Normandy. Overnight, three airborne divisions dropped behind the beaches. At dawn, after heavy bombing and naval bombardment, five divisions landed: Americans at Utah and Omaha, British at Gold and Sword, Canadians at Juno. At Omaha, the Americans suffered heavy losses before getting off the beach. By nightfall some 156,000 Allied troops were ashore, at a cost of about 10,000 casualties, including more than 4,000 dead. The beachheads had not yet linked up and the city of Caen, an objective for the first day, was still in German hands. The German command, convinced this was a diversion, held back reserves.
+
+@@ 251 | 51.50,-0.13 | London / Philippine Sea | europe | bb
+H: The first flying bombs hit London
+P: w:V-1 flying bomb ; s:V-1 flying bomb London 1944
+A: On the night of 12–13 June the first German V-1 flying bombs, pilotless jet-propelled missiles launched from ramps in northern France, fell on London. Within weeks thousands were being fired; they killed over 6,000 people in Britain by the end of the war and drove a new wave of evacuation from the capital. Fighters, anti-aircraft guns and barrage balloons brought down many. In Normandy, the five beachheads had linked up, but the Germans were holding around Caen. In the Pacific, US forces landed on Saipan in the Marianas on 15 June, and the Japanese fleet sailed to give battle, setting up the largest carrier battle in history.
+
+@@ 252 | 54.00,28.00 | Belarus | east | bb
+H: Operation Bagration
+P: f:Bagration 1944 Soviet tanks.jpg ; w:Operation Bagration ; s:Operation Bagration 1944 Vitebsk
+A: On 22 June, three years to the day after Barbarossa, the Red Army launched Operation Bagration against German Army Group Centre in Belarus. Some 1.7 million Soviet troops, with thousands of tanks and aircraft, struck a German front that had been stripped of reserves because the high command expected the main blow in Ukraine. Soviet deception had worked. Partisans blew up railway lines behind German lines before the offensive. In the Philippine Sea on 19–20 June, American carrier pilots shot down hundreds of Japanese aircraft in what they called the "Great Marianas Turkey Shoot"; three Japanese carriers were sunk. The scale and speed of the attack took the German command completely by surprise.
+
+@@ 253 | 49.64,-1.62 | Cherbourg | europe | bb
+H: Cherbourg falls
+P: w:Battle of Cherbourg ; s:Cherbourg June 1944 US troops
+A: On 26 June the German commander in Cherbourg surrendered to the US VII Corps, giving the Allies a deep-water port. The Germans had wrecked the harbour so thoroughly that it took weeks to open; in the meantime, the Allies relied on the beaches and an artificial Mulberry harbour at Arromanches, after a storm from 19 to 22 June had wrecked the American Mulberry at Omaha. In Belarus, Bagration was destroying Army Group Centre: Vitebsk, Mogilev and Bobruisk were surrounded and fell in quick succession. Hitler's orders to hold "fortified places" again condemned the troops in them. In the Pacific, the fighting on Saipan continued.
+
+@@ 254 | 53.90,27.57 | Minsk | east
+H: The destruction of Army Group Centre
+P: w:Minsk offensive ; s:German prisoners Moscow parade 1944
+A: On 3 July the Red Army liberated Minsk, the capital of Belarus, closing a pocket east of the city that trapped about 100,000 German troops. In less than two weeks, Army Group Centre had lost around 28 divisions. It was the worst defeat in German military history, larger than Stalingrad. On 17 July some 57,000 German prisoners were marched through the streets of Moscow, followed by street-cleaning trucks to "wash" the roads behind them. In Normandy, British and Canadian forces attacked Caen, and US forces fought through the bocage, the hedgerow country, where small gains came at high cost. The road to Poland and East Prussia lay open.

@@ -1,0 +1,84 @@
+@@ 146 | 44.62,33.52 | Sevastopol | east
+H: The storming of Sevastopol
+P: w:Siege of Sevastopol (1941–1942) ; s:Sewastopol 1942 Bundesarchiv
+A: After the bombardment, German and Romanian infantry attacked Sevastopol's northern and eastern defences on 7 June. The fighting for the forts, tunnels and ridges was savage and slow, and German casualties mounted fast. The defenders, short of ammunition and cut off from supply by sea as the Luftwaffe sank the ships trying to reach them, were gradually pushed back toward the city and the Chersonese peninsula. In Prague, Heydrich had died of his wounds on 4 June. On 10 June, in reprisal, German forces destroyed the village of Lidice, shooting its 173 men and sending its women and children to camps, where most of the children were murdered. The regime announced it publicly as a warning.
+
+@@ 147 | 32.08,23.97 | Tobruk | africa
+H: Tobruk under threat again
+P: w:Battle of Gazala ; s:Tobruk June 1942
+A: At Gazala, Rommel's forces broke the British line in the second week of June. Bir Hakeim was evacuated by the Free French on 10–11 June after a defence that made Koenig's name. On 12–13 June, in the battles around "Knightsbridge", British armour suffered heavy losses, and the Eighth Army began a disorderly retreat toward the Egyptian frontier, leaving the garrison of Tobruk, mostly South African troops, to hold the port. Unlike in 1941, its defences had been neglected and its garrison was not prepared for a siege. In the Mediterranean, two convoys trying to relieve Malta from east and west in mid-June were mauled; only two merchant ships got through.
+
+@@ 148 | 32.08,23.97 | Tobruk | africa
+H: Tobruk falls in a day
+P: w:Fall of Tobruk ; s:Tobruk 1942 South African prisoners
+A: On 20 June Rommel attacked Tobruk from the south-east after a heavy air and artillery bombardment. The defences cracked within hours, and on 21 June the South African commander, General Klopper, surrendered with about 33,000 men and large stocks of fuel and supplies. Rommel was promoted to field marshal. Churchill heard the news in the White House while meeting Roosevelt; he later called it one of the heaviest blows of the war. Roosevelt asked what America could do, and offered Sherman tanks to the Eighth Army. In Russia, the German summer offensive was poised to start; on 19 June a plane carrying German plans for it crashed behind Soviet lines.
+
+@@ 149 | 51.66,39.20 | Voronezh | east
+H: Fall Blau begins
+P: w:Case Blue ; s:Fall Blau 1942 Panzer Steppe
+A: On 28 June German forces launched Fall Blau, Case Blue, the summer offensive in southern Russia. Army Group South attacked east toward Voronezh on the Don, and then swung south-east along the river. Its aims were to destroy the Soviet armies in the bend of the Don, reach the Volga near Stalingrad, and then drive into the Caucasus to seize the oil fields. Stalin, despite the captured plans, still believed the main danger was to Moscow. Soviet resistance was spotty and German armour advanced fast across the open steppe. Sevastopol fell on 4 July after a month of siege. In Egypt, the Eighth Army stopped Rommel at the first battle of El Alamein, starting 1 July.
+
+@@ 150 | 30.83,28.95 | El Alamein | africa
+H: Rommel stopped at El Alamein
+P: w:First Battle of El Alamein ; s:El Alamein July 1942
+A: El Alamein was a railway halt about 100 kilometres west of Alexandria, where the desert narrowed between the sea and the impassable Qattara Depression to a gap of 60 kilometres. Auchinleck, who had taken direct command of the Eighth Army, stopped Rommel's exhausted forces there in the first days of July and counterattacked repeatedly through the month. In Cairo, the British embassy had burned papers in what became known as "Ash Wednesday". On the Eastern Front, German troops took Voronezh. In the Arctic, convoy PQ 17 was ordered to scatter on 4 July after a false alarm that the Tirpitz was out; U-boats and aircraft sank 24 of its 35 merchant ships.
+
+@@ 151 | 48.71,44.51 | Stalingrad | east
+H: Hitler splits the offensive
+P: w:Battle of Stalingrad ; s:Bundesarchiv Don 1942 Wehrmacht
+A: On 13 July Hitler sacked Field Marshal von Bock, commander of Army Group South, for delays at Voronezh. He split the army group in two: Army Group A would drive south into the Caucasus, and Army Group B would advance to the Volga at Stalingrad. On 23 July his Directive 45 ordered both to proceed at once rather than one after the other, overstretching forces that were already short of fuel. In the field, the Germans were advancing fast but taking far fewer prisoners than in 1941, because Soviet commanders were now allowed to retreat and did. Some German generals read this as a sign of collapse; others saw a trap.
+
+@@ 152 | 47.23,39.70 | Rostov-on-Don | east
+H: Across empty steppe to the Don
+P: w:Battle of Rostov (1942) ; s:Rostov 1942 Bundesarchiv
+A: German armour drove south-east across the steppe of the Don bend in July, covering huge distances against little resistance. Rostov, the gateway to the Caucasus, fell on 23–24 July after a short battle. The Wehrmacht had gained territory but not destroyed the Soviet armies it had come to encircle; they had retreated across the Don. German supply lines were stretched; fuel ran out frequently. In occupied Europe, the deportation of Jews was accelerating: the Vel' d'Hiv round-up in Paris on 16–17 July seized more than 13,000 Jews, including over 4,000 children, arrested by French police. The great deportations from the Warsaw Ghetto to Treblinka began on 22 July.
+
+@@ 152b | 47.50,40.70 | Lower Don | east
+H: The great traffic jam on the Don
+P: w:Case Blue ; s:Wehrmacht 1942 Fahrzeugkolonne Steppe
+A: In late July Hitler ordered most of the panzer forces of both army groups to converge on the lower Don near Rostov to trap Soviet armies thought to be there. The armies were not there, and the result was a massive traffic jam of armour, trucks and supply columns on a few river crossings, while the drive on Stalingrad was starved of fuel and the Sixth Army advanced with infantry alone. The Fourth Panzer Army was then turned back toward Stalingrad from the south, wasting more time and fuel. Hitler's interference created confusion at exactly the moment when speed mattered most. Soviet forces used the lull to fortify the approaches to Stalingrad.
+
+@@ 153 | 48.71,44.51 | Stalingrad approaches | east
+H: "Not a step back!"
+P: w:Order No. 227 ; s:Red Army 1942 Stalingrad defenders
+A: On 28 July Stalin issued Order No. 227, read out to every unit: "Not a step back!" It acknowledged that the Soviet Union had lost huge territory and that further retreat would mean ruin. Officers and commissars who allowed unauthorised withdrawal would be court-martialled; blocking detachments were authorised to stop soldiers fleeing; penal battalions were created. The order came after Rostov's fall and a period of panic in the south. German forces of the Sixth Army under Friedrich Paulus reached the big bend of the Don west of Stalingrad. In the Caucasus, Army Group A pushed toward Maikop and the oil fields.
+
+@@ 154 | -9.43,160.00 | Guadalcanal | pacific
+H: The Marines land on Guadalcanal
+P: w:Guadalcanal campaign ; s:Marines landing Guadalcanal 1942
+A: On 7 August about 11,000 US Marines landed on Guadalcanal and neighbouring islands in the Solomons, where the Japanese were building an airfield that could threaten the supply route between the US and Australia. It was the first American land offensive of the war. The landings met little resistance and the airfield, renamed Henderson Field, was taken the next day. But on the night of 8–9 August a Japanese cruiser force surprised the Allied naval screen off Savo Island and sank four heavy cruisers. The transports withdrew, leaving the Marines short of supplies. Both sides began pouring men, aircraft and ships into a campaign that would last six months.
+
+@@ 155 | 44.60,40.10 | Maikop | east
+H: The oil fields burn
+P: w:Battle of the Caucasus ; s:Maikop oil 1942
+A: German armour of Army Group A reached Maikop, the first of the Caucasus oil centres, on 9 August, only to find the oil wells and refineries wrecked by retreating Soviet engineers. It would take months to produce any oil at all, and the much larger fields at Grozny and Baku were still far away over mountains. The advance slowed as fuel shortages bit and Soviet resistance stiffened along the passes. On 12 August Churchill arrived in Moscow to tell Stalin there would be no second front in Europe in 1942, only an invasion of North Africa. The meeting was tense, though the two men ended it drinking until the early morning.
+
+@@ 156 | 43.35,42.44 | Mount Elbrus | east
+H: The swastika on Elbrus
+P: w:Mount Elbrus ; s:Gebirgsjäger Elbrus 1942
+A: On 21 August German mountain troops climbed Mount Elbrus, the highest peak in the Caucasus and in Europe, and planted the Reich war flag on its summit. Propaganda made much of it; Hitler was furious that his troops were climbing mountains while the oil fields remained out of reach. On 19 August, a mostly Canadian force raided the French port of Dieppe. Of about 6,000 men, nearly 1,000 were killed and around 2,000 captured in a few hours. The raid was a costly lesson in how not to attack a defended port. On 23 August, German forces reached the Volga north of Stalingrad, and the Luftwaffe bombed the city heavily.
+
+@@ 157 | -8.50,163.00 | Eastern Solomons | pacific
+H: The carriers clash again
+P: w:Battle of the Eastern Solomons ; s:USS Enterprise 1942 Eastern Solomons hit
+A: On 24–25 August American and Japanese carrier forces fought the Battle of the Eastern Solomons as Japan tried to land reinforcements on Guadalcanal. The Japanese lost the light carrier Ryujo and many aircraft; the Enterprise was damaged. The Japanese convoy turned back, and from then on Japan increasingly moved troops to Guadalcanal at night by fast destroyers, which the Americans called the "Tokyo Express". On the island, Marines had repulsed a Japanese attack at the Tenaru River on 21 August, almost wiping out the assault force. In New Guinea, Japanese troops pushing over the Kokoda Track toward Port Moresby and landing at Milne Bay met determined Australian resistance.
+
+@@ 158 | 48.71,44.51 | Stalingrad | east
+H: Three years of war
+P: w:Battle of Stalingrad ; s:Stalingrad 1942 burning city
+A: The war entered its fourth year with the Axis at its greatest extent: Germans on the Volga and in the Caucasus, Rommel 100 kilometres from Alexandria, Japan holding an empire across Asia and the Pacific. At El Alamein, Rommel's last attempt to break through at Alam Halfa between 30 August and 5 September was stopped by the Eighth Army's new commander, Bernard Montgomery. At Stalingrad, the German Sixth Army and Fourth Panzer Army closed on the city from the west and south. Soviet troops of the 62nd Army were pushed back into the city itself. At sea, U-boat sinkings were reaching their peak.
+
+@@ 159 | 50.00,40.00 | Vinnytsia / Werwolf HQ | east
+H: Hitler turns on his generals
+P: w:Werwolf (Wehrmacht headquarters) ; s:Hitler Halder 1942
+A: From his forward headquarters at Vinnytsia in Ukraine, Hitler raged at the slow progress in the Caucasus and the Don. On 9 September he dismissed Field Marshal List and took personal command of Army Group A himself, from hundreds of kilometres away. On 24 September he dismissed the army chief of staff Franz Halder, who had argued with him over Stalingrad and the overstretched front, replacing him with Kurt Zeitzler. Hitler refused to shake hands with Jodl for months after a disagreement and had stenographers record every word of his military conferences from then on. The German high command was becoming a place where telling the truth was risky.
+
+@@ 159b | 48.71,44.51 | Stalingrad | east
+H: Stalingrad becomes an obsession
+P: w:Battle of Stalingrad ; s:Stalingrad September 1942 ruins
+A: By mid-September the battle for Stalingrad itself had begun. The city's symbolic name was now more important to both dictators than its military value, which mainly lay in blocking the Volga as a supply route. Paulus's Sixth Army attacked the city centre on 13 September. Soviet General Vasily Chuikov, who had taken command of the 62nd Army the day before, kept his units close to the Germans so that their artillery and aircraft could not strike without hitting their own men. The Soviet 13th Guards Division crossed the Volga under fire on the night of 14–15 September and retook the central station and the Mamayev Kurgan hill.
+
+@@ 160 | 48.71,44.51 | Stalingrad | east
+H: Stalingrad does not fall
+P: w:Battle of Stalingrad ; s:Stalingrad grain elevator 1942
+A: Through mid-September German troops fought block by block into central Stalingrad, taking the main railway station, which changed hands many times, and reaching the Volga in the city centre. German news agencies prematurely reported that the city had fallen. Soviet reinforcements crossed the river nightly in boats under fire, many of them killed before they reached the bank. The giant grain elevator in the south of the city was defended for days by a small group of Soviet troops. In Moscow, Zhukov and Vasilevsky proposed to Stalin a counteroffensive, later code-named Uranus, against the weak Romanian armies on the flanks.

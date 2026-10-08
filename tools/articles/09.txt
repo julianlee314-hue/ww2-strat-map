@@ -1,0 +1,99 @@
+@@ 161 | 48.75,44.50 | Stalingrad | east
+H: Factory by factory, room by room
+P: w:Battle of Stalingrad ; s:Stalingrad 1942 Red October factory
+A: By late September the battle had moved to the great factory district in the north of Stalingrad: the Tractor Factory, the Barrikady gun works and the Red October steel plant. Fighting went on in workshops, cellars and sewers, often at a few metres' range. German troops called it Rattenkrieg, rat war. Soviet snipers became heroes in the press. Losses on both sides were enormous; a Soviet rifleman sent across the Volga might survive only days. Chuikov's army held only narrow strips along the river bank, but it held. The Soviet command fed in just enough men to keep the defence alive while it quietly gathered armies north and south of the city for the counter-stroke.
+
+@@ 162 | 48.74,44.53 | Mamayev Kurgan, Stalingrad | east
+H: The Soviet Thermopylae
+P: w:Mamayev Kurgan ; s:Stalingrad October 1942 Soviet soldiers ruins
+A: Soviet propaganda compared the defence of Stalingrad to the stand at Thermopylae. The hill of Mamayev Kurgan, which overlooked the city and the river crossings, changed hands repeatedly; its soil was later found to contain huge quantities of shell fragments. A building in the city centre held for nearly two months by a small group under Sergeant Yakov Pavlov became known as Pavlov's House. In the Caucasus the German advance had stalled short of Grozny and in the mountains above the Black Sea coast. In Egypt, Montgomery was building up the Eighth Army for a set-piece offensive, with new Sherman tanks arriving from America.
+
+@@ 163 | 48.71,44.51 | Stalingrad | east
+H: Paulus against Chuikov
+P: w:Vasily Chuikov ; w:Friedrich Paulus ; s:Paulus Stalingrad 1942
+A: Friedrich Paulus, a careful staff officer commanding the Sixth Army, launched a series of attacks in October to clear the remaining Soviet bridgeheads on the Volga. On 14 October a massive assault on the Tractor Factory pushed the Germans to the river in the north and nearly split the 62nd Army. Vasily Chuikov, tough, blunt and willing to accept enormous losses, moved his headquarters into a bunker close to the river bank and kept counterattacking. German infantry companies were down to a few dozen men. Hitler declared in a speech that Stalingrad would be taken and that no power on earth would remove the Germans from it.
+
+@@ 164 | 48.78,44.57 | Stalingrad Tractor Factory | east
+H: No retreat at Stalingrad
+P: w:Stalingrad Tractor Factory ; s:Stalingrad tractor factory ruins 1942
+A: Mid-October saw some of the fiercest fighting of the battle. German troops took the Tractor Factory and pushed to the Volga at several points; the Barrikady works became the next target. Soviet artillery on the east bank of the river, firing across the water, helped make each German gain enormously expensive. The Luftwaffe kept the city under constant attack. Chuikov's units were sometimes reduced to a few hundred metres from the water's edge. On the Soviet side of the river, preparations for Operation Uranus were advanced: over a million men, thousands of tanks and guns, moved in secret at night. The planned date was early November, later moved to 19 November.
+
+@@ 165 | 30.83,28.95 | El Alamein | africa
+H: Showdown at El Alamein
+P: f:El Alamein 1942 - British infantry.jpg ; w:Second Battle of El Alamein ; s:El Alamein October 1942 artillery barrage
+A: On the night of 23 October, more than 800 British guns opened fire along the El Alamein line, starting the second battle of El Alamein. Montgomery's Eighth Army had about 195,000 men and over 1,000 tanks against roughly 116,000 German and Italian troops with about 550 tanks. Engineers cleared paths through the deep Axis minefields, which Rommel called the "Devil's gardens", for the armour to pass. Rommel himself was in Germany on sick leave when the attack began. The first days brought little progress at a heavy cost. Montgomery called it a "dogfight" and kept up the pressure, shifting his attacks to wear down the Axis forces.
+
+@@ 166 | 30.83,28.95 | El Alamein | africa
+H: A general dies; Rommel returns
+P: w:Georg Stumme ; s:Afrika Korps El Alamein 1942
+A: On the first day of El Alamein, General Georg Stumme, commanding in Rommel's absence, drove to the front and came under fire; he died of a heart attack. Rommel flew back on 25 October to find his armour being worn down and his fuel reserves almost gone; British submarines and aircraft had sunk several tankers bound for North Africa. He counterattacked repeatedly against the British salients and lost tanks he could not replace. Australian troops attacked toward the coast in the north, drawing in German reserves. In the Solomons, the Battle of Santa Cruz on 26 October cost the US the carrier Hornet; Japan lost many experienced aircrew.
+
+@@ 167 | 30.83,28.95 | El Alamein | africa
+H: The breakthrough at El Alamein
+P: w:Operation Supercharge ; s:Eighth Army November 1942 advance
+A: On 2 November Montgomery launched Operation Supercharge, a new thrust by British and New Zealand forces. After heavy fighting the Axis front cracked. On 3 November Hitler ordered Rommel to stand fast, "victory or death". Rommel obeyed for a day, then retreated on 4 November with what was left of his armour, leaving behind many of the Italian infantry, who had no transport. About 30,000 Axis soldiers were captured. Churchill ordered church bells rung across Britain on 15 November, the first time since 1940. He later wrote that before Alamein the Allies never had a victory, and after it they never had a defeat, which was not true but became famous.
+
+@@ 168 | 35.70,-0.63 | Oran / Algiers / Casablanca | africa
+H: Operation Torch; Germany occupies Vichy France
+P: f:Operation Torch - Oran.jpg ; w:Operation Torch ; s:Operation Torch landing 1942 Algiers
+A: On 8 November British and American forces landed in French North Africa at Casablanca, Oran and Algiers. Vichy French forces resisted for several days, at a cost of over a thousand dead on each side. Admiral François Darlan, Pétain's deputy, happened to be in Algiers, and the Americans did a deal with him to order a ceasefire on 10 November, to the outrage of the Free French and many Allied supporters. Hitler responded on 11 November by sending troops into the unoccupied zone of France, ending Vichy's nominal independence. Germany also rushed troops into Tunisia by air. On 27 November the French fleet at Toulon scuttled itself rather than fall to the Germans.
+
+@@ 169 | 49.40,43.00 | Don front, north-west of Stalingrad | east
+H: Operation Uranus
+P: w:Operation Uranus ; s:Operation Uranus 1942 Soviet tanks snow
+A: At 7:20 on the morning of 19 November, Soviet artillery opened fire on the Romanian Third Army north-west of Stalingrad. The next day a second attack struck the Romanian Fourth Army to the south. The Romanian troops were poorly equipped and short of anti-tank guns; they fought bravely in places but their lines collapsed. Soviet tank corps drove deep behind the German Sixth Army. In Libya, the Eighth Army retook Tobruk on 13 November and Benghazi on 20 November. On Guadalcanal, the decisive naval battle of 12–15 November ended Japan's main effort to reinforce the island. Within three days the two Romanian armies had ceased to exist as fighting forces.
+
+@@ 170 | 48.36,43.24 | Kalach | east
+H: The Sixth Army is trapped; Operation Mars fails
+P: w:Operation Mars ; s:Kalach 1942 Soviet link-up
+A: On 23 November Soviet tank spearheads from north and south met at Kalach on the Don, encircling about 300,000 German and Axis troops in and around Stalingrad. Paulus asked for freedom to break out. Göring promised that the Luftwaffe could supply the pocket by air, which was never realistic, and Hitler ordered the Sixth Army to hold "Fortress Stalingrad". At the same time, a massive Soviet offensive, Operation Mars, under Zhukov, was launched against the German salient at Rzhev, west of Moscow. It failed with enormous losses and was barely mentioned in Soviet histories for decades. Uranus succeeded; Mars did not.
+
+@@ 171 | 48.71,44.51 | Stalingrad pocket | east
+H: The airlift fails
+P: w:Stalingrad airlift ; s:Ju 52 winter Stalingrad
+A: The Sixth Army needed at least 300 tonnes of supplies a day by air; the Luftwaffe rarely delivered a third of that. Transport aircraft were shot down by Soviet fighters and anti-aircraft guns, grounded by winter weather, or lost on the airfields that the Soviets kept pushing back. Inside the pocket, rations were cut, horses were slaughtered, and fuel ran out. Field Marshal Manstein was put in charge of a new Army Group Don to relieve Stalingrad. In Tunisia, German forces stopped the Allied drive on Tunis in early December. In North Africa, Darlan was assassinated in Algiers on 24 December.
+
+@@ 172 | 21.36,-157.95 | Pearl Harbor | pacific
+H: A year since Pearl Harbor
+P: w:Attack on Pearl Harbor ; s:USS Arizona memorial Pearl Harbor 1942 salvage
+A: On 7 December the United States marked the first anniversary of Pearl Harbor. In a year, the country had built a war economy of enormous scale: production of aircraft, tanks and ships was multiplying, and over five million men were in uniform. American forces had fought Japan to a standstill at Midway and on Guadalcanal and were in North Africa. On 2 December, in a squash court under the stands of a Chicago stadium, scientists led by Enrico Fermi had produced the first self-sustaining nuclear chain reaction. On 12 December Manstein's relief offensive, Operation Winter Storm, set out from the south-west toward Stalingrad.
+
+@@ 173 | -9.43,160.00 | Guadalcanal | pacific
+H: Guadalcanal's war of attrition
+P: w:Guadalcanal campaign ; s:Guadalcanal 1942 Marines jungle
+A: By December the Marines who had landed in August were exhausted, many sick with malaria and other tropical diseases; they began to be relieved by Army units. Japanese troops on the island, cut off from regular supply, were starving. Japanese soldiers called it "Starvation Island". The night supply runs of the Tokyo Express could not keep pace. In Tokyo, the high command debated whether to abandon it. Manstein's relief force fought within about 50 kilometres of the Stalingrad pocket, but on 16 December the Soviets launched Operation Little Saturn against the Italian Eighth Army further north, threatening Manstein's rear. Nobody on either side expected the island to be easy.
+
+@@ 174 | 48.40,42.50 | Middle Don | east
+H: A red Christmas
+P: w:Operation Little Saturn ; s:Italian Eighth Army retreat Don 1942
+A: Little Saturn shattered the Italian Eighth Army on the middle Don and sent Soviet tanks deep into the German rear, including a raid on the airfield at Tatsinskaya that destroyed dozens of transport aircraft on 24 December. Manstein had to call off Winter Storm on 23 December and pull back; Paulus had never been given permission to break out to meet him. The Sixth Army spent Christmas in the pocket in freezing cold, on starvation rations. Soviet loudspeakers broadcast the ticking of a clock and the message that a German soldier died every seven seconds in Russia. The Italian retreat across the frozen steppe in the following weeks was a disaster.
+
+@@ 175 | 48.71,44.51 | Stalingrad pocket | east
+H: The year turns at Stalingrad
+P: w:Battle of Stalingrad ; s:Stalingrad January 1943 German soldiers
+A: As 1943 began, the Germans in Stalingrad were beyond rescue. In the Caucasus, Army Group A began to withdraw on 1 January to avoid being cut off by the Soviet advance toward Rostov. At the Casablanca Conference later in January, Roosevelt and Churchill would agree to demand the unconditional surrender of the Axis powers. In the Pacific, Japanese forces at Buna in New Guinea were overwhelmed by Australian and American troops on 2 January after weeks of bitter fighting. In Germany, Goebbels prepared the population for bad news. The Allies were now attacking everywhere, and the initiative had passed from the Axis.
+
+@@ 176 | 47.23,39.70 | Southern Russia | east
+H: The Red Army attacks along the front
+P: w:Battle of the Caucasus ; s:Soviet offensive January 1943 tanks
+A: Early January brought Soviet attacks along much of the southern front. Soviet forces pressed toward Rostov from the north-east, trying to cut off Army Group A as it pulled back from the Caucasus. In the Stalingrad pocket, Soviet commanders offered Paulus surrender terms on 8 January. Under orders from Hitler, he refused. On 10 January Operation Koltso, Ring, began with a massive bombardment; the pocket was pushed back and its last airfields were lost. German troops inside were starving and freezing; many were wounded or sick with no hope of evacuation. Hitler kept promoting the trapped officers in the hope they would fight on.
+
+@@ 177 | 59.95,31.03 | Shlisselburg, Lake Ladoga | east
+H: A corridor into Leningrad
+P: w:Operation Iskra ; s:Operation Iskra 1943 Leningrad
+A: On 12 January Soviet troops from inside Leningrad and from the Volkhov front attacked from both sides of the German-held corridor south of Lake Ladoga, in Operation Iskra, Spark. On 18 January they met, opening a land corridor about ten kilometres wide along the lake shore. A railway was built across it in under three weeks, under German artillery fire. The siege was not lifted, but food and supplies could now reach the city by rail. Some 800,000 civilians had died in Leningrad by this point, most from starvation in the winter of 1941–42. The road across the frozen lake, the "Road of Life", had kept the city alive until now.
+
+@@ 178 | 52.52,13.38 | Berlin / Stalingrad | east
+H: Hitler's interference and its price
+P: w:Battle of Stalingrad ; s:Stalingrad Gumrak airfield 1943
+A: By mid-January the Stalingrad pocket had shrunk dramatically and its main airfield at Pitomnik was lost on 16 January. The last flights out from Gumrak carried the wounded and the mail. Further north, Soviet forces smashed the Hungarian Second Army on the Don near Voronezh in an offensive that began on 13 January; the Hungarians lost around 100,000 men. Hitler insisted every position be held, even where withdrawal could have saved armies, and his generals increasingly saw his decisions as the main cause of the disaster. At Casablanca, Churchill and Roosevelt met from 14 to 24 January and announced the unconditional surrender demand.
+
+@@ 179 | 32.89,13.19 | Tripoli / Tunisia | africa
+H: Tripoli falls; Rommel's future in doubt
+P: w:Tunisian campaign ; s:Eighth Army Tripoli January 1943
+A: On 23 January the Eighth Army entered Tripoli, the capital of Italian Libya, three months after Alamein and some 2,200 kilometres further west. Mussolini's African empire was gone. Rommel, tired and ill, withdrew to the Mareth Line, old French fortifications in southern Tunisia. Italian and German commanders were frustrated with him; the Italian high command wanted him replaced. In Tunisia, Axis forces under General Hans-Jürgen von Arnim held a bridgehead around Tunis and Bizerte. On the Eastern Front, the Stalingrad pocket was split in two on 26 January. Paulus remained in a department store basement in the city centre. The desert war was entering its last act.
+
+@@ 179b | 48.71,44.51 | Stalingrad | east
+H: Stalingrad: the end
+P: f:Friedrich Paulus arriving at HQ.jpg ; w:Battle of Stalingrad ; s:Stalingrad surrender 1943 Paulus
+A: On 30 January Hitler promoted Paulus to field marshal, a hint that no German field marshal had ever surrendered and that he should kill himself. Paulus surrendered the next day, 31 January, in the basement of the Univermag department store. The northern pocket gave up on 2 February. About 91,000 German and Axis soldiers went into captivity, including 22 generals; only some 5,000 would return home, the last in 1955. Germany declared three days of national mourning. Soviet losses in the battle were over a million killed, wounded and captured. Stalingrad did not end the war, but it ended the belief, in Germany and outside it, that Germany could win it.

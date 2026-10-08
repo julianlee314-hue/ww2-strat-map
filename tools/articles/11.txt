@@ -1,0 +1,119 @@
+@@ 204 | 52.97,36.08 | Orel | east
+H: After Kursk, the Soviets attack everywhere
+P: w:Operation Kutuzov ; s:Orel 1943 Red Army liberation
+A: With Citadel called off, the Red Army went over to the offensive along much of the front. Operation Kutuzov drove into the Orel salient from the north and east, and on 17 July Soviet forces attacked on the Mius river and the Donets in the south to draw German reserves away. The Germans were short of men everywhere; the panzer divisions that had fought at Kursk were shuttled from crisis to crisis. In Sicily, Patton's Seventh Army swept west and took Palermo on 22 July, while Montgomery's advance up the east coast stalled at the foot of Mount Etna against German resistance. On 19 July Allied bombers struck railway yards in Rome for the first time.
+
+@@ 205 | 41.90,12.49 | Rome | europe
+H: Mussolini falls from power
+P: w:Fall of the Fascist regime in Italy ; s:Mussolini 1943 arrest Rome
+A: On the night of 24–25 July the Fascist Grand Council, meeting for the first time since 1939, voted 19 to 8 for a motion that effectively asked King Victor Emmanuel III to take back command of the armed forces. The next afternoon the king received Mussolini, told him he was dismissed, and had him arrested as he left. Marshal Pietro Badoglio became prime minister and announced that the war would go on at Germany's side; few believed it, least of all Hitler, who began moving divisions into Italy. Crowds celebrated in Italian cities. On the same night RAF bombers began Operation Gomorrah against Hamburg.
+
+@@ 206 | 44.94,26.02 | Ploiești | europe
+H: The Ploiești raid and the Hamburg firestorm
+P: w:Operation Tidal Wave ; s:B-24 Ploiești 1943 low level
+A: On 1 August 177 US B-24 Liberators flew from Libya to bomb the Romanian oil refineries at Ploiești, which supplied much of Germany's oil, at extremely low altitude. Navigation errors and strong defences made it a costly raid: 53 aircraft were lost, and damage to the refineries was repaired within weeks. In Hamburg, the RAF raid on the night of 27–28 July had created a firestorm, a fire so intense it generated hurricane-force winds that sucked oxygen from shelters. Around 35,000 to 40,000 people died over the week of raids, most of them civilians. Germany's leaders were shaken. In Russia, Soviet troops took Orel and Belgorod on 5 August.
+
+@@ 207 | 49.99,36.23 | Kharkov front | east
+H: Manstein's mobile defence
+P: w:Belgorod–Kharkov offensive operation ; s:Kharkov August 1943 Soviet tanks
+A: On 3 August the Red Army launched Operation Rumyantsev, the Belgorod–Kharkov offensive, against Manstein's Army Group South. Soviet tank armies broke through and drove toward Kharkov and the Dnieper. Manstein counterattacked with his remaining panzer divisions in a series of sharp actions around Bogodukhov, inflicting heavy losses on Soviet tank units, as he had in the Great War style of trading space for time. But he could only slow the advance. On 5 August Moscow celebrated the liberation of Orel and Belgorod with the first artillery salute of the war, a tradition that would be repeated hundreds of times. In Sicily, German forces began a skilled withdrawal across the Strait of Messina.
+
+@@ 208 | 38.19,15.55 | Messina | med
+H: Sicily liberated; Italy next
+P: w:Operation Lehrgang ; s:Messina 1943 Allied troops
+A: Between 11 and 17 August German and Italian forces evacuated about 100,000 men and much of their equipment from Sicily across the Strait of Messina to the Italian mainland, protected by dense anti-aircraft guns. Patton's troops entered Messina on 17 August, just ahead of the British. The campaign had taken 38 days. It had also produced an ugly scandal when Patton slapped two soldiers suffering from combat stress in field hospitals. In Lisbon, Italian envoys were secretly negotiating an armistice with the Allies. On 17–18 August RAF bombers hit the German rocket research centre at Peenemünde on the Baltic coast.
+
+@@ 209 | 49.99,36.23 | Kharkov | east
+H: Kharkov changes hands for the last time
+P: w:Fourth Battle of Kharkov ; s:Kharkov liberation 1943
+A: On 23 August Soviet forces retook Kharkov for good. It was the fourth time the city had changed hands in the war, and much of it was in ruins. In the Donbas, Soviet armies broke through the German line on the Mius river. The German southern front was in danger of collapsing, and Manstein demanded the freedom to withdraw behind the Dnieper river. Hitler, who had ordered work started on an "Eastern Wall" defence line along the river, hesitated. In Quebec, Churchill and Roosevelt met at the Quadrant Conference, confirming Operation Overlord for May 1944, and agreeing to share atomic research.
+
+@@ 210 | 38.11,15.65 | Reggio Calabria | med
+H: Four years of war; the Allies land in Italy
+P: w:Operation Baytown ; s:Eighth Army Reggio Calabria 1943
+A: On 3 September, the fourth anniversary of Britain's declaration of war, Montgomery's Eighth Army crossed the Strait of Messina and landed near Reggio Calabria at the toe of Italy, against little resistance. On the same day, in a tent at Cassibile in Sicily, Italian General Giuseppe Castellano secretly signed the armistice with the Allies. It would not be announced for five days. In the Soviet Union, the Red Army liberated Taganrog and broke into the Donbas. In the Pacific, Australian and American forces landed near Lae in New Guinea. The war was now four years old, and the Axis was retreating on every front.
+
+@@ 211 | 40.68,14.76 | Salerno | med
+H: Italy surrenders; landings at Salerno
+P: f:Salerno landings.jpg ; w:Allied invasion of Italy ; s:Salerno landing September 1943
+A: On 8 September Eisenhower announced Italy's armistice. The next morning the US Fifth Army under Mark Clark landed at Salerno, south of Naples, and British troops landed at Taranto. Germany had prepared for Italy's surrender. In Operation Achse, German forces disarmed the Italian army in Italy, France, the Balkans and Greece within days, taking hundreds of thousands of prisoners. The king and Badoglio fled Rome for the south. The Italian fleet sailed for Malta to surrender; the Luftwaffe sank the battleship Roma with a guided bomb. At Salerno, German counterattacks nearly drove the Allies back into the sea. For several days the beachhead hung in the balance.
+
+@@ 212 | 42.44,13.56 | Gran Sasso | europe
+H: Mussolini rescued from the Gran Sasso
+P: w:Gran Sasso raid ; s:Gran Sasso raid 1943 Fieseler Storch
+A: On 12 September German paratroopers in gliders landed at the Campo Imperatore hotel on the Gran Sasso in the Abruzzo mountains, where Mussolini was being held, and flew him out in a light aircraft. SS officer Otto Skorzeny took much of the credit. Hitler set Mussolini up at the head of a puppet state in northern Italy, the Italian Social Republic, based at Salò on Lake Garda. On the Greek island of Cephalonia, German troops massacred thousands of Italian soldiers of the Acqui Division who had resisted being disarmed. At Salerno, Allied naval gunfire and airborne reinforcements saved the beachhead.
+
+@@ 213 | 49.50,32.00 | Dnieper | east
+H: The Red Army reaches the Dnieper
+P: w:Battle of the Dnieper ; s:Dnieper crossing 1943 Soviet
+A: On 15 September Hitler finally authorised Army Group South to retreat behind the Dnieper. German forces withdrew, destroying what they could as they went in a scorched-earth policy. Soviet troops raced to reach the river before the Germans could organise defences, and from 22 September began crossing it on rafts, boats and anything that floated, seizing bridgeheads on the western bank. More than 2,000 soldiers were made Heroes of the Soviet Union for the Dnieper crossings. In Italy, the Allied armies linked up south of Salerno, and the Germans began withdrawing northward to defensive lines across the peninsula. The Eastern Wall existed mostly on paper.
+
+@@ 214 | 40.85,14.27 | Naples / Smolensk | med
+H: Smolensk and Naples liberated, both in ruins
+P: w:Four days of Naples ; s:Naples October 1943 liberation
+A: On 25 September Soviet troops liberated Smolensk, a city that had been in German hands since July 1941; much of it had been destroyed. In Naples, citizens rose against the German occupiers in the "Four Days of Naples" from 27 to 30 September, partly to stop deportations of young men for forced labour. The Germans withdrew, wrecking the port, the water supply and public buildings, and planting time bombs. Allied troops entered on 1 October. In Corsica, Free French forces and local resistance liberated the island by early October, the first French department freed. In Denmark, most of the country's Jews were smuggled to Sweden in early October before a planned round-up.
+
+@@ 215 | 46.50,34.00 | Crimea approaches | east
+H: Could the Soviets cut off Crimea?
+P: w:Lower Dnieper offensive ; s:Crimea 1943 Wehrmacht
+A: In early October Soviet armies advanced in southern Ukraine toward the isthmus at Perekop, threatening to cut off German and Romanian forces in Crimea. Hitler insisted Crimea be held, partly to keep Soviet bombers away from the Romanian oil fields and to keep Romania and Turkey from wavering. German forces evacuated the Kuban bridgehead across the Kerch Strait from the Caucasus between September and early October. On 13 October Italy's Badoglio government declared war on Germany. In the Atlantic, the Allies began using bases in the Portuguese Azores in October, closing a gap in their air cover. Every month of delay in the south cost the Germans more men than they could replace.
+
+@@ 216 | 47.84,35.14 | Zaporizhzhia | east
+H: Zaporizhzhia
+P: w:Battle of the Dnieper ; s:Zaporizhzhia 1943 dam destroyed
+A: In mid-October the Red Army attacked the German bridgehead at Zaporizhzhia, a major industrial city on the Dnieper, which Hitler ordered held to protect the manganese mines at Nikopol. Soviet forces stormed the city in a night attack and took it on 14 October. The Germans had already blown up the great DnieproGES hydroelectric dam, once a showpiece of Soviet industrialisation. To the north, Soviet bridgeheads across the Dnieper near Kiev expanded. Behind the front, the Germans continued to deport civilians and destroy villages as they withdrew. In Italy, the US Fifth Army crossed the Volturno river on 13 October.
+
+@@ 217 | 55.75,37.62 | Moscow | europe
+H: Stalin agrees to a United Nations
+P: w:Moscow Conference (1943) ; s:Moscow Conference 1943 Hull Eden Molotov
+A: At the Moscow Conference of foreign ministers from 18 October to 11 November, Cordell Hull, Anthony Eden and Vyacheslav Molotov agreed on a declaration calling for a general international organisation to maintain peace after the war, the seed of the United Nations. They also issued a declaration on Austria, calling it the first victim of Hitler's aggression, and a declaration on atrocities, warning Germans responsible for war crimes that they would be returned to the countries where they committed them for trial. China signed the Four Power Declaration. The Soviets were assured that the invasion of France would happen in spring 1944.
+
+@@ 218 | 48.00,33.40 | Krivoi Rog | east
+H: Fresh German armour in the East
+P: w:Battle of the Dnieper ; s:Panther tank 1943 Eastern Front
+A: In late October the Germans counterattacked Soviet forces that had broken out of their Dnieper bridgeheads toward Krivoi Rog, the iron-ore centre, using fresh panzer divisions transferred from the west and Italy. The counterattack stopped the Soviet drive for a while and inflicted serious losses. But the Red Army had many more men and tanks, and its commanders were growing more skilful. Meanwhile, Soviet forces in the north broke through toward Nevel. The Wehrmacht was shifting forces from front to front to plug gaps, which meant that every new Allied landing or offensive pulled troops from somewhere else. The initiative stayed with the Red Army.
+
+@@ 219 | -6.20,155.00 | Bougainville | pacific
+H: A new phase in the Pacific war
+P: w:Bougainville campaign ; s:Bougainville 1943 Marines landing
+A: On 1 November US Marines landed at Empress Augusta Bay on Bougainville in the northern Solomons, to build airfields within fighter range of Rabaul. The next night, a US cruiser force defeated a Japanese force sent to attack the landings. On 5 November and again on 11 November US carriers struck Rabaul and badly damaged Japanese cruisers there. The Allies decided not to invade Rabaul but to bypass and isolate it, letting its 100,000 troops wither. This "island-hopping" strategy would shape the rest of the Pacific war. Meanwhile Nimitz's Central Pacific force prepared to invade the Gilbert Islands. Japanese garrisons left behind were cut off and starved of supplies.
+
+@@ 220 | 50.45,30.52 | Kiev | east
+H: Kiev liberated
+P: w:Battle of Kiev (1943) ; s:Kiev November 1943 liberation
+A: On 6 November, the eve of the anniversary of the revolution, Soviet troops liberated Kiev. The main attack had come from a small bridgehead north of the city at Liutezh, where the Soviets had secretly moved a tank army. Moscow fired a 24-gun salute. The city was in ruins and much of its population had fled, been deported or been murdered; tens of thousands of Jews had been killed at Babi Yar in 1941. The Germans had tried in the weeks before to cover up the massacre by burning the bodies. A German counterattack in mid-November retook Zhitomir, but Kiev held. The Ukrainian capital was free after 778 days of occupation.
+
+@@ 221 | 35.69,51.39 | Tehran | mideast
+H: A plot against the Big Three?
+P: w:Operation Long Jump ; s:Roosevelt Cairo Conference 1943
+A: In late November Roosevelt and Churchill met Chiang Kai-shek in Cairo, then flew on to Tehran to meet Stalin for the first time. Before the conference Soviet security warned of a German plot to kill the Allied leaders, and Roosevelt was persuaded to stay at the Soviet embassy compound. A German plan, sometimes called Operation Long Jump, has been told in many versions; historians doubt it got beyond intelligence gossip, and some suspect the Soviets used the story to keep Roosevelt under their roof, where his rooms may have been bugged. What is certain is that the threat was taken seriously at the time.
+
+@@ 222 | 1.42,172.98 | Tarawa | pacific
+H: Tarawa: the costliest day in Marine history
+P: w:Battle of Tarawa ; s:Tarawa 1943 Marines beach
+A: On 20 November the 2nd Marine Division landed on Betio, the main island of Tarawa atoll in the Gilberts. A low tide left landing craft stuck on the coral reef hundreds of metres from shore, and Marines had to wade in under heavy fire from Japanese bunkers. Over three days more than 1,000 Marines were killed and over 2,000 wounded on an island smaller than a large park; almost all of the 4,500 Japanese and Korean labourers died. Photographs and film of Tarawa shocked the American public. The Marines learned costly lessons in amphibious warfare that improved later landings. Makin was taken by the Army at the same time.
+
+@@ 223 | 35.69,51.39 | Tehran | mideast
+H: The Tehran Conference
+P: f:Tehran Conference, 1943.jpg ; w:Tehran Conference ; s:Tehran Conference 1943 Stalin Roosevelt Churchill
+A: The Big Three met in Tehran from 28 November to 1 December. Stalin pressed for a firm date for the invasion of France and got it: May 1944, with a supporting landing in southern France. In return he promised a Soviet offensive to coincide with it, and agreed to enter the war against Japan after Germany's defeat. They discussed, inconclusively, Germany's future and Poland's borders; Churchill illustrated with matchsticks how Poland might be moved westward. At a dinner, Stalin proposed shooting 50,000 German officers; Churchill walked out in anger. The Western Allies left committed to Overlord and the shape of postwar Europe began to emerge.
+
+@@ 224 | 41.49,13.83 | Gustav Line, Italy | europe
+H: Toward Rome: the Gustav Line
+P: w:Gustav Line ; s:Italy December 1943 mud Allied soldiers
+A: In Italy, the Allied advance had become a slow, bloody crawl through mountains, rain and mud against successive German defensive lines. Field Marshal Kesselring had persuaded Hitler that Italy could be defended south of Rome, and the main line, the Gustav Line, ran across the narrowest part of the peninsula, anchored on the Garigliano and Rapido rivers and the town of Cassino. British and Canadian troops fought on the Adriatic side; Americans and British on the west. Allied planners began considering an amphibious landing behind the Gustav Line, near Anzio, to break the deadlock. Eisenhower was named supreme commander for Overlord on 7 December.
+
+@@ 225 | 15.20,145.70 | Marianas (planned) | pacific
+H: A super bomber to break Japan
+P: w:Boeing B-29 Superfortress ; s:B-29 1943 production
+A: By late 1943 the US Army Air Forces had a new aircraft, the Boeing B-29 Superfortress: pressurised, long-ranged and carrying a heavy bomb load. Its development had been troubled, with engine fires and production problems, and cost more than the atomic bomb project. The plan was to base it first in India and China and strike Japan from there; later, once the Marianas were taken, from Saipan and Guam. American planners saw it as a way to bomb Japan's cities and industries from the air. In Europe, the US Eighth Air Force was suffering heavy losses in daylight raids over Germany and waiting for long-range escort fighters.
+
+@@ 226 | 50.25,28.66 | Zhitomir | east
+H: Stalin's Christmas offensive
+P: w:Zhitomir–Berdichev offensive ; s:Red Army winter 1943 offensive
+A: On 24 December the First Ukrainian Front launched the Zhitomir–Berdichev offensive west of Kiev, breaking through German lines and driving toward the pre-war Polish border. It was the first of a series of winter offensives planned along the entire southern front. On 26 December, in the Barents Sea, British warships sank the battlecruiser Scharnhorst in the Battle of the North Cape as she tried to attack an Arctic convoy; only 36 of her crew of nearly 2,000 survived. Eisenhower was confirmed as supreme commander, with Montgomery as ground commander for the invasion. In Italy, the Allies fought for Ortona on the Adriatic.
+
+@@ 227 | 42.35,14.40 | Ortona | europe
+H: Canadians take "Little Stalingrad"
+P: w:Battle of Ortona ; s:Ortona 1943 Canadian soldiers
+A: In December the 1st Canadian Division fought for the small Adriatic town of Ortona, defended by German paratroopers. The fighting through narrow streets and stone houses was so intense that the press called it "Little Stalingrad". Canadians developed "mouse-holing", blasting through walls from house to house rather than going into the streets. The Germans withdrew on 28 December. The battle cost the Canadians over 1,300 casualties in December. Further west, Allied troops were bogged down in front of the Gustav Line. As 1943 ended, the war in Italy had become a symbol of how expensive the Mediterranean strategy had grown.

@@ -1,0 +1,94 @@
+@@ 1 | 54.41,18.67 | Westerplatte, Danzig | europe
+H: Germany invades Poland
+P: f:Bundesarchiv Bild 183-S55480, Polen, Explosion eines Sprengkommandos.jpg ; w:Invasion of Poland ; w:Battle of Westerplatte
+A: At 4:45 on the morning of 1 September 1939 the old German battleship Schleswig-Holstein opened fire on the Polish depot at Westerplatte, outside Danzig. Within hours roughly 1.5 million German troops crossed into Poland from the west, from East Prussia in the north and from Slovakia in the south. The Luftwaffe bombed airfields, railways and towns; the small town of Wieluń was flattened in one of the first raids of the war. Berlin justified the attack with a staged "Polish" raid on a German radio station at Gleiwitz the night before, carried out by SS men in Polish uniforms. Poland had mobilised late under Anglo-French pressure not to provoke Hitler and was strung out along an indefensible border. Britain and France issued ultimatums. Nobody in Warsaw expected them to arrive in time.
+
+@@ 2 | 51.50,-0.13 | London | europe
+H: Britain and France declare war
+P: w:British and French declaration of war on Germany ; w:Neville Chamberlain ; s:Chamberlain broadcast 1939 declaration war
+A: On Sunday 3 September Britain's ultimatum to Germany expired at 11 a.m. and Neville Chamberlain told the country by radio that it was at war. France followed at 5 p.m. Australia, New Zealand and India were brought in at once; South Africa and Canada decided for themselves within days. Churchill came back into the government as First Lord of the Admiralty. That evening a U-boat sank the liner Athenia off Ireland, killing over a hundred passengers, and Britain assumed unrestricted submarine war had begun. In Poland, meanwhile, German armour broke through the frontier armies and pushed for Warsaw and Kraków. The declarations changed the scale of the conflict but not the fight on the ground. The French army made a token advance into the Saar and stopped. Poland was left to fight alone while its allies prepared.
+
+@@ 3 | 52.23,21.01 | Warsaw | europe
+H: Poland fights alone
+P: w:Siege of Warsaw (1939) ; w:Battle of the Bzura ; s:Warsaw 1939 defence
+A: By the second week German spearheads were on the outskirts of Warsaw, and the capital prepared for siege under its mayor, Stefan Starzyński, who rallied the city on the radio. The Polish Poznań and Pomorze armies, bypassed in the west, turned and struck the German flank on the river Bzura on 9 September in the largest battle of the campaign. It briefly checked the advance before being encircled and ground down by armour and aircraft. Kraków had fallen on 6 September. The government left Warsaw for the south-east, hoping to hold a redoubt near the Romanian border until the Western allies attacked. At a meeting in Abbeville on 12 September, Britain and France agreed in effect not to. The Polish army was still fighting hard, but its strategy depended on help that was not coming.
+
+@@ 4 | 49.84,24.03 | Lwów | europe
+H: The Soviet Union invades from the east
+P: f:Soviet invasion of Poland 1939.jpg ; w:Soviet invasion of Poland ; w:German–Soviet military parade in Brest-Litovsk
+A: On 17 September the Red Army crossed Poland's eastern border with more than half a million men, claiming to protect Ukrainians and Belarusians after the "collapse" of the Polish state. It was the secret protocol of the Molotov–Ribbentrop Pact being carried out. Polish commanders ordered troops not to fight the Soviets except in self-defence; many fought anyway, and some were shot after surrendering. The Polish government and high command crossed into Romania that night and were interned. On 22 September German and Soviet officers held a joint handover and parade in Brest-Litovsk. Lwów surrendered to the Red Army the same day. Poland's hope of a south-eastern redoubt was gone. Two dictatorships were now dividing a country between them, and both intended to destroy its educated class.
+
+@@ 5 | 52.23,21.01 | Warsaw | europe
+H: Warsaw surrenders
+P: w:Siege of Warsaw (1939) ; s:Warsaw September 1939 destroyed ; s:Bundesarchiv Warschau 1939
+A: Warsaw endured a week of heavy artillery fire and air raids, culminating in "Black Monday", 25 September, when the Luftwaffe dropped hundreds of tonnes of bombs and incendiaries on a city without water or power. Thousands of civilians were killed. The garrison capitulated on 27 September and the Modlin fortress a day later. On 28 September Germany and the USSR signed a new treaty adjusting their border: Lithuania went into the Soviet sphere in exchange for more of central Poland for Germany. Polish units still held out on the Hel peninsula and in the east. In Paris, General Sikorski began forming a Polish government-in-exile and an army from those who escaped. Tens of thousands of Polish soldiers and airmen made their way west through Romania and Hungary to keep fighting.
+
+@@ 6 | 51.75,22.05 | Kock, Poland | europe
+H: The last Polish army lays down its arms
+P: w:Battle of Kock (1939) ; w:Occupation of Poland (1939–1945) ; s:Wehrmacht Warsaw parade October 1939
+A: The last organised Polish formation, General Kleeberg's Independent Operational Group Polesie, fought its final battle near Kock and surrendered on 6 October. The campaign had lasted five weeks. Poland lost around 66,000 soldiers killed; Germany about 16,000. Hitler reviewed a victory parade in Warsaw on 5 October and the next day offered the West a "peace" based on the new facts. London and Paris rejected it. Western Poland was annexed outright to the Reich, the rest became the "General Government" under Hans Frank, and the east went to the USSR. Behind the front, SS Einsatzgruppen were already shooting Polish priests, teachers and Jews. In China, meanwhile, Chinese forces were holding a Japanese drive on Changsha, a reminder that a second war had been running in Asia since 1937.
+
+@@ 7 | 59.44,24.75 | Tallinn | europe
+H: Stalin squeezes the Baltic states
+P: w:Soviet–Estonian Mutual Assistance Treaty ; w:Occupation of the Baltic states ; s:Soviet troops Estonia 1939
+A: With Poland divided, Moscow turned to the small states assigned to it. Estonia had signed a "mutual assistance" pact on 28 September under threat of invasion; Latvia signed on 5 October and Lithuania on 10 October, the last sweetened with the return of Vilnius, taken from Poland. Each treaty let the Red Army station tens of thousands of troops on its soil. Formal independence survived for now, but everyone understood what garrisons meant. Thousands of Baltic Germans were summoned "home to the Reich" under a separate deal with Berlin. Finland was invited to talks on the same terms and sent negotiators to Moscow on 12 October. On the Western Front, German and French troops faced each other in near silence, the beginning of what British newspapers came to call the Phoney War.
+
+@@ 8 | 58.93,-3.10 | Scapa Flow | atlantic
+H: A U-boat inside Scapa Flow
+P: w:Sinking of HMS Royal Oak ; w:HMS Royal Oak (08) ; w:Günther Prien
+A: In the early hours of 14 October Kapitänleutnant Günther Prien took U-47 through a gap in the blockships guarding Scapa Flow, the Home Fleet's main anchorage in Orkney, and torpedoed the battleship Royal Oak. She capsized in minutes; 835 men and boys died. Prien slipped out the way he came and was received in Berlin as a hero. For the Royal Navy it was a humiliation that followed the loss of the carrier Courageous to a U-boat in September. The fleet was moved to temporary anchorages on Scotland's west coast while Scapa's defences were fixed. The war at sea, unlike the war on land, was already real: convoys had been reintroduced, merchant ships were being sunk weekly, and both sides were laying mines across the North Sea approaches.
+
+@@ 9 | 50.06,19.94 | Kraków, General Government | europe | sober
+H: Terror in occupied Poland
+P: w:Sonderaktion Krakau ; w:Intelligenzaktion ; s:Bundesarchiv Polen 1939 Deportation
+A: Both occupiers set about dismantling Polish society. In the German-annexed west the "Intelligenzaktion" targeted teachers, priests, landowners and officials; tens of thousands were shot by the end of the year, often in forests near their towns. Jews were robbed, humiliated, forced from their homes and pushed toward the General Government, where Hans Frank took office in Kraków on 26 October. In the Soviet zone, staged "elections" on 22 October produced assemblies that asked to join the USSR, and the NKVD began arrests of officers, police and "class enemies" that would lead to mass deportations and, in spring 1940, the Katyn massacres. Nothing on this scale was hidden from the people living through it, though little reached the outside world in detail. The occupation of Poland was meant to be permanent, and it was planned as a racial and political project from the start.
+
+@@ 10 | 60.17,24.94 | Helsinki | europe
+H: Finland says no
+P: w:Moscow negotiations (1939) ; w:Phoney War ; s:Phoney War French soldiers 1939
+A: The Finnish delegation led by Juho Paasikivi spent October and early November in Moscow. Stalin wanted the border on the Karelian Isthmus pushed back from Leningrad, several Gulf of Finland islands, and a naval base at Hanko, offering Soviet Karelian forest in return. Finland was willing to give some ground but not Hanko or its main defensive line. Talks broke down on 13 November. In the west, the Phoney War settled in: British Expeditionary Force divisions dug in along the Belgian border, French troops sat behind the Maginot Line, and RAF bombers dropped leaflets over Germany rather than bombs. The United States passed the "cash and carry" amendment to its Neutrality Acts on 4 November, letting Britain and France buy American arms if they paid and shipped them themselves.
+
+@@ 11 | 48.14,11.58 | Munich | europe
+H: A bomb in the beer hall
+P: w:Georg Elser ; w:Bürgerbräukeller ; s:Bürgerbräukeller 1939 Zerstörung
+A: On 8 November Hitler gave his annual speech in Munich's Bürgerbräukeller to mark the 1923 putsch. He cut it short to catch a train to Berlin and left thirteen minutes before a bomb hidden in a pillar behind the lectern exploded, killing eight people. It had been built and planted over many nights by Georg Elser, a carpenter acting alone. He was caught at the Swiss border the same evening. The regime blamed British intelligence, and the next day, in a separate operation, SS men kidnapped two British agents at Venlo on the Dutch border. Elser was held in concentration camps for most of the war and murdered at Dachau in April 1945. Hitler took the escape as proof of providence. Plans to attack France that autumn were postponed again, mainly because of weather.
+
+@@ 12 | 51.86,1.29 | Thames Estuary | atlantic
+H: Magnetic mines close the Thames
+P: w:Magnetic mine ; w:Degaussing ; s:HMS Vernon magnetic mine 1939
+A: German aircraft and U-boats had been laying a new weapon in British shipping lanes: a magnetic mine that sat on the seabed and fired when a steel hull passed overhead. Losses spiked in November, including the Dutch liner Simon Bolivar off Harwich with heavy loss of life, and the Thames estuary was at times almost closed. On the night of 22–23 November a mine dropped by parachute landed on mudflats at Shoeburyness. Two Royal Navy officers from HMS Vernon dismantled it by hand and worked out the mechanism. Within weeks the Admiralty had countermeasures: "degaussing" cables wrapped around hulls to neutralise their magnetism and minesweeping techniques that could set the mines off safely. It was an early example of the technical war that would run in parallel with the fighting.
+
+@@ 13 | 63.00,-11.0 | Iceland–Faroes gap | atlantic
+H: The Rawalpindi goes down fighting
+P: w:HMS Rawalpindi ; w:German battleship Scharnhorst ; s:Scharnhorst 1939 Bundesarchiv
+A: On 23 November the German battleships Scharnhorst and Gneisenau broke out into the North Atlantic between Iceland and the Faroes. They ran into HMS Rawalpindi, a P&O liner converted into an armed merchant cruiser with old six-inch guns. Her captain, Edward Kennedy, refused to surrender and fought until his ship was set ablaze and sank; 238 of her crew died. The German ships turned for home rather than risk the Home Fleet. The Kriegsmarine was small compared with the Royal Navy, but its surface raiders and U-boats forced Britain to spread its ships thin across the world's oceans. In the South Atlantic, the pocket battleship Admiral Graf Spee had already sunk several merchant ships and was being hunted by a British cruiser force.
+
+@@ 14 | 60.36,28.60 | Mainila, Karelian Isthmus | europe
+H: The Soviet Union attacks Finland
+P: w:Winter War ; w:Shelling of Mainila ; s:Winter War 1939 Helsinki bombing
+A: On 26 November Moscow claimed that Finnish artillery had shelled the Soviet border village of Mainila, killing Red Army soldiers. Finland denied it and the evidence points to a staged incident. The USSR renounced its non-aggression pact, and on 30 November the Red Army attacked along the whole border with roughly 450,000 men, while bombers struck Helsinki. A day later a puppet "Finnish Democratic Republic" under the exiled communist Otto Kuusinen was proclaimed at Terijoki and promptly recognised by Moscow. The Soviets expected a short campaign; some units were told not to cross into Sweden by mistake. Finland mobilised around 300,000 men under Marshal Mannerheim, short of artillery, anti-tank guns and aircraft, but fighting on home ground in deep forest and winter.
+
+@@ 15 | 60.36,29.16 | Mannerheim Line | europe
+H: The Red Army stalls on the Mannerheim Line
+P: f:Finnish machinegun nest Winter War.jpg ; w:Mannerheim Line ; s:Winter War Finnish soldiers ski
+A: The Red Army's main thrust on the Karelian Isthmus ran into the Mannerheim Line, a belt of trenches, concrete bunkers and tank obstacles far weaker than its later reputation but well sited. Soviet infantry attacked in dense waves across open ground with poor coordination between tanks, artillery and riflemen. Losses were heavy. The purges of 1937–38 had stripped the Red Army of experienced commanders, and political officers second-guessed tactical decisions. North of Lake Ladoga, Soviet columns pushed down narrow forest roads toward the Finnish "waist". The League of Nations expelled the USSR on 14 December, its last significant act. Abroad, Finland became a popular cause: volunteers and donations came from Sweden, Norway, Britain and the United States.
+
+@@ 16 | 64.80,29.30 | Suomussalmi | europe
+H: The Finns cut the columns apart
+P: w:Battle of Suomussalmi ; w:Motti ; s:Suomussalmi 1940 Soviet equipment
+A: Around Suomussalmi in the north and Tolvajärvi north of Ladoga, Finnish troops on skis cut long Soviet road columns into isolated pockets, which they called motti, after the word for a stacked cord of firewood. Each pocket was then starved, frozen and attacked piece by piece. At Tolvajärvi on 12 December the Finns won their first clear victory of the war. At Suomussalmi the Soviet 163rd Division was encircled, and the 44th Division sent to rescue it was destroyed on the Raate road in early January, leaving abandoned guns, tanks and horses along miles of forest. Temperatures fell below –30°C. Many Soviet soldiers lacked winter clothing and had never trained for forest fighting. The world press called it a miracle; Finnish commanders knew they could not keep it up.
+
+@@ 17 | -34.90,-56.16 | Montevideo | atlantic
+H: The Graf Spee is cornered
+P: w:Battle of the River Plate ; w:German cruiser Admiral Graf Spee ; s:Graf Spee scuttled Montevideo
+A: On 13 December three British cruisers, Exeter, Ajax and Achilles, caught the Admiral Graf Spee off the River Plate estuary. The German ship outgunned them and badly damaged Exeter, but she was hit too and put into neutral Montevideo for repairs. Under international law Uruguay allowed only a short stay. British diplomats spread rumours that a carrier and battlecruiser were waiting offshore. On 17 December Captain Hans Langsdorff took his ship out into the estuary and scuttled her in front of large crowds. He shot himself in Buenos Aires three days later. It was Britain's first naval victory of the war and was celebrated accordingly. In China, Nationalist armies were launching a winter offensive against Japanese positions that achieved little at heavy cost.
+
+@@ 18 | 47.92,106.92 | Mongolia / Far East | asia
+H: Moscow and Tokyo after Khalkhin Gol
+P: w:Battles of Khalkhin Gol ; w:Georgy Zhukov ; s:Khalkhin Gol 1939 Soviet tanks
+A: Stalin's east was quieter than his west because of a battle few in Europe had followed. At Khalkhin Gol on the Mongolian–Manchurian border, Soviet and Mongolian forces under Georgy Zhukov had smashed a Japanese force in August 1939, in the same days the Molotov–Ribbentrop Pact was signed. A ceasefire followed in September, and through the winter both governments negotiated border commissions and trade. The lesson in Tokyo was that the Red Army was dangerous, which strengthened those who argued for expansion south toward European colonies rather than north into Siberia. The lesson in Moscow was that Japan could be held. Zhukov's reputation was made. For now the USSR could concentrate on Finland, where its army was still struggling badly as the year ended.
+
+@@ 19 | 65.00,30.00 | Raate road | europe
+H: The Raate road and a stubborn Japan
+P: w:Battle of Raate Road ; w:Battle of Suomussalmi ; s:Raate road 1940
+A: In the first week of January Finnish troops completed the destruction of the Soviet 44th Division on the Raate road near Suomussalmi. Several thousand Soviet soldiers were killed or froze; the Finns captured dozens of tanks and field guns they badly needed. The division's commander, Alexei Vinogradov, escaped but was shot on Stalin's orders for the defeat. In Asia, Japan's war in China ground on. Its armies held the coast, the major cities and the railways but could not force Chiang Kai-shek's government in Chongqing to surrender. Tokyo was now looking at Western supply routes to China, through French Indochina and British Burma, as the thing to cut. The Finnish victories made great headlines; the Red Army quietly began to reorganise for a different kind of attack.

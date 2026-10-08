@@ -1,0 +1,214 @@
+@@ 255 | 15.18,145.75 | Saipan | pacific | sober
+H: Saipan falls, and its civilians die
+P: w:Battle of Saipan ; s:Saipan 1944 Marines
+A: The battle for Saipan ended on 9 July after more than three weeks of fighting. On 7 July several thousand Japanese troops made the largest banzai charge of the war, overrunning American positions before being destroyed. Almost the entire Japanese garrison of about 30,000 died. Thousands of Japanese civilians, told by propaganda that the Americans would torture and kill them, killed themselves, many by jumping from the cliffs at the island's northern tip, despite American appeals through loudspeakers. American losses were about 3,000 dead. Saipan put Tokyo within range of B-29s. In Normandy, British and Canadian troops took most of Caen on 9 July, much of it destroyed by bombing.
+
+@@ 256 | 54.08,21.49 | Wolf's Lair, East Prussia | europe | bb
+H: The July plot against Hitler; Tojo falls
+P: f:Bundesarchiv Bild 146-1972-025-10, Hitler-Attentat, 20. Juli 1944.jpg ; w:20 July plot ; s:Wolfsschanze 20 Juli 1944 Lagebaracke
+A: On 20 July Colonel Claus von Stauffenberg left a bomb in a briefcase under the map table at Hitler's headquarters in East Prussia. It exploded, killing four people, but Hitler survived with minor injuries; the heavy table had shielded him. In Berlin, the conspirators' attempt to seize power collapsed within hours. Stauffenberg and others were shot that night. Thousands were arrested in the following weeks and around 200 executed, many after show trials. Rommel, implicated, was forced to take poison in October. In Tokyo, Hideki Tojo's government resigned on 18 July after the fall of Saipan. In Normandy, Operation Goodwood east of Caen gained little at the cost of hundreds of tanks.
+
+@@ 257 | 49.12,-1.09 | Saint-Lô | europe | bb
+H: Operation Cobra breaks out of Normandy
+P: w:Operation Cobra ; s:Saint-Lô 1944 ruins
+A: On 25 July, after a day's delay and two bombing raids that killed over 100 American soldiers, including General Lesley McNair, by bombs falling short, the US First Army attacked west of Saint-Lô in Operation Cobra. Bombers carpeted a narrow strip of the German front with high explosive, and the German Panzer Lehr Division was virtually destroyed. By 27 July American armour was through the German line and racing south. Coutances fell on 28 July and Avranches, the gateway to Brittany, on 30 July. The stalemate in Normandy was broken. In the east, Soviet forces reached the Vistula and liberated Lublin; nearby they found the Majdanek camp.
+
+@@ 258 | 52.23,21.01 | Warsaw | europe | bb
+H: The Warsaw Uprising
+P: f:Warsaw Uprising - barricade.jpg ; w:Warsaw Uprising ; s:Warsaw Uprising 1944 Home Army
+A: On 1 August the Polish Home Army rose against the German occupiers of Warsaw, timing it as the Red Army approached the city from the east. It aimed to liberate the capital before the Soviets arrived so that Poland's government in London, not Moscow's Polish Committee of National Liberation, could greet them. About 40,000 fighters, poorly armed, took much of the city in the first days. The Red Army halted on the Vistula; Stalin refused for weeks to let Allied planes use Soviet airfields to drop supplies. The Germans brought in SS and police units, and in the district of Wola they massacred tens of thousands of civilians in the first week. In France, Patton's Third Army was activated and swept into Brittany.
+
+@@ 259 | 48.65,-0.98 | Mortain | europe
+H: Hitler's counterattack at Mortain
+P: w:Operation Lüttich ; s:Mortain 1944
+A: On the night of 6–7 August, on Hitler's orders, German panzer divisions counterattacked near Mortain, aiming to reach the coast at Avranches and cut off Patton's army. Warned by Ultra intelligence, the Allies were ready. The US 30th Division held Hill 314 above Mortain for six days, surrounded, and Allied fighter-bombers attacked the German armour in daylight. The attack failed. It also pushed German forces further west, into a pocket that was forming between the Americans advancing from the south and the Canadians and Poles pushing from Caen toward Falaise. On 8 August, Canadian forces began Operation Totalize south of Caen.
+
+@@ 260 | 43.30,6.60 | Provence coast | europe | bb
+H: Dragoon lands in Provence; the Falaise pocket closes
+P: f:Operation Dragoon.jpg ; w:Operation Dragoon ; s:Operation Dragoon 1944 landing
+A: On 15 August American and French forces landed on the Riviera coast of Provence in Operation Dragoon. Resistance was light. French troops took Toulon and Marseille within two weeks, giving the Allies two big ports. In Normandy, the gap at Falaise was narrowing: Canadian and Polish forces from the north and Americans from the south closed it on 19–21 August. Tens of thousands of Germans escaped, but around 50,000 were captured and the roads in the pocket were choked with destroyed vehicles and dead horses. Field Marshal Günther von Kluge, recalled to Berlin after he lost contact with his headquarters, killed himself. Hitler had a very bad week.
+
+@@ 262 | 48.86,2.35 | Paris | europe
+H: Five years of war; Paris is free
+P: f:Crowds of French patriots line the Champs Elysees-edit2.jpg ; w:Liberation of Paris ; s:Liberation of Paris August 1944
+A: The Paris Resistance rose on 19 August, and on 24–25 August the French 2nd Armoured Division of General Leclerc, with the US 4th Infantry Division, entered the city. The German commander, General Dietrich von Choltitz, surrendered on 25 August, having ignored Hitler's orders to destroy the city. De Gaulle walked down the Champs-Élysées the next day to huge crowds. The war was five years old. Romania changed sides on 23 August after a coup by King Michael; the Soviets took the Ploiești oil fields on 30 August. In Slovakia, a national uprising began on 29 August. Allied armies raced across northern France toward the Seine and beyond.
+
+@@ 263 | 50.85,4.35 | Brussels | europe | bb
+H: Brussels liberated; Bulgaria switches sides
+P: w:Liberation of Brussels ; s:Brussels September 1944 Guards Armoured
+A: On 3 September British tanks of the Guards Armoured Division entered Brussels to scenes of wild celebration, after an advance of over 300 kilometres in less than a week. Antwerp, with its great port intact, fell the next day, but the Scheldt estuary connecting it to the sea remained in German hands, making it useless for months. Allied supply lines from Normandy were stretched to breaking point. The Soviet Union declared war on Bulgaria on 5 September; Bulgaria, after a coup on 9 September, declared war on Germany. The first V-2 rockets hit Paris and London on 8 September; unlike the V-1, they could not be intercepted.
+
+@@ 264 | 25.00,102.70 | Yunnan / China | china
+H: Chiang and "Vinegar Joe"
+P: w:Joseph Stilwell ; s:Stilwell Chiang Kai-shek 1944
+A: In China, the Ichi-Go offensive had pushed into Hunan and Guangxi, capturing Changsha and laying siege to Hengyang, which fell in August after a long defence. American air bases were overrun. Roosevelt, under pressure from Stilwell, sent Chiang Kai-shek a blunt message in September demanding that Stilwell be given command of all Chinese forces. Stilwell, known as "Vinegar Joe", delivered it personally and with obvious satisfaction. Chiang, humiliated, demanded his recall. Roosevelt gave way and Stilwell was recalled in October. On the Western Front, Allied forces reached the German border near Aachen, and Patton's Third Army crossed the Moselle. China's war effort remained a source of friction between the allies.
+
+@@ 265 | 51.98,5.91 | Arnhem | europe | bb
+H: Operation Market Garden
+P: f:Operation Market Garden - Arnhem.jpg ; w:Operation Market Garden ; s:Market Garden 1944 paratroopers
+A: On 17 September the Allies launched Operation Market Garden, Montgomery's plan to use three airborne divisions to seize a string of bridges across rivers and canals in the Netherlands, opening a road for British armour to cross the Rhine at Arnhem and outflank the Siegfried Line. American paratroopers took bridges at Eindhoven and Nijmegen after hard fighting; the British 1st Airborne Division landed near Arnhem, far from its objective, and only one battalion under John Frost reached the road bridge. Two SS panzer divisions refitting nearby, which intelligence had warned of, reacted quickly. The ground advance along a single road fell behind schedule.
+
+@@ 266 | 51.98,5.91 | Arnhem / Oosterbeek | europe
+H: The end of Market Garden
+P: w:Battle of Arnhem ; s:Oosterbeek 1944 British airborne
+A: Frost's battalion held the north end of the Arnhem bridge for four days before being overwhelmed on 21 September. The rest of the 1st Airborne Division was pushed into a perimeter at Oosterbeek, under constant shelling. On the night of 25–26 September, about 2,400 men were evacuated across the Rhine; nearly 7,000 were captured or killed. Market Garden had failed, and with it the hope of ending the war in 1944. Montgomery claimed it was "90 per cent successful". The Dutch railway strike that began in support of the operation led the Germans to block food supplies to the western Netherlands, contributing to the "Hunger Winter" in which some 20,000 people died.
+
+@@ 267 | 52.23,21.01 | Warsaw | europe | sober
+H: The end of the Warsaw Uprising
+P: w:Warsaw Uprising ; s:Warsaw 1944 capitulation Home Army
+A: On 2 October, after 63 days of fighting, the Home Army in Warsaw capitulated. The Germans agreed to treat its fighters as prisoners of war. About 16,000 insurgents and up to 200,000 civilians had died, many murdered in massacres. The survivors among the city's civilians were expelled, and Hitler ordered the city razed. German demolition squads blew up building after building in the following months. The Red Army, a few kilometres away across the Vistula, did not intervene. Late, limited Soviet and Allied air drops had made little difference. For Poles, the uprising became a symbol of courage and of betrayal by allies.
+
+@@ 268 | 56.95,24.11 | Riga | east
+H: Army Group North is isolated
+P: w:Baltic offensive ; s:Riga October 1944 Red Army
+A: On 10 October Soviet troops reached the Baltic coast near Memel, cutting off German Army Group North in Courland, in western Latvia. Riga fell on 13 October. Around 200,000 German troops would remain trapped in the Courland pocket until the end of the war, supplied by sea, because Hitler refused to evacuate them. In Greece, German forces withdrew from Athens on 12 October, and British troops landed. In Moscow, Churchill met Stalin on 9 October and proposed the "percentages agreement", jotting on a sheet of paper how much influence each power would have in Romania, Greece, Bulgaria, Hungary and Yugoslavia.
+
+@@ 269 | 50.78,6.08 | Aachen / Belgrade | europe | bb
+H: Belgrade freed; Aachen falls; a coup in Budapest
+P: w:Battle of Aachen ; s:Aachen October 1944 US troops
+A: On 20 October Soviet troops and Tito's Partisans liberated Belgrade. On 21 October the German garrison of Aachen surrendered to the US First Army after three weeks of fighting. It was the first German city to fall to the Western Allies. On 15 October Hungary's Horthy announced on the radio that Hungary had asked the Soviets for an armistice. German commandos under Otto Skorzeny kidnapped his son and forced him to resign. The fascist Arrow Cross party under Ferenc Szálasi took power. Its militias began murdering Jews in Budapest, and death marches of Jews toward Austria began. On 20 October American troops landed on Leyte in the Philippines.
+
+@@ 270 | 10.90,125.50 | Leyte Gulf | pacific
+H: The Battle of Leyte Gulf
+P: w:Battle of Leyte Gulf ; s:Leyte Gulf 1944 battleship
+A: From 23 to 26 October the Japanese navy threw almost everything it had left against the American landings at Leyte in a set of battles known together as Leyte Gulf, the largest naval battle in history. Japanese carriers, nearly empty of aircraft, lured Halsey's main fleet north, while two battleship forces converged on the landing area. One was destroyed in the Surigao Strait; the other, including the giant battleship Yamato, surprised a weak force of escort carriers and destroyers off Samar, which fought desperately, before inexplicably turning back. The Japanese lost four carriers, three battleships and many other ships. The first organised kamikaze attacks were made on 25 October.
+
+@@ 271 | 50.70,6.40 | Hürtgen Forest | europe | bb
+H: Stalin wants Budapest; the Hürtgen Forest
+P: w:Battle of Hürtgen Forest ; s:Hürtgen Forest 1944 US soldiers
+A: On 29 October Soviet and Romanian forces launched an offensive toward Budapest. Stalin, eager to take the city before the Western Allies could influence events in central Europe, pressed his commanders for speed. In the west, the US First Army pushed into the Hürtgen Forest south-east of Aachen, a dense, hilly pine forest full of German bunkers, minefields and pre-registered artillery. Fighting there had begun in September; a new attack in early November by the 28th Division at Schmidt ended in disaster. Trees shattered by shellfire sent splinters flying, and American advantages in armour and air power counted for little. In the Netherlands, Canadian troops fought to clear the Scheldt estuary.
+
+@@ 272 | 50.62,6.35 | Schmidt / Hürtgen | europe
+H: The futile fight in the Hürtgen
+P: w:Battle of Hürtgen Forest ; s:Huertgen forest 1944 Signal Corps
+A: The American attack on the village of Schmidt in early November was thrown back by German counterattacks; the 28th Infantry Division lost over 6,000 men in two weeks. The Hürtgen battle would continue into December, costing the Americans some 30,000 casualties for limited gains. In the Netherlands, the Allies finished clearing the Scheldt estuary on 8 November, after the Canadians and British fought through flooded polders and Walcheren Island. On 7 November Roosevelt was elected to a fourth term. On 12 November RAF Lancasters sank the battleship Tirpitz in a Norwegian fjord with "Tallboy" bombs; around 1,000 of her crew died.
+
+@@ 273 | 52.52,13.38 | Berlin | europe | sober
+H: Himmler looks for a way out
+P: w:Heinrich Himmler ; s:Volkssturm 1944 Berlin
+A: As defeat approached, some Nazi leaders began to seek ways out. Heinrich Himmler, head of the SS and responsible for the genocide of the Jews, ordered in late November that the gassing at Auschwitz be stopped and the crematoria dismantled, partly to destroy evidence. Through intermediaries in Switzerland and Sweden, he explored contacts with the Western Allies and with Jewish organisations, hoping to save himself. The murder of Jews did not end; it moved into death marches and camps inside Germany. The Volkssturm, a militia of boys and older men, was announced on 18 October. In France, the First French Army reached the Rhine near Basel.
+
+@@ 274 | 49.12,6.18 | Metz | europe
+H: Patton and Metz
+P: w:Battle of Metz ; s:Metz November 1944 Third Army
+A: In November Patton's Third Army attacked the fortress city of Metz, ringed by forts from the nineteenth and early twentieth centuries. The autumn campaign in Lorraine, through rain and mud, was slow and costly; the Third Army suffered heavily from trench foot as well as German fire. Metz itself fell on 22 November, although some forts held out until December. Further south, French forces liberated Strasbourg on 23 November, fulfilling an oath sworn by Leclerc in 1941 at Kufra in the Libyan desert. In Germany, Hitler was secretly preparing a major offensive in the Ardennes. Lorraine became a byword for slow, grinding attrition and miserable weather.
+
+@@ 275 | 51.22,4.40 | Antwerp | europe | bb
+H: Antwerp opens; was the Hürtgen worth it?
+P: w:Liberation of Antwerp ; s:Antwerp 1944 port liberty ship
+A: On 28 November the first Allied convoy reached Antwerp, after minesweepers had cleared the 80-kilometre Scheldt channel. The port could now unload tens of thousands of tons a day, close to the front. The Germans attacked it with V-1s and V-2s; Antwerp would be hit by more V-weapons than any other city. In the Hürtgen Forest, the Americans were still fighting; the forest dams on the Roer river, which the Germans could open to flood the valley, were a major objective that had been overlooked at first. Historians have argued whether the whole battle was necessary. In Greece, fighting broke out between British troops and communist-led resistance in Athens.
+
+@@ 276 | 10.90,125.00 | Leyte | pacific
+H: Can the Americans stop the kamikazes?
+P: w:Kamikaze ; s:kamikaze 1944 USS
+A: In late 1944 Japanese pilots began deliberately crashing their aircraft into American ships off the Philippines. The kamikaze "special attack units" were made up mostly of young men with little training. They damaged or sank many ships, including carriers, and their attacks spread fear among American sailors. The US Navy developed new defensive tactics, including radar picket ships and more anti-aircraft guns. On Leyte, the American ground campaign was slower than planned. In Europe, in the Ardennes, the Germans were massing three armies in the forests, while the American divisions in front of them were resting or inexperienced. The weapon was born of desperation, and it worked often enough to frighten.
+
+@@ 277 | 50.25,5.90 | Ardennes | europe | bb
+H: The Battle of the Bulge begins
+P: f:American soldiers of the 289th Infantry Regiment march along the road to cut off the St. Vith-Houffalize road in Belgium, January 24, 1945.jpg ; w:Battle of the Bulge ; s:Battle of the Bulge 1944 snow soldiers
+A: On 16 December three German armies attacked through the Ardennes in Belgium and Luxembourg, aiming to cross the Meuse and take Antwerp, splitting the Allies. They struck a quiet sector held by four American divisions. Fog and low cloud grounded Allied aircraft. The Germans broke through in several places; English-speaking German commandos in American uniforms spread confusion. On 17 December SS troops of Kampfgruppe Peiper shot over 80 American prisoners near Malmedy. American units at St. Vith and elsewhere fought delaying actions that disrupted the German timetable. Eisenhower rushed reinforcements to the area. Within days a salient, the "bulge", had been pushed some 80 kilometres into Allied lines.
+
+@@ 278 | 50.00,5.72 | Bastogne | europe
+H: Bastogne is surrounded
+P: w:Siege of Bastogne ; s:Bastogne December 1944
+A: On 20 December German forces surrounded the town of Bastogne, a crossroads in the Belgian Ardennes, held by the 101st Airborne Division and elements of armoured divisions. On 22 December the Germans demanded surrender; the American commander, General Anthony McAuliffe, replied: "Nuts!" At a conference in Verdun on 19 December, Patton promised to turn his Third Army north and attack the southern flank of the Bulge within days, and did. On 23 December the weather cleared, allowing Allied aircraft to attack German columns and supply Bastogne by air. The German spearheads were running out of fuel near the Meuse. The siege made the 101st Airborne famous.
+
+@@ 279 | 47.50,19.04 | Budapest / Bastogne | europe | bb
+H: Budapest besieged; Bastogne relieved
+P: w:Siege of Budapest ; s:Budapest 1944 siege
+A: On 26 December Patton's 4th Armored Division broke through to Bastogne from the south. The same day, Soviet forces completed the encirclement of Budapest, trapping around 70,000 German and Hungarian troops and 800,000 civilians. Hitler refused to let the city's defenders break out. The siege would last seven weeks and be one of the bloodiest city battles of the war. In the Ardennes, the German 2nd Panzer Division, closest to the Meuse, was destroyed near Celles by American and British armour. The German offensive had failed; the question now was how fast the Allies could reduce the Bulge. Germany's last reserves in the west had been spent.
+
+@@ 280 | 49.00,7.50 | Alsace / Ardennes | europe
+H: 1945 begins
+P: w:Operation Nordwind ; s:Alsace January 1945 US Seventh Army
+A: On 1 January the Luftwaffe launched Operation Bodenplatte, a mass attack on Allied airfields in Belgium and the Netherlands. It destroyed many aircraft on the ground but lost around 300 German planes and many irreplaceable pilots. The same night, the Germans began Operation Nordwind against the US Seventh Army in Alsace, which had been weakened to help in the Ardennes. Eisenhower considered giving up Strasbourg; de Gaulle insisted it be held. In the Ardennes, the Allies began attacking the Bulge from the north and south. In the Philippines, MacArthur's forces prepared to land on Luzon. Germany still had the capacity to strike, but no longer to win.
+
+@@ 281 | 50.80,21.00 | Vistula bridgeheads | east | bb
+H: The Vistula–Oder offensive
+P: w:Vistula–Oder offensive ; s:Vistula-Oder offensive 1945 Soviet tanks
+A: On 12 January the First Ukrainian Front under Konev attacked from its Vistula bridgehead at Sandomierz, and on 14 January the First Belorussian Front under Zhukov attacked from bridgeheads south of Warsaw. The German front collapsed in days. Soviet tank armies advanced up to 70 kilometres a day across Poland in winter weather. The offensive had been brought forward, Stalin later claimed, to help the Western Allies in the Ardennes. On 9 January American troops landed in the Lingayen Gulf on Luzon. In the Ardennes, the US First and Third Armies met at Houffalize on 16 January, cutting the Bulge in half.
+
+@@ 282 | 52.23,21.01 | Warsaw / Kraków | east
+H: The Red Army overruns Poland
+P: w:Vistula–Oder offensive ; s:Warsaw January 1945 ruins
+A: On 17 January Soviet and Polish troops entered the ruins of Warsaw, which had been almost totally destroyed. Kraków, whose historic centre the Germans had abandoned largely intact, fell on 19 January, and Łódź the same day. In the east, the East Prussian offensive had begun on 13 January, and millions of Germans began fleeing west in freezing weather. Many fled too late, because Nazi officials had forbidden evacuation, and were caught by Soviet troops, who committed mass rapes and killings. In the Ardennes, the Bulge had been eliminated by late January; the Americans had suffered about 80,000 casualties. Whole provinces of eastern Germany were emptying.
+
+@@ 283 | 50.03,19.18 | Oświęcim (Auschwitz) | europe | bb sober
+H: Auschwitz is liberated
+P: f:Auschwitz I entrance snow.jpg ; w:Auschwitz concentration camp ; s:Auschwitz gate memorial
+A: On 27 January soldiers of the Soviet 60th Army reached Auschwitz, the largest of the German camps, near the Polish town of Oświęcim. They found about 7,000 prisoners, most of them sick and starving, left behind when the SS had forced some 58,000 others on death marches west in the preceding days. Around 1.1 million people had been murdered there, about one million of them Jews, as well as Poles, Roma, Soviet prisoners of war and others. The SS had blown up the gas chambers and burned records, but warehouses still held hundreds of thousands of garments and huge quantities of human hair. 27 January is now International Holocaust Remembrance Day. This entry is shown without map styling.
+
+@@ 284 | 52.35,14.55 | The Oder | east
+H: Is the Red Army too fast?
+P: w:East Pomeranian offensive ; s:Oder 1945 Soviet bridgehead
+A: By the end of January Zhukov's spearheads had reached the Oder river at Küstrin, about 70 kilometres from Berlin, and seized small bridgeheads on the far bank. Some Soviet commanders wanted to drive on to Berlin at once. But Soviet supply lines were stretched, the spring thaw was coming, and strong German forces in Pomerania threatened Zhukov's northern flank. Stalin halted the drive. On 30 January the liner Wilhelm Gustloff, carrying around 10,000 refugees and military personnel from East Prussia, was torpedoed by a Soviet submarine in the Baltic; over 9,000 died, the largest loss of life in a single ship sinking in history.
+
+@@ 285 | 44.50,34.17 | Yalta / Manila | europe | bb
+H: Yalta; the battle for Manila
+P: f:Yalta Conference (Churchill, Roosevelt, Stalin) (B&W).jpg ; w:Yalta Conference ; s:Yalta Conference 1945
+A: From 4 to 11 February Churchill, Roosevelt and Stalin met at Yalta in Crimea. They agreed on the occupation of Germany in zones, with France getting one; on the founding conference of the United Nations; and that the USSR would join the war against Japan within three months of Germany's defeat, in return for territory in the Far East. On Poland, Stalin agreed to "free and unfettered elections", which never came. In Manila, American forces entered the city on 3 February; the battle for Manila lasted a month. Japanese naval troops who refused to withdraw killed some 100,000 Filipino civilians.
+
+@@ 286 | 51.05,13.74 | Dresden | europe | bb sober
+H: Dresden is bombed
+P: s:Dresden 1945 Rathausturm Blick ; s:Dresden 1945 Frauenkirche ruins ; s:Dresden 1945 Altstadt Trümmer
+A: On the night of 13–14 February RAF Bomber Command attacked Dresden in two waves, and the US Eighth Air Force followed with daylight raids on 14 and 15 February. The attacks created a firestorm that destroyed much of the historic city centre. Around 25,000 people were killed, according to a historians' commission in 2010; Nazi propaganda claimed far higher numbers, and inflated figures persisted for decades. Dresden was a rail and communications centre for the Eastern Front, but the scale of destruction so late in the war became one of the most debated actions of the Allied bombing campaign. Churchill himself questioned it in a memo in March. In Pomerania, a German counterattack, Operation Solstice, briefly struck at Zhukov's flank.
+
+@@ 287 | 24.78,141.32 | Iwo Jima | pacific
+H: Iwo Jima
+P: w:Battle of Iwo Jima ; s:Iwo Jima 1945 Marines landing
+A: On 19 February US Marines landed on Iwo Jima, a small volcanic island halfway between the Marianas and Japan, wanted as an emergency airfield for B-29s and a base for escort fighters. The Japanese garrison of about 21,000 under General Tadamichi Kuribayashi had dug miles of tunnels and bunkers and did not contest the beaches, waiting until they were crowded with men and equipment. On 23 February Marines raised the US flag on Mount Suribachi, captured in a photograph by Joe Rosenthal that became famous worldwide. The fighting lasted five weeks. Almost all of the Japanese garrison died; about 6,800 Americans were killed.
+
+@@ 288 | 20.88,95.86 | Meiktila, Burma | asia
+H: Slim's deception in Burma
+P: w:Battle of Meiktila and Mandalay ; s:Fourteenth Army Burma 1945
+A: In Burma, General Slim's Fourteenth Army crossed the Irrawaddy river in February. Slim had concealed the true direction of his main attack: while the Japanese expected the main blow toward Mandalay, his IV Corps moved secretly south and struck at Meiktila, a key supply and communications centre. It fell on 3 March after fierce fighting. The Japanese 15th Army was cut off from its supply base, and the Japanese counterattacked desperately for weeks. In Europe, the US Ninth Army crossed the Roer river on 23 February as the floodwaters from the dams receded, and the Allies closed in on the Rhine.
+
+@@ 289 | 50.58,7.24 | Remagen | europe | bb
+H: The bridge at Remagen
+P: f:Remagen bridge.jpg ; w:Battle of Remagen ; s:Ludendorff Bridge Remagen 1945
+A: On 7 March a platoon of the US 9th Armored Division reached the Rhine at Remagen and found the Ludendorff railway bridge still standing. German engineers' demolition charges failed to bring it down, and American troops rushed across and established a bridgehead on the eastern bank. Eisenhower said it was "worth its weight in gold". Hitler had several officers executed for failing to destroy it. The bridge itself collapsed on 17 March, killing 28 American engineers, but by then pontoon bridges were in place. The same week Cologne fell to the US First Army. In Hungary, the Germans prepared their last offensive of the war.
+
+@@ 290 | 47.00,18.00 | Lake Balaton | europe
+H: Kesselring takes over in the west
+P: w:Operation Spring Awakening ; s:Lake Balaton 1945
+A: On 10 March Hitler replaced Field Marshal Gerd von Rundstedt as commander in the west with Albert Kesselring, known as "Smiling Albert", who had commanded in Italy. Kesselring told his officers he was the new V-3, a joke about the vengeance weapons. In Hungary, on 6 March, the Germans launched Operation Spring Awakening near Lake Balaton to protect the last oil fields still available to them; it stalled within days in mud and against Soviet defences. In the Pacific, on the night of 9–10 March, US B-29s dropped incendiaries on Tokyo, killing around 100,000 people in the deadliest single air raid in history.
+
+@@ 291 | 21.97,96.08 | Mandalay | asia
+H: Chiang versus Mountbatten
+P: w:Burma campaign (1944–1945) ; s:Mandalay March 1945 Fort Dufferin
+A: In Burma, British and Indian troops took Mandalay on 20 March after fighting for Fort Dufferin. Disagreements between Allied leaders over Burma intensified: Chiang Kai-shek wanted Chinese and American forces in northern Burma withdrawn to China to face the Japanese there, while Admiral Louis Mountbatten, the Allied commander in South-East Asia, wanted to push on to Rangoon before the monsoon. American transport aircraft, essential to Slim's supply, were also wanted in China. In Germany, the Western Allies cleared the west bank of the Rhine, and Patton's troops crossed the Rhine at Oppenheim on the night of 22 March. The race was now against the weather as well as the Japanese.
+
+@@ 292 | 51.66,6.62 | Wesel, Rhine | europe | bb
+H: Crossing the Rhine
+P: w:Operation Plunder ; s:Rhine crossing March 1945 Wesel
+A: On the night of 23–24 March Montgomery's 21st Army Group crossed the Rhine near Wesel in Operation Plunder, after a massive artillery bombardment. On the morning of 24 March two airborne divisions landed east of the river in Operation Varsity. Churchill watched from the west bank and crossed in a boat. Further south, American bridgeheads at Remagen and Oppenheim expanded. German resistance on the Rhine was patchy, and Allied armour began to break out into the German interior. On 19 March Hitler issued the "Nero Decree" ordering the destruction of Germany's infrastructure; Albert Speer worked to undermine it. The last natural barrier in western Germany had fallen.
+
+@@ 293 | 26.33,127.80 | Okinawa | pacific
+H: The Battle of Okinawa begins
+P: w:Battle of Okinawa ; s:Okinawa 1945 landing
+A: On 1 April American forces landed on Okinawa, an island of the Ryukyus about 550 kilometres from Japan, to use as a base for the invasion of Japan. The landing was unopposed: the Japanese had pulled back into strong defensive lines in the south of the island. The fighting that followed lasted almost three months. Kamikaze attacks on the US fleet offshore were heavier than ever. On 7 April American aircraft sank the battleship Yamato, sent on a one-way mission to Okinawa with fuel for a single voyage. Around 100,000 Okinawan civilians died in the battle, some forced to kill themselves by Japanese troops.
+
+@@ 294 | 48.21,16.37 | Vienna / Königsberg | east
+H: Vienna and Königsberg fall; Roosevelt dies
+P: w:Vienna offensive ; s:Vienna April 1945 Soviet troops
+A: On 9 April the German garrison of Königsberg, the capital of East Prussia, surrendered after a four-day assault. On 13 April Soviet forces took Vienna after a week of street fighting. On 12 April President Franklin D. Roosevelt died of a cerebral haemorrhage at Warm Springs, Georgia, and Harry Truman, his vice-president for less than three months, became president. Goebbels told Hitler it was the turning point foretold in the stars. On 11 April American troops liberated the concentration camp at Buchenwald, and on 15 April British troops entered Bergen-Belsen, where they found tens of thousands of sick and dying prisoners.
+
+@@ 294b | 52.58,14.60 | Seelow Heights | east
+H: The Soviet assault on Berlin begins
+P: w:Battle of the Seelow Heights ; s:Seelow Heights 1945 Soviet artillery
+A: Early on 16 April Zhukov's First Belorussian Front opened the Berlin offensive with one of the heaviest artillery bombardments in history from its Oder bridgehead at Küstrin. Searchlights were turned on the German positions to blind the defenders; instead they lit up the Soviet troops in the smoke. The German defenders on the Seelow Heights, having pulled back before the bombardment, held for three days, inflicting heavy losses. To the south, Konev's First Ukrainian Front crossed the Neisse river and made faster progress, and Stalin let him turn north toward Berlin, setting off a race between the two marshals. It was the last great battle of the war in Europe.
+
+@@ 295 | 51.45,7.01 | Ruhr | europe | bb
+H: The Ruhr pocket surrenders
+P: w:Ruhr Pocket ; s:Ruhr pocket 1945 German prisoners
+A: On 1 April the US First and Ninth Armies had met at Lippstadt, encircling Field Marshal Walter Model's Army Group B in the Ruhr industrial region. The pocket was compressed through mid-April, and on 18 April resistance ended. Over 300,000 German soldiers were taken prisoner. Model dissolved his army group and on 21 April shot himself in a forest near Duisburg. American forces reached the Elbe at Magdeburg on 11 April, but Eisenhower had decided to leave Berlin to the Soviets. British troops reached the outskirts of Bremen and Hamburg. In Italy, the final Allied offensive had broken through the German lines.
+
+@@ 296 | 51.56,13.00 | Torgau | europe | bb
+H: The Battle of Berlin; Elbe Day at Torgau
+P: f:Elbe Day.jpg ; w:Elbe Day ; s:Torgau 1945 American Soviet soldiers
+A: On 20 April, Hitler's 56th birthday, Soviet artillery began to shell Berlin. By 25 April Soviet forces had encircled the city. Inside, the defence relied on remnants of army units, SS, Volkssturm and Hitler Youth. On 25 April American and Soviet troops met on the Elbe at Torgau and Strehla, cutting Germany in two; the meeting was celebrated with handshakes, toasts and photographs. In Italy, partisans rose in Milan, Turin and Genoa. On 28 April Mussolini, caught by partisans while trying to escape to Switzerland, was shot with his mistress Clara Petacci; their bodies were displayed hanging in a Milan square.
+
+@@ 296b | 52.51,13.38 | Reich Chancellery, Berlin | europe | bb
+H: Hitler is dead; Berlin falls
+P: f:Raising a flag over the Reichstag - Restoration.jpg ; w:Battle of Berlin ; s:Reichstag May 1945
+A: On 30 April, with Soviet troops a few hundred metres away, Hitler shot himself in his bunker under the Reich Chancellery; his wife, Eva Braun, whom he had married the day before, took poison. Their bodies were burned in the garden. That evening Soviet soldiers raised a flag over the Reichstag; the famous photograph was restaged on 2 May. Berlin's garrison surrendered on 2 May, the same day German forces in Italy surrendered. Admiral Dönitz, named Hitler's successor, tried to delay surrender so that as many Germans as possible could reach the Western Allies. Germany surrendered unconditionally at Reims on 7 May and in Berlin on 8 May. The war in Europe was over.

@@ -1,0 +1,109 @@
+@@ 71 | 31.76,25.08 | Bardia, Libya | africa
+H: Bardia falls
+P: w:Battle of Bardia ; s:Australian troops Bardia 1941
+A: On 3 January the 6th Australian Division, in its first battle of the war, attacked the Italian fortress of Bardia just inside Libya with British tanks and artillery in support. In three days the garrison of some 40,000 surrendered. The Australians moved straight on to Tobruk. The year opened with the British empire winning in Africa while it was bombed at home and losing ships at sea. Roosevelt's State of the Union on 6 January set out the "Four Freedoms" — of speech, of worship, from want, from fear — as the aims a free world should defend. The Lend-Lease bill, titled "An Act to Further Promote the Defense of the United States", went to Congress on 10 January.
+
+@@ 72 | 24.06,35.71 | Tobruk / Eritrea | africa
+H: Tobruk falls, and the empire fights far from home
+P: w:Battle of Tobruk (1941) ; w:East African campaign (World War II) ; s:Tobruk January 1941 Australian
+A: Australian and British troops assaulted Tobruk on 21 January and took it the next day with another 25,000 prisoners and its valuable harbour. Meanwhile British and Indian forces pushed from Sudan into Italian-held Eritrea, and Haile Selassie crossed back into Ethiopia on 20 January with Gideon Force, a small unit of Ethiopian and Sudanese troops led by Orde Wingate. From Kenya, South African, East and West African troops prepared to invade Italian Somaliland. In early January the German Luftwaffe arrived in Sicily and attacked British shipping; the carrier Illustrious was badly damaged off Malta on 10 January. Germany was coming to Italy's rescue in the Mediterranean.
+
+@@ 73 | 30.40,118.30 | Southern Anhui, China | china
+H: China's war within a war
+P: w:New Fourth Army incident ; s:New Fourth Army 1941
+A: In the first weeks of January Nationalist troops ambushed and largely destroyed the headquarters of the communist New Fourth Army in southern Anhui as it moved north under orders from Chiang Kai-shek. Several thousand communist soldiers were killed or captured; the commander Ye Ting was imprisoned. The incident effectively ended the united front between the Nationalists and the Communists that had existed since 1937, though neither side formally renounced it. Both continued to fight Japan, but each also fought to position itself for the struggle that would follow. Japan held the coast and major cities but was bogged down. In Washington, China's supporters were lobbying for Lend-Lease aid to include Chongqing.
+
+@@ 74 | 44.43,26.10 | Bucharest | europe | sober
+H: The Legionary rebellion and the Bucharest pogrom
+P: f:Templul Coral din București.jpg ; w:Choral Temple (Bucharest) ; s:Choral Temple Bucharest
+A: On 21 January members of Romania's fascist Iron Guard, the Legion, rose against their partner in government, General Ion Antonescu. During three days of revolt, legionnaires attacked the Jewish districts of Bucharest. Around 125 Jews were murdered, many in horrific circumstances, synagogues were burned and Jewish homes and shops were looted. Antonescu put down the rebellion with the army, with Hitler's approval: Berlin preferred a reliable general to unstable street fascists. The legionaries' leaders fled to Germany. Antonescu's regime that followed was no protection to Romania's Jews. Within months, after the invasion of the USSR, Romanian forces would carry out massacres in Iași, Bessarabia and Transnistria in which hundreds of thousands of Jews were killed. This entry is shown without map styling.
+
+@@ 75 | 15.78,38.45 | Keren, Eritrea | africa
+H: Africa, the Axis weak point
+P: w:Battle of Keren ; s:Indian troops Eritrea 1941
+A: By the end of January Italy's African empire was cracking on several fronts. In Libya, Australian and British troops took Derna on 30 January and pushed on toward Benghazi. In Eritrea, British and Indian troops reached the mountain fortress of Keren, where the Italians made their most determined stand of the East African campaign; the battle would last until late March. In southern Ethiopia, Kenya-based forces probed the frontier. Italy could not reinforce any of these armies because Britain controlled Suez and the Mediterranean sea lanes were dangerous. Mussolini's prestige was collapsing. In Berlin, Hitler agreed to send a small armoured force to Libya to stop the rot.
+
+@@ 76 | 30.75,20.10 | Beda Fomm | africa
+H: Beda Fomm: an Italian army destroyed
+P: w:Battle of Beda Fomm ; s:Beda Fomm 1941 Italian prisoners
+A: As the Italian Tenth Army retreated along the coast road from Benghazi, O'Connor sent a small force of armour and motorised infantry straight across the desert to cut it off. On 5 February "Combe Force" reached the road at Beda Fomm, south of Benghazi, just ahead of the Italian columns. In two days of desperate fighting the Italians failed to break through, and on 7 February the remnants surrendered. In two months O'Connor's force of at most two divisions had advanced 800 kilometres and taken around 130,000 prisoners. O'Connor wanted to push to Tripoli. London stopped him: troops were needed for Greece. On 6 February Erwin Rommel was appointed to command the German force bound for Libya.
+
+@@ 77 | 32.89,13.19 | Tripoli | africa
+H: Rommel lands in Tripoli
+P: w:Afrika Korps ; w:Erwin Rommel ; s:Rommel Tripoli 1941 Bundesarchiv
+A: Rommel flew to Tripoli on 12 February, and the first units of what would become the Deutsches Afrikakorps began unloading two days later. Officially he was subordinate to the Italian command and his orders were defensive: block any British advance to Tripoli. He immediately pushed his units forward toward the British positions at El Agheila, far beyond what his superiors had in mind, and paraded tanks through Tripoli repeatedly to inflate their apparent numbers. Facing him were tired, scattered British units whose best formations had been withdrawn for Greece or sent to refit. In East Africa, British forces took Kismayu in Italian Somaliland on 14 February.
+
+@@ 78 | 2.04,45.34 | Mogadishu | africa
+H: The long march through Italian East Africa
+P: w:East African campaign (World War II) ; s:King's African Rifles 1941 ; s:South African troops Abyssinia 1941
+A: From Kenya, General Alan Cunningham's force of South African, East African, West African and Gold Coast troops swept north-east through Italian Somaliland. Mogadishu fell on 25 February, and his columns then turned inland toward Ethiopia, covering more than 1,000 kilometres in a few weeks against crumbling resistance. Nigerian and Gold Coast units led much of the advance. In Ethiopia, patriot forces were growing as Haile Selassie moved toward his capital. The Italian commander, the Duke of Aosta, was cut off from reinforcement and short of fuel and ammunition. It was one of the fastest advances of the war and is little remembered outside the countries whose men made it.
+
+@@ 79 | 43.85,25.95 | The Danube, Bulgaria | europe
+H: German engineers bridge the Danube
+P: w:Bulgaria during World War II ; s:Bundesarchiv Bulgarien 1941 Wehrmacht
+A: In late February German engineers prepared pontoon bridges across the Danube from Romania into Bulgaria, ready for the Wehrmacht to cross as soon as Sofia agreed. Hitler had decided to rescue Mussolini in Greece and secure his southern flank before attacking the USSR; he also wanted to keep British bombers in Greece away from the Romanian oil fields at Ploiești. Bulgaria's King Boris was reluctant but surrounded by German power and tempted by the chance to recover territory lost in 1919. Turkey signed a non-aggression declaration with Bulgaria, signalling it would not intervene. In London the decision was taken to send British, Australian and New Zealand troops to Greece.
+
+@@ 80 | 42.70,23.32 | Sofia | europe
+H: Bulgaria joins the Axis
+P: w:Tsar Boris III ; s:German troops Sofia March 1941
+A: On 1 March Bulgaria signed the Tripartite Pact in Vienna, and German troops crossed the Danube the next day and moved toward the Greek border. Britain broke off relations with Sofia. On 4 March British commandos raided the Lofoten Islands in Norway, destroying fish-oil plants and capturing rotor wheels for an Enigma machine. The first British, Australian and New Zealand troops began landing in Greece on 7 March as part of "Lustre Force". The Greek government had accepted them knowing it might provoke Germany. In Libya, the British command assumed Rommel would not be ready to attack until May. It was badly wrong.
+
+@@ 81 | 9.00,38.75 | Ethiopia | africa
+H: The Nigerian advance and Lend-Lease
+P: w:Lend-Lease ; s:Roosevelt signs Lend-Lease 1941 ; s:Nigeria Regiment 1941 Abyssinia
+A: On 11 March Roosevelt signed the Lend-Lease Act, letting the United States lend, lease or give war materials to any country whose defence it judged vital to American security. Britain no longer had to pay in dollars it did not have. It was the end of American neutrality in all but name. In East Africa, Nigerian troops of Cunningham's force advanced at extraordinary speed from Somaliland into Ethiopia, reaching Jijiga on 17 March and then Harar. British forces from Aden retook Berbera on 16 March. At Keren in Eritrea, the battle for the heights continued with heavy losses on both sides. The Italian empire in Africa had weeks left.
+
+@@ 82 | 60.50,-15.00 | North Atlantic | atlantic
+H: The U-boat aces fall
+P: w:Otto Kretschmer ; w:Joachim Schepke ; s:U-boat 1941 Atlantic convoy escort
+A: In one week in March the Royal Navy killed or captured three of Germany's most famous U-boat commanders. On 7 March Günther Prien, who had sunk the Royal Oak, was lost with U-47. On 17 March, while attacking convoy HX 112, Joachim Schepke's U-100 was rammed by HMS Vanoc, and Otto Kretschmer's U-99, the top-scoring boat, was forced to the surface and scuttled; Kretschmer was captured. It suggested escorts with better training and radar could hurt the wolf packs. Losses of merchant ships remained very high. Britain now also had a new Western Approaches command in Liverpool. Elsewhere: Japanese troops pushed in China, and in Africa the British closed on Keren and Harar.
+
+@@ 83 | 44.82,20.46 | Belgrade | europe
+H: Yugoslavia joins the Axis — then doesn't
+P: w:Yugoslav coup d'état ; s:Belgrade 27 March 1941 demonstrations
+A: Under heavy pressure, Yugoslavia's regent Prince Paul signed the Tripartite Pact in Vienna on 25 March. Two days later, a group of Serbian air force officers led by General Dušan Simović overthrew the government in a nearly bloodless coup, declared the 17-year-old Peter II of age, and crowds in Belgrade demonstrated against Germany. The new government tried to avoid war and did not formally repudiate the pact, but Hitler took it as a personal insult. He ordered that Yugoslavia be destroyed "militarily and as a state". The invasion of the USSR was pushed back to fit in a Balkan campaign. On 28 March the Royal Navy defeated the Italian fleet at Cape Matapan off Greece.
+
+@@ 84 | 32.12,20.07 | Benghazi | africa
+H: Rommel attacks
+P: w:Operation Sonnenblume ; s:Afrika Korps April 1941 Panzer
+A: On 31 March Rommel attacked the British positions at Mersa Brega, ahead of his orders and ahead of his superiors' expectations. The thin British front collapsed. Benghazi was abandoned on 3–4 April. Rommel split his forces into columns and sent them across the desert bulge of Cyrenaica toward the coast road, aiming to cut off the British. In the confusion O'Connor, sent forward to advise, was captured on 7 April. Almost everything won in the winter was lost in under two weeks. The Australians fell back into Tobruk. In Iraq, on 1 April, the pro-Axis Rashid Ali al-Gaylani seized power in Baghdad in a coup.
+
+@@ 85 | 44.82,20.46 | Belgrade | europe
+H: Germany invades Yugoslavia and Greece
+P: f:Bundesarchiv Bild 101I-185-0117-02A, Griechenland, Panzer in Ort.jpg ; w:Invasion of Yugoslavia ; w:Battle of Greece
+A: On 6 April Germany attacked Yugoslavia and Greece at once. The Luftwaffe bombed Belgrade in Operation Punishment, killing thousands of civilians. German, Italian and Hungarian forces invaded Yugoslavia from several directions, and its army, spread thin along long frontiers and divided by national tensions, fell apart quickly. In Greece, German armour broke through the Metaxas Line forts and swung through southern Yugoslavia to outflank the main Greek and British positions. Salonika fell on 9 April. On 10 April a Croatian fascist state was proclaimed in Zagreb under the Ustaše, which would soon launch genocidal violence against Serbs, Jews and Roma. In Libya, Rommel surrounded Tobruk.
+
+@@ 86 | 32.08,23.97 | Tobruk | africa
+H: Yugoslavia crushed; Tobruk holds
+P: w:Siege of Tobruk ; s:Tobruk 1941 Australian soldiers
+A: The Royal Yugoslav Army capitulated on 17 April, eleven days after the invasion began. King Peter and the government fled to London. In Greece, British and Commonwealth troops fell back from Mount Olympus to new positions as German armour pressed south. In Libya, Rommel's first attacks on Tobruk on 11–14 April were beaten back by the Australian 9th Division and British artillery. Tobruk was now besieged, supplied by sea from Alexandria at a heavy cost in ships. Its defenders, mocked by German propaganda as rats in a trap, adopted the name "Rats of Tobruk". In Asia, Japan and the Soviet Union signed a neutrality pact on 13 April.
+
+@@ 87 | 38.80,22.53 | Thermopylae | europe
+H: A rearguard at Thermopylae
+P: w:Battle of Thermopylae (1941) ; s:ANZAC Greece 1941 retreat
+A: As Greek resistance collapsed in the north, Australian and New Zealand troops fought a rearguard at the historic pass of Thermopylae on 24–25 April to cover the withdrawal to the southern ports. The Greek army in Epirus, facing Germans behind it and Italians in front, capitulated on 20 April; its commander surrendered without government authority. Prime Minister Alexandros Koryzis killed himself on 18 April. The British began evacuating by sea on 24 April, mostly at night from small beaches in Attica and the Peloponnese. In Iraq, British troops landed at Basra on 18 April under Britain's treaty rights while relations with Rashid Ali's government deteriorated.
+
+@@ 88 | 37.97,23.73 | Athens | europe
+H: Greece falls
+P: w:Axis occupation of Greece ; s:Bundesarchiv Athen 1941 Akropolis
+A: German troops entered Athens on 27 April and raised the swastika over the Acropolis. The evacuation of the British, Australian and New Zealand force ended around 30 April; about 50,000 men were taken off, but thousands were captured and almost all heavy equipment was lost. Many evacuated troops went to Crete. Greece was divided into German, Italian and Bulgarian occupation zones and a famine began within months; tens of thousands died in Athens alone in the winter of 1941–42. On 30 April Rommel's renewed assault on Tobruk was repulsed. In Iraq, Rashid Ali's forces surrounded the RAF base at Habbaniya.
+
+@@ 89 | 60.00,-33.00 | North Atlantic | atlantic
+H: Enigma captured from U-110
+P: w:German submarine U-110 (1940) ; w:Enigma machine ; s:Enigma machine Bletchley
+A: On 9 May the British destroyer Bulldog and other escorts forced U-110 to the surface after an attack on convoy OB 318. A boarding party under Sub-Lieutenant David Balme went into the sinking submarine and brought out its Enigma machine, codebooks and settings documents before it went down under tow. The capture was kept secret for decades; the crew were held apart so they would not report it. Combined with other captures that spring, it helped the codebreakers at Bletchley Park read U-boat signals for much of the rest of 1941, letting the Admiralty route convoys around wolf packs. In Iraq, British forces broke the siege of Habbaniya.
+
+@@ 90 | 55.79,-4.38 | Eaglesham, Scotland | europe
+H: Rudolf Hess flies to Scotland
+P: w:Rudolf Hess ; s:Rudolf Hess Messerschmitt wreck 1941
+A: On the evening of 10 May Rudolf Hess, Hitler's deputy in the Nazi party, flew a Messerschmitt 110 alone from Augsburg to Scotland and parachuted near Eaglesham, apparently hoping to negotiate peace through the Duke of Hamilton. He was arrested and held for the rest of the war. Berlin declared him mentally disturbed; the British said very little, which fed Soviet suspicion for decades. The same night the Luftwaffe made its last major raid of the Blitz on London, killing about 1,400 people and damaging the Commons chamber. In East Africa, the Duke of Aosta's forces at Amba Alagi were surrounded and would surrender on 19 May.
+
+@@ 91 | 35.52,23.85 | Maleme, Crete | med
+H: Paratroopers over Crete
+P: w:Battle of Crete ; s:Fallschirmjäger Kreta 1941 ; s:Crete 1941 German paratroopers
+A: On 20 May Germany launched the first major airborne invasion in history against Crete, dropping thousands of paratroopers on the airfields at Maleme, Rethymno and Heraklion. Losses were appalling on the first day. Allied commanders, who had been warned via Ultra intelligence, were focused on a seaborne landing and failed to retake Maleme airfield, and the Germans flew in reinforcements. Cretan civilians joined the fighting. At sea, the Luftwaffe sank the cruisers Gloucester and Fiji and several destroyers trying to stop sea convoys. Out in the Atlantic, the battleship Bismarck had broken out, and on 24 May she sank the battlecruiser Hood.
+
+@@ 92 | 48.17,-16.20 | North Atlantic | atlantic
+H: The Hood lost, the Bismarck sunk
+P: w:German battleship Bismarck ; w:HMS Hood (51) ; s:Bismarck 1941 Prinz Eugen
+A: On 24 May in the Denmark Strait the Bismarck and Prinz Eugen met HMS Hood and the new battleship Prince of Wales. A shell from Bismarck hit Hood's magazines and she blew up; three of her 1,418 men survived. Bismarck, damaged, headed for France. The Royal Navy threw every available ship into the hunt. On 26 May Swordfish from the carrier Ark Royal jammed her rudder with a torpedo. The next morning the battleships Rodney and King George V reduced her to a wreck and she sank; over 2,000 German sailors died. On Crete, the British began evacuating on 28 May. In Iraq, Rashid Ali fled.

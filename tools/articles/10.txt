@@ -1,0 +1,129 @@
+@@ 180 | -9.43,160.00 | Guadalcanal | pacific
+H: The last offensive on Guadalcanal
+P: w:Guadalcanal campaign ; s:Guadalcanal 1943 US Army
+A: In January the American XIV Corps under General Alexander Patch, now including Army and Marine divisions, launched an offensive to clear the remaining Japanese from Guadalcanal. Japanese forces, starving and diseased, fought delaying actions in the hills west of Henderson Field. What the Americans did not know was that Tokyo had already decided on 31 December to withdraw. Between 1 and 7 February, fast destroyers evacuated some 10,000 Japanese troops at night in Operation Ke, an operation the Americans mistook for another reinforcement. On the Eastern Front, Soviet forces were pushing west toward Kursk and Kharkov, and on 8 February they retook Kursk.
+
+@@ 181 | -9.43,160.00 | Guadalcanal | pacific
+H: Victory on Guadalcanal
+P: w:Operation Ke ; s:Henderson Field 1943
+A: On 9 February Patch reported that organised Japanese resistance on Guadalcanal had ended: "Tokyo Express no longer has terminus on Guadalcanal." The six-month campaign had cost Japan around 25,000 dead, many from starvation and disease, along with hundreds of aircraft and dozens of warships. American losses were about 7,000 dead. Combined with Midway, it ended Japan's ability to expand and began a war of attrition Japan could not win. In Tunisia, German forces under Rommel prepared a counteroffensive against the inexperienced US II Corps. On the Eastern Front, the Red Army retook Rostov on 14 February. Neither side would forget the lessons of the campaign.
+
+@@ 182 | 49.99,36.23 | Kharkov | east
+H: Kharkov liberated, briefly
+P: w:Third Battle of Kharkov ; s:Kharkov February 1943 Soviet troops
+A: On 16 February Soviet troops entered Kharkov, which German forces had abandoned against Hitler's orders. Soviet armies pushed south-west toward the Dnieper, and it looked to Moscow as though the German southern front was collapsing. Hitler flew to Manstein's headquarters at Zaporizhzhia on 17 February, while Soviet tanks were just kilometres away. Manstein persuaded him to allow a mobile defence and a counterstroke. On 18 February, in Berlin, Goebbels gave his "Total War" speech at the Sportpalast to a hand-picked audience. In Munich, the Gestapo arrested Hans and Sophie Scholl of the White Rose resistance group, who were executed four days later.
+
+@@ 183 | 35.24,8.50 | Kasserine Pass, Tunisia | africa
+H: Kasserine: the Americans learn hard
+P: w:Battle of the Kasserine Pass ; s:Kasserine Pass 1943 US soldiers
+A: On 14 February German armour struck the US II Corps at Sidi Bou Zid in central Tunisia, then pushed through the Kasserine Pass on 19–20 February. Inexperienced American units, poorly led and spread thin, were badly beaten and lost hundreds of tanks and vehicles. The Axis advance was finally stopped by American artillery and British reinforcements. The US Army learned fast: Eisenhower replaced the II Corps commander, Lloyd Fredendall, with George Patton. On the Eastern Front, Manstein's counteroffensive began on 19–20 February against the overextended Soviet forces south of Kharkov, catching their spearheads short of fuel and supplies. It was a painful but short apprenticeship.
+
+@@ 184 | -7.00,148.00 | Bismarck Sea | pacific
+H: Disaster for Japan in the Bismarck Sea
+P: w:Battle of the Bismarck Sea ; s:Bismarck Sea 1943 skip bombing
+A: Between 2 and 4 March US and Australian aircraft caught a Japanese convoy carrying troops from Rabaul to Lae in New Guinea. Using new low-level "skip bombing" techniques, they sank all eight transports and four of the eight escorting destroyers. Thousands of Japanese soldiers drowned. Japan would no longer risk large convoys within range of Allied aircraft in New Guinea. Allied airmen also strafed survivors in the water and in lifeboats, an episode that reflected the brutality of the Pacific war. In Tunisia, Rommel's attack on the British at Medenine on 6 March was beaten off with heavy losses, his last battle in Africa.
+
+@@ 185 | 34.50,10.00 | Medenine, Tunisia | africa
+H: Rommel leaves Africa
+P: w:Battle of Medenine ; s:Rommel 1943 Tunisia
+A: After the failure at Medenine, Rommel left Africa on 9 March, ostensibly on sick leave, and never returned. He urged Hitler to evacuate the army from Tunisia; Hitler refused. Von Arnim took command of all Axis forces in Africa. The Allies were closing in from west and south. On the Eastern Front, Manstein's counteroffensive pressed toward Kharkov, with SS panzer divisions leading the attack. At sea, the Battle of the Atlantic was approaching its crisis: in the first weeks of March, U-boat wolf packs sank dozens of ships from convoys SC 121, HX 228, HX 229 and SC 122, the worst losses of the war.
+
+@@ 186 | 49.99,36.23 | Kharkov | east
+H: Kharkov falls again
+P: w:Third Battle of Kharkov ; s:Bundesarchiv Charkow 1943 SS
+A: On 14–15 March the II SS Panzer Corps retook Kharkov after days of street fighting, and on 18 March German forces took Belgorod. Manstein's counteroffensive had stabilised the southern front and destroyed several Soviet formations, but the spring thaw now turned the roads to mud and stopped operations. The front settled with a large bulge projecting west around the city of Kursk, held by the Red Army, which both sides would soon target. In the North Atlantic, convoy losses peaked. Admiralty planners briefly feared the convoy system itself might fail. More escort carriers and long-range aircraft were being sent to close the mid-Atlantic air gap.
+
+@@ 187 | 33.50,10.20 | Mareth Line / El Guettar | africa
+H: Patton's corps fights well
+P: w:Battle of El Guettar ; s:El Guettar 1943 US Army
+A: On 23 March, at El Guettar in southern Tunisia, the US 1st Infantry Division beat off an attack by the German 10th Panzer Division, destroying dozens of tanks with artillery and anti-tank guns. Coming a month after Kasserine, it was the first clear American success against German armour. Patton was learning how to use his corps, and the US Army was learning how to fight. To the south-east, Montgomery's Eighth Army attacked the Mareth Line from 20 March, and when a frontal assault stalled, sent the New Zealand Corps on a wide outflanking march through the Tebaga Gap that forced the Axis forces to withdraw.
+
+@@ 187b | 44.27,19.88 | Occupied Yugoslavia | europe
+H: The Partisans survive the Axis offensive
+P: w:Case White ; s:Yugoslav Partisans 1943 Neretva
+A: In the mountains of Bosnia, Croatia and Montenegro, Josip Broz Tito's communist-led Partisans had built an army of tens of thousands. In early 1943 German, Italian and Croatian forces launched a major offensive, Case White, to destroy them. The Partisans retreated across the Neretva river in March, carrying thousands of wounded; their escape became central to postwar Yugoslav legend. During the fighting, Partisan envoys secretly negotiated with German officers over prisoner exchanges and a possible truce, while also fighting the royalist Chetniks of Draža Mihailović. Britain was beginning to reconsider which Yugoslav resistance movement to back. In time, London switched its support from Mihailović to Tito.
+
+@@ 188 | 34.00,9.00 | Southern Tunisia | africa
+H: The pincers close in Tunisia
+P: w:Tunisian campaign ; s:Tunisia 1943 Allied tanks
+A: By the end of March the Axis forces in Tunisia were being squeezed from the west by the British First Army and the US II Corps, and from the south by the Eighth Army, which reached Gabès on 29 March. Patton's attempt to push through to the coast and cut off the retreating Axis forces was blocked in the hills around El Guettar and Maknassy. The Axis bridgehead was shrinking, and its supply line across the Sicilian Narrows was being cut by Allied aircraft and submarines. In Europe, Bomber Command was in the middle of the Battle of the Ruhr, a sustained campaign against the German industrial heartland.
+
+@@ 189 | 45.44,12.33 | Salzburg / Klessheim | europe
+H: Mussolini wants out
+P: w:Benito Mussolini ; s:Hitler Mussolini Klessheim 1943
+A: Mussolini met Hitler at Klessheim Castle near Salzburg from 7 to 10 April. Ill and depressed, he urged Hitler to make peace with Stalin so that the Axis could concentrate against the Western Allies in the Mediterranean. Hitler refused. Italy's war was going badly everywhere: its army in Russia had been destroyed, its African empire lost, its cities bombed, its navy hiding in port. Strikes broke out in Turin and Milan in March, the first mass strikes in Fascist Italy. Members of the Fascist leadership and the royal court were beginning to discuss removing Mussolini. In Tunisia, the Eighth Army broke through at Wadi Akarit on 6 April.
+
+@@ 190 | 51.73,36.19 | Kursk salient | east
+H: Kursk: the next great battle
+P: w:Battle of Kursk ; s:Kursk 1943 Soviet defence lines
+A: On 15 April Hitler issued Operation Order No. 6 for Operation Zitadelle, Citadel: a pincer attack from north and south to cut off the Kursk bulge and destroy the Soviet armies inside. He then postponed it repeatedly, waiting for new Tiger and Panther tanks. Soviet intelligence, from aerial reconnaissance, partisans and the British, revealed the plan. Stalin's generals persuaded him to stay on the defensive, absorb the attack and counterattack. The Soviets began digging an extraordinary system of defences: several belts of trenches, minefields and anti-tank strongpoints, up to 300 kilometres deep. The Germans could see them being built. The battle both sides were preparing would be fought on ground the defender had chosen.
+
+@@ 191 | -6.80,155.60 | Bougainville | pacific
+H: Yamamoto shot down
+P: w:Operation Vengeance ; w:Isoroku Yamamoto ; s:Yamamoto 1943 Bougainville
+A: In April US codebreakers decoded a message giving the itinerary of Admiral Isoroku Yamamoto, commander of Japan's Combined Fleet and architect of Pearl Harbor, for an inspection tour of front-line bases in the Solomons. On 18 April sixteen US Army P-38 fighters flew from Guadalcanal and intercepted his bomber near Bougainville; he was killed. The Japanese did not announce his death for a month. On 19 April in Warsaw, Jewish fighters in the ghetto began an armed uprising against the SS units sent to deport its remaining inhabitants, holding out for nearly a month against overwhelming force. On 13 April Germany announced the discovery of the Katyn graves.
+
+@@ 192 | 36.80,10.18 | Tunisia | africa
+H: The crawl toward Tunis
+P: w:Tunisian campaign ; s:Longstop Hill 1943
+A: In late April Allied forces tried to break into the final Axis bridgehead around Tunis and Bizerte. The terrain of hills and ridges favoured the defence, and progress was slow. British troops fought for Longstop Hill, which fell on 26 April. The US II Corps, now under Omar Bradley since Patton left to plan Sicily, attacked through the hills toward Bizerte, taking Hill 609 on 30 April. On 25 April the Soviet Union broke off relations with the Polish government in London after it asked the Red Cross to investigate the Katyn massacres. Soviet officials blamed the Germans. The truth, that the NKVD had shot some 22,000 Polish officers and others in 1940, was not officially admitted by Moscow until 1990.
+
+@@ 193 | 36.81,10.18 | Tunis | africa
+H: Tunis and Bizerte fall
+P: w:Tunisian campaign ; s:Tunis liberation May 1943
+A: On 6 May the Allies launched their final offensive, Operation Vulcan and then Strike, against the Tunis bridgehead. British armour broke through to Tunis on 7 May; the same day the Americans entered Bizerte. The Axis front collapsed. Axis troops fell back into the Cap Bon peninsula, but there was no evacuation; Allied navies and air forces had sealed the sea. American soldiers had a habit of leaving the graffiti "Kilroy was here" wherever they went, and it spread throughout North Africa. In the Pacific, American forces landed on Attu in the Aleutians on 11 May to retake it from Japan.
+
+@@ 194 | 37.05,10.90 | Cap Bon | africa
+H: The war in Africa ends
+P: w:Tunisian campaign ; s:Axis prisoners Tunisia 1943
+A: On 13 May the last Axis forces in Tunisia surrendered. About 250,000 German and Italian soldiers went into captivity, a loss comparable to Stalingrad. General Alexander signalled Churchill: "We are masters of the North African shores." The Axis had lost an entire army group and much of its air transport fleet. On 16–17 May the RAF's 617 Squadron attacked dams in the Ruhr with bouncing bombs, breaching the Möhne and Eder dams; the floods killed about 1,600 people, many of them forced labourers. On 16 May SS General Jürgen Stroop reported that the Warsaw ghetto "no longer exists" and blew up the Great Synagogue.
+
+@@ 195 | 37.50,10.00 | Tunisia | africa
+H: Wrapping up North Africa
+P: w:Free French Forces ; s:Victory parade Tunis 1943
+A: On 20 May the Allies held a victory parade in Tunis, with British, American and French troops marching past Eisenhower, Alexander and the French general Henri Giraud. Free French and former Vichy forces were slowly being merged into a single French army, though de Gaulle and Giraud were rivals for leadership. The Allies now had to decide where to go next. The British wanted to continue in the Mediterranean, through Sicily and Italy; the Americans wanted to focus on an invasion of France. At the Trident conference in Washington from 12 to 25 May, they agreed to invade Sicily and set a target date of May 1944 for crossing the Channel.
+
+@@ 196 | 55.00,-30.00 | North Atlantic | atlantic
+H: Black May: the U-boats are beaten
+P: w:Black May (1943) ; s:convoy escort 1943 depth charge
+A: In May 1943 the Allies sank 41 U-boats, about a quarter of the operational fleet, while U-boat sinkings of merchant ships fell sharply. Convoy ONS 5 in early May was attacked by over 40 U-boats; its escorts sank six. Several factors came together: long-range Liberator aircraft closing the air gap, escort carriers, centimetric radar, support groups of escorts hunting U-boats, and Bletchley Park's renewed ability to read U-boat signals. On 24 May Admiral Dönitz, who lost his own son in May, withdrew his U-boats from the North Atlantic. Admiralty staff in Liverpool watched the plot change. The Battle of the Atlantic was not over, but it had been won.
+
+@@ 197 | 52.90,173.20 | Attu, Aleutians | pacific
+H: Banzai charge on Attu
+P: w:Battle of Attu ; s:Attu 1943 US soldiers
+A: On Attu, the westernmost of the Aleutian Islands, the American landing that began on 11 May turned into nearly three weeks of fighting in cold, fog and mud against a Japanese garrison of about 2,600. On 29 May, with no hope of relief, the surviving Japanese launched a massive banzai charge that broke through American lines before being destroyed. Fewer than 30 prisoners were taken. American losses were about 550 dead and many more from cold injuries. In Algiers, on 3 June, de Gaulle and Giraud formed the French Committee of National Liberation, a step toward a single French government in exile.
+
+@@ 198 | 36.75,3.06 | Algiers | africa
+H: Eisenhower plans Sicily
+P: w:Allied invasion of Sicily ; s:Pantelleria 1943 surrender
+A: From his headquarters in Algiers, Eisenhower finalised plans for Operation Husky, the invasion of Sicily, scheduled for 10 July. The plan, after much argument, put Montgomery's Eighth Army ashore on the south-east coast and Patton's Seventh Army on the south-west coast, with Montgomery given the main role. British intelligence ran a deception, Operation Mincemeat, in which a corpse dressed as a Royal Marines officer, carrying false letters suggesting landings in Greece and Sardinia, was floated ashore in Spain; German intelligence took the bait. On 11 June the Italian island of Pantelleria surrendered after heavy bombing, before any troops landed. The real target, Sicily, was barely reinforced.
+
+@@ 199 | 51.73,36.19 | Kursk | east
+H: Kursk: the Soviets dig in
+P: w:Battle of Kursk ; s:Kursk 1943 trenches Soviet
+A: By mid-June the Soviet defences around Kursk were among the strongest ever built: around 5,000 kilometres of trenches, hundreds of thousands of mines, thousands of anti-tank guns organised in strongpoints, and reserves massed behind the bulge, including the Steppe Front under Ivan Konev. Hundreds of thousands of civilians helped dig them. The Germans massed almost 800,000 men and some 2,500 tanks and assault guns, including the new Panthers, which were plagued by mechanical problems. German generals were divided; Guderian argued the attack should be cancelled. Hitler admitted that the thought of the attack made his stomach turn, but kept it.
+
+@@ 200 | 50.00,10.00 | Europe | europe
+H: Two hundred weeks of war
+P: w:Combined Bomber Offensive ; s:B-17 Flying Fortress 1943 formation
+A: Two hundred weeks after the invasion of Poland, the shape of the war had changed. The Axis had lost in Africa and at Stalingrad and in the Atlantic. Germany still held most of Europe, but its cities were being bombed by the RAF at night and, increasingly, the US Eighth Air Force by day, under the Combined Bomber Offensive agreed at Casablanca. On 20–21 June RAF bombers attacked Friedrichshafen and flew on to bases in North Africa, the first "shuttle" raid. Inside occupied Europe, resistance was growing, and so were German reprisals. In June the Germans arrested Jean Moulin, de Gaulle's representative to the French Resistance. He died after torture.
+
+@@ 201 | -8.30,157.20 | New Georgia | pacific
+H: New Georgia: tougher than Guadalcanal
+P: w:New Georgia campaign ; s:New Georgia 1943 US Army
+A: On 30 June American forces launched Operation Cartwheel, a two-pronged offensive aimed ultimately at isolating the great Japanese base at Rabaul. MacArthur's forces landed in New Guinea and the Trobriand Islands, and Admiral Halsey's forces landed on New Georgia in the central Solomons, aiming for the airfield at Munda. The New Georgia campaign turned into a slog through jungle and swamp against well-prepared Japanese defences. Inexperienced US Army divisions suffered heavily from combat stress and disease, and Munda did not fall until 5 August. In Europe, the German offensive at Kursk was days away. Each step toward Rabaul would cost more than planners expected.
+
+@@ 202 | 51.73,36.19 | Kursk | east
+H: Kursk: when titans clash
+P: f:Bundesarchiv Bild 101I-219-0595-05, Russland, Kampf um Kursk.jpg ; w:Battle of Kursk ; s:Kursk July 1943 Tiger
+A: On 5 July the German Ninth Army attacked the northern face of the Kursk bulge and the Fourth Panzer Army and Army Detachment Kempf the southern face. Warned by intelligence of the exact time, Soviet artillery fired a pre-emptive barrage before the Germans started. In the north, the German attack stalled within days, advancing only about 12 kilometres into the Soviet defences. In the south, German panzer divisions, led by SS divisions, made deeper progress, pushing some 30 to 35 kilometres toward the village of Prokhorovka. Soviet tank losses were very heavy. On 10 July, before the outcome was clear, Allied forces landed in Sicily.
+
+@@ 202b | 51.03,36.73 | Prokhorovka | east
+H: Prokhorovka
+P: w:Battle of Prokhorovka ; s:Prokhorovka 1943 Soviet tanks
+A: On 12 July the Soviet Fifth Guards Tank Army counterattacked the II SS Panzer Corps near Prokhorovka, a railway station south of Kursk. Hundreds of Soviet tanks charged across open ground, some ramming German tanks. Soviet losses were very heavy, several times greater than German losses, but the German advance was stopped. Soviet histories later inflated it into the biggest tank battle in history, involving over a thousand tanks on each side; the real numbers were smaller. On the same day, the Soviets launched Operation Kutuzov against the German salient around Orel north of Kursk. On 13 July Hitler called off Citadel, partly citing the Sicily landings.
+
+@@ 203 | 37.00,14.40 | Gela, Sicily | med
+H: The invasion of Sicily
+P: f:Sicily Invasion 1943.jpg ; w:Allied invasion of Sicily ; s:Sicily landing July 1943 Gela
+A: On the night of 9–10 July Allied airborne troops dropped over Sicily in high winds, many scattered or drowned when gliders landed in the sea. At dawn eight divisions landed on the south and south-east coast, one of the largest amphibious operations of the war. Italian coastal divisions mostly collapsed, though some units fought hard; German armour counterattacked the American beachhead at Gela on 11 July and was stopped by naval gunfire. Allied ships accidentally shot down dozens of their own transport planes carrying paratroops over the invasion fleet. Syracuse fell on 10 July. Within days Italian morale in Sicily was crumbling.
