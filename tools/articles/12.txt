@@ -65,7 +65,7 @@ A: In late March the Soviets encircled the German First Panzer Army, around 200,
 
 @@ 241 | 45.30,34.30 | Crimea | east
 H: A new offensive in Crimea
-P: w:Crimean offensive ; s:Crimea April 1944 Soviet troops
+P: s:Sevastopol 1944 ; w:Crimean offensive
 A: On 8 April the Soviet Fourth Ukrainian Front attacked the German and Romanian Seventeenth Army in Crimea, breaking through the Perekop isthmus and the Sivash lagoon. At the same time Soviet forces attacked from the Kerch peninsula in the east. Hitler again ordered Crimea held. Simferopol fell on 13 April. The Germans and Romanians fell back toward Sevastopol, where Germans had fought their way in two years before. In the west, Soviet troops crossed into Romania. In the occupied Netherlands, preparations for a German defence of the coast continued. In Britain, the invasion forces were rehearsing landings on the south coast.
 
 @@ 242 | 49.55,25.59 | Ternopil | east

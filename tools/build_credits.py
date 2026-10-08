@@ -13,11 +13,11 @@ L = ["# Credits — The War, week by week (a Chronograph)", "",
 for k in sorted([k for k in arts if k in order], key=lambda k: order[k]):
     a = arts[k]
     L.append(f"- **Week {k}** — [{a['commons'].replace('File:', '')}]({a['page']}) — {a.get('artist') or 'unknown'} — {a.get('license') or ''}" + (f" ([licence]({a['license_url']}))" if a.get('license_url') else "") + (f" — {a['date']}" if a.get('date') else ""))
-extra = [k for k in arts if k not in order]
-if extra:
-    L += ["", "## War-room plates", ""]
-    for k in extra:
-        a = arts[k]; L.append(f"- **{a.get('caption', k)}** — [{a['commons'].replace('File:', '')}]({a['page']}) — {a.get('artist') or 'unknown'} — {a.get('license') or ''}")
+wr = {} if os.environ.get("NOMAPS") else J("data/warroom.json", {})
+if wr:
+    L += ["", "## War-room plates (About the war room)", ""]
+    for k in wr:
+        a = wr[k]; L.append(f"- **{a.get('caption', k)}** — [{a['commons'].replace('File:', '')}]({a['page']}) — {a.get('artist') or 'unknown'} — {a.get('license') or ''}")
 L += ["", "## Situation maps", "", "HQ Twelfth Army Group situation maps, US Army, 1944–45: public domain. Library of Congress, Geography and Map Division, [World War II Military Situation Maps](https://www.loc.gov/collections/world-war-ii-maps-military-situation-maps-from-1944-to-1945/); the images were downloaded from the Wikimedia Commons mirror.", ""]
 for k in sorted(sm, key=lambda k: order.get(k, 0)):
     m = sm[k]; L.append(f"- **Week {k}** — situation of {m['date']} — [LoC item]({m['loc_item']}) · [Commons]({m['page']})")

@@ -65,7 +65,7 @@ A: In mid-October the Red Army attacked the German bridgehead at Zaporizhzhia, a
 
 @@ 217 | 55.75,37.62 | Moscow | europe
 H: Stalin agrees to a United Nations
-P: w:Moscow Conference (1943) ; s:Moscow Conference 1943 Hull Eden Molotov
+P: w:Moscow Conference (1943) ; s:Moscow Conference 1943
 A: At the Moscow Conference of foreign ministers from 18 October to 11 November, Cordell Hull, Anthony Eden and Vyacheslav Molotov agreed on a declaration calling for a general international organisation to maintain peace after the war, the seed of the United Nations. They also issued a declaration on Austria, calling it the first victim of Hitler's aggression, and a declaration on atrocities, warning Germans responsible for war crimes that they would be returned to the countries where they committed them for trial. China signed the Four Power Declaration. The Soviets were assured that the invasion of France would happen in spring 1944.
 
 @@ 218 | 48.00,33.40 | Krivoi Rog | east
@@ -100,12 +100,12 @@ A: The Big Three met in Tehran from 28 November to 1 December. Stalin pressed fo
 
 @@ 224 | 41.49,13.83 | Gustav Line, Italy | europe
 H: Toward Rome: the Gustav Line
-P: w:Gustav Line ; s:Italy December 1943 mud Allied soldiers
+P: s:Gustav Line 1944 ; s:Cassino 1944 infantry
 A: In Italy, the Allied advance had become a slow, bloody crawl through mountains, rain and mud against successive German defensive lines. Field Marshal Kesselring had persuaded Hitler that Italy could be defended south of Rome, and the main line, the Gustav Line, ran across the narrowest part of the peninsula, anchored on the Garigliano and Rapido rivers and the town of Cassino. British and Canadian troops fought on the Adriatic side; Americans and British on the west. Allied planners began considering an amphibious landing behind the Gustav Line, near Anzio, to break the deadlock. Eisenhower was named supreme commander for Overlord on 7 December.
 
 @@ 225 | 15.20,145.70 | Marianas (planned) | pacific
 H: A super bomber to break Japan
-P: w:Boeing B-29 Superfortress ; s:B-29 1943 production
+P: w:Boeing B-29 Superfortress ; s:B-29 Superfortress 1944
 A: By late 1943 the US Army Air Forces had a new aircraft, the Boeing B-29 Superfortress: pressurised, long-ranged and carrying a heavy bomb load. Its development had been troubled, with engine fires and production problems, and cost more than the atomic bomb project. The plan was to base it first in India and China and strike Japan from there; later, once the Marianas were taken, from Saipan and Guam. American planners saw it as a way to bomb Japan's cities and industries from the air. In Europe, the US Eighth Air Force was suffering heavy losses in daylight raids over Germany and waiting for long-range escort fighters.
 
 @@ 226 | 50.25,28.66 | Zhitomir | east

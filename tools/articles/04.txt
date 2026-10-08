@@ -10,7 +10,7 @@ A: Australian and British troops assaulted Tobruk on 21 January and took it the 
 
 @@ 73 | 30.40,118.30 | Southern Anhui, China | china
 H: China's war within a war
-P: w:New Fourth Army incident ; s:New Fourth Army 1941
+P: f:1941N4A.jpg ; w:New Fourth Army incident
 A: In the first weeks of January Nationalist troops ambushed and largely destroyed the headquarters of the communist New Fourth Army in southern Anhui as it moved north under orders from Chiang Kai-shek. Several thousand communist soldiers were killed or captured; the commander Ye Ting was imprisoned. The incident effectively ended the united front between the Nationalists and the Communists that had existed since 1937, though neither side formally renounced it. Both continued to fight Japan, but each also fought to position itself for the struggle that would follow. Japan held the coast and major cities but was bogged down. In Washington, China's supporters were lobbying for Lend-Lease aid to include Chongqing.
 
 @@ 74 | 44.43,26.10 | Bucharest | europe | sober
@@ -95,7 +95,7 @@ A: On 9 May the British destroyer Bulldog and other escorts forced U-110 to the 
 
 @@ 90 | 55.79,-4.38 | Eaglesham, Scotland | europe
 H: Rudolf Hess flies to Scotland
-P: w:Rudolf Hess ; s:Rudolf Hess Messerschmitt wreck 1941
+P: s:Hess Messerschmitt Bf 110 wreckage 1941 ; s:Bf 110 Hess Eaglesham
 A: On the evening of 10 May Rudolf Hess, Hitler's deputy in the Nazi party, flew a Messerschmitt 110 alone from Augsburg to Scotland and parachuted near Eaglesham, apparently hoping to negotiate peace through the Duke of Hamilton. He was arrested and held for the rest of the war. Berlin declared him mentally disturbed; the British said very little, which fed Soviet suspicion for decades. The same night the Luftwaffe made its last major raid of the Blitz on London, killing about 1,400 people and damaging the Commons chamber. In East Africa, the Duke of Aosta's forces at Amba Alagi were surrounded and would surrender on 19 May.
 
 @@ 91 | 35.52,23.85 | Maleme, Crete | med

@@ -1,6 +1,6 @@
 @@ 20 | 60.70,28.75 | Karelian Isthmus | europe
 H: Timoshenko takes over in Finland
-P: w:Semyon Timoshenko ; s:Winter War Red Army artillery 1940
+P: w:Semyon Timoshenko ; s:Timoshenko 1940
 A: After a month of failure Stalin reorganised the Finnish front. Semyon Timoshenko took command of a new North-Western Front on 7 January with orders to break the Mannerheim Line properly. The Red Army paused major attacks, brought up heavy artillery and fresh divisions, and trained infantry to work with tanks and engineers against bunkers. Soviet bombers kept striking Finnish towns. Finland used the lull to rest troops but had no reserves worth the name and was running short of shells. Britain and France talked about sending an expedition to help Finland through northern Norway and Sweden, which would conveniently also cut Germany off from Swedish iron ore. Oslo and Stockholm, determined to stay neutral, made clear they would not allow it.
 
 @@ 21 | 66.00,24.00 | Swedish–Finnish border | europe
@@ -25,7 +25,7 @@ A: In China the fighting had reached a grim balance. Japan's 1939–40 winter ba
 
 @@ 25 | 60.71,28.75 | Viipuri | europe
 H: The Mannerheim Line is broken
-P: w:Viipuri ; s:Winter War Viipuri 1940
+P: s:Viipuri 1940 ; s:Mannerheim Line 1940
 A: On 11 February Soviet troops broke through at Lähde, near Summa, the decisive breach of the main Finnish defensive line. Mannerheim ordered a withdrawal to the intermediate and then rear lines closer to Viipuri, Finland's second city. The retreat was carried out in reasonable order, but the men were exhausted and shells were rationed. Finland's government, led by Risto Ryti with foreign minister Väinö Tanner, began exploring peace terms through Sweden. Stockholm told Helsinki plainly that Swedish troops would not come and that Finland should settle. The Allies, meanwhile, promised an expeditionary force of tens of thousands if Finland formally asked for it, an offer that Finnish leaders suspected was more about Narvik than about them.
 
 @@ 26 | 50.94,6.96 | OKH / Western Front | europe
@@ -35,7 +35,7 @@ A: German plans for invading the West had originally been a cautious rerun of 19
 
 @@ 27 | 50.74,7.10 | Western Front | europe
 H: Fall Gelb takes its final shape
-P: w:Battle of France ; s:Bundesarchiv Westfeldzug 1940 Vorbereitung
+P: w:Erich von Manstein ; s:Manstein 1940
 A: On 24 February the German army issued the revised directive for Fall Gelb, Case Yellow, built around Manstein's idea. Army Group B in the north would invade the Netherlands and Belgium loudly enough to draw the Allies forward. Army Group A, with most of the panzer divisions, would push through Luxembourg and the Ardennes, cross the Meuse and drive for the sea. Army Group C would hold the Maginot Line. Many generals thought the Ardennes too risky for tanks. In Allied headquarters the Dyle Plan stood: the best French armies and the British Expeditionary Force would move into Belgium the moment it was attacked. Each side's plan, in other words, fitted the other's almost perfectly, to Germany's advantage. In the north, Finland asked Moscow for terms.
 
 @@ 28 | 60.71,28.75 | Viipuri Bay | europe
@@ -75,7 +75,7 @@ A: Britain and France now improvised the landings they had planned. British troo
 
 @@ 35 | 61.60,9.75 | Gudbrandsdal | europe
 H: Norway burns
-P: w:Battle of Kvam ; s:Norway 1940 burning town Namsos
+P: f:Troops pick through the ruins of Namsos in Norway after a German air raid, April 1940. N97.jpg ; s:Namsos 1940
 A: German columns pushed north from Oslo up the Gudbrandsdal and Østerdal valleys toward Trondheim, pushing Norwegian and newly arrived British troops back in a string of rearguard fights such as Kvam. The Luftwaffe bombed the small towns used as Allied ports, and Namsos, Åndalsnes, Molde and others were largely burned. British commanders reported that without air cover the positions south of Trondheim could not be held. In London the War Cabinet decided on 26–27 April to withdraw from central Norway and concentrate on Narvik. The campaign's handling, much of it directed by Churchill at the Admiralty, was becoming a political problem for Chamberlain.
 
 @@ 36 | 62.57,7.69 | Åndalsnes | europe

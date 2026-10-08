@@ -50,7 +50,7 @@ A: By the end of March the Axis forces in Tunisia were being squeezed from the w
 
 @@ 189 | 45.44,12.33 | Salzburg / Klessheim | europe
 H: Mussolini wants out
-P: w:Benito Mussolini ; s:Hitler Mussolini Klessheim 1943
+P: s:Mussolini 1943 ; s:Benito Mussolini 1943
 A: Mussolini met Hitler at Klessheim Castle near Salzburg from 7 to 10 April. Ill and depressed, he urged Hitler to make peace with Stalin so that the Axis could concentrate against the Western Allies in the Mediterranean. Hitler refused. Italy's war was going badly everywhere: its army in Russia had been destroyed, its African empire lost, its cities bombed, its navy hiding in port. Strikes broke out in Turin and Milan in March, the first mass strikes in Fascist Italy. Members of the Fascist leadership and the royal court were beginning to discuss removing Mussolini. In Tunisia, the Eighth Army broke through at Wadi Akarit on 6 April.
 
 @@ 190 | 51.73,36.19 | Kursk salient | east

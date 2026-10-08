@@ -95,7 +95,7 @@ const WORLD_CTRL = (n, t) => {
 };
 const ALIAS = { CYN: "CYP", ALD: "FIN", SAH: "ESP" };
 
-let W = [], ART = {}, SNAPS = [], FRONTS = {}, ATL = null, EVENTS = [], ATLAS = null, WORLD = null, SITMAPS = {};
+let WR = {}, W = [], ART = {}, SNAPS = [], FRONTS = {}, ATL = null, EVENTS = [], ATLAS = null, WORLD = null, SITMAPS = {};
 let sel = 0, view = store.get("ww2.view", "theatre"), pal = store.get("ww2.pal", "paper"), mode = store.get("ww2.panel", "logbook");
 let layers = { front: true, culture: false, all: false };
 let proj, path, zoom, zt = d3.zoomIdentity, mapW = 800, mapH = 600;
@@ -105,7 +105,7 @@ let gRoot, gZoom, gScreen, defs;
 async function J(p, opt) { const r = await fetch(p); if (!r.ok) { if (opt) return opt; throw new Error(p + " " + r.status); } return r.json(); }
 
 async function boot() {
-  [W, ART, SNAPS, FRONTS, ATL, EVENTS, ATLAS, WORLD, SITMAPS] = await Promise.all([
+  [WR, W, ART, SNAPS, FRONTS, ATL, EVENTS, ATLAS, WORLD, SITMAPS] = await Promise.all([J("data/warroom.json", {}),
     J("data/weeks.json"), J("data/artefacts.json", {}), J("data/snapshots.json"), J("data/fronts.json"), J("data/atlantic.json"),
     J("data/events.json", []), J("data/atlas.geojson"), J("data/world-110m.json", null), J("data/sitmaps.json", {})]);
   const rewind = fc => fc && fc.features.forEach(f => { const g = f.geometry; if (!g) return;
@@ -117,6 +117,7 @@ async function boot() {
   SNAPS.forEach(s => { s.t = new Date(Date.UTC(s.year, s.month - 1, 15)); });
   EVENTS.forEach(e => { e.t = pd(e.date); });
   const h = /^#w(\w+)$/.exec(location.hash); if (h) { const i = W.findIndex(w => w.id === h[1]); if (i >= 0) sel = i; }
+  if (view === "warroom" && !store.get("ww2.palPicked")) pal = "maproom";
   setupControls(); buildLogbook(); applyPal(); applyView(false); setMode(mode);
   window.addEventListener("resize", debounce(() => { buildMap(); drawStrip(); drawRuler(); update(false); }, 150));
   update(true);
@@ -534,8 +535,8 @@ function renderWar(w) {
   $("#ticker").innerHTML = near.map(x => `<span>${x.bigboard ? "<b>BIG BOARD</b> " : ""}WK ${esc(x.id)} · ${esc(x.dates_label.toUpperCase())} · ${esc(x.headline.toUpperCase())} +++</span>`).join("");
 }
 function renderWarroomPlates() {
-  const host = $("#wrPlates"); const keys = Object.keys(ART).filter(k => k.startsWith("wr_"));
-  host.innerHTML = keys.map(k => { const a = ART[k]; return `<figure><img src="img/${esc(a.file)}" alt="${esc(a.caption || "")}" loading="lazy"><figcaption><b>${esc(a.caption || "")}</b><br>${esc([a.artist, a.license].filter(Boolean).join(" · "))} · <a href="${esc(a.page)}" target="_blank" rel="noopener">Commons</a></figcaption></figure>`; }).join("");
+  const host = $("#wrPlates"); const keys = Object.keys(WR);
+  host.innerHTML = keys.map(k => { const a = WR[k]; return `<figure><img src="img/${esc(a.file)}" alt="${esc(a.caption || "")}" loading="lazy"><figcaption><b>${esc(a.caption || "")}</b><br>${esc([a.artist, a.license].filter(Boolean).join(" · "))} · <a href="${esc(a.page)}" target="_blank" rel="noopener">Commons</a></figcaption></figure>`; }).join("");
 }
 
 /* ---------- strip: leaders + shipping spine ---------- */

@@ -5,12 +5,12 @@ A: By late September the battle had moved to the great factory district in the n
 
 @@ 162 | 48.74,44.53 | Mamayev Kurgan, Stalingrad | east
 H: The Soviet Thermopylae
-P: w:Mamayev Kurgan ; s:Stalingrad October 1942 Soviet soldiers ruins
+P: s:Stalingrad 1942 tractor factory ; s:Pavlov House 1942
 A: Soviet propaganda compared the defence of Stalingrad to the stand at Thermopylae. The hill of Mamayev Kurgan, which overlooked the city and the river crossings, changed hands repeatedly; its soil was later found to contain huge quantities of shell fragments. A building in the city centre held for nearly two months by a small group under Sergeant Yakov Pavlov became known as Pavlov's House. In the Caucasus the German advance had stalled short of Grozny and in the mountains above the Black Sea coast. In Egypt, Montgomery was building up the Eighth Army for a set-piece offensive, with new Sherman tanks arriving from America.
 
 @@ 163 | 48.71,44.51 | Stalingrad | east
 H: Paulus against Chuikov
-P: w:Vasily Chuikov ; w:Friedrich Paulus ; s:Paulus Stalingrad 1942
+P: w:Vasily Chuikov ; s:Chuikov 1942
 A: Friedrich Paulus, a careful staff officer commanding the Sixth Army, launched a series of attacks in October to clear the remaining Soviet bridgeheads on the Volga. On 14 October a massive assault on the Tractor Factory pushed the Germans to the river in the north and nearly split the 62nd Army. Vasily Chuikov, tough, blunt and willing to accept enormous losses, moved his headquarters into a bunker close to the river bank and kept counterattacking. German infantry companies were down to a few dozen men. Hitler declared in a speech that Stalingrad would be taken and that no power on earth would remove the Germans from it.
 
 @@ 164 | 48.78,44.57 | Stalingrad Tractor Factory | east
@@ -30,7 +30,7 @@ A: On the first day of El Alamein, General Georg Stumme, commanding in Rommel's 
 
 @@ 167 | 30.83,28.95 | El Alamein | africa
 H: The breakthrough at El Alamein
-P: w:Operation Supercharge ; s:Eighth Army November 1942 advance
+P: w:Second Battle of El Alamein ; s:El Alamein 1942 infantry
 A: On 2 November Montgomery launched Operation Supercharge, a new thrust by British and New Zealand forces. After heavy fighting the Axis front cracked. On 3 November Hitler ordered Rommel to stand fast, "victory or death". Rommel obeyed for a day, then retreated on 4 November with what was left of his armour, leaving behind many of the Italian infantry, who had no transport. About 30,000 Axis soldiers were captured. Churchill ordered church bells rung across Britain on 15 November, the first time since 1940. He later wrote that before Alamein the Allies never had a victory, and after it they never had a defeat, which was not true but became famous.
 
 @@ 168 | 35.70,-0.63 | Oran / Algiers / Casablanca | africa
@@ -50,7 +50,7 @@ A: On 23 November Soviet tank spearheads from north and south met at Kalach on t
 
 @@ 171 | 48.71,44.51 | Stalingrad pocket | east
 H: The airlift fails
-P: w:Stalingrad airlift ; s:Ju 52 winter Stalingrad
+P: s:Pitomnik Ju 52 ; s:Stalingrad Ju 52
 A: The Sixth Army needed at least 300 tonnes of supplies a day by air; the Luftwaffe rarely delivered a third of that. Transport aircraft were shot down by Soviet fighters and anti-aircraft guns, grounded by winter weather, or lost on the airfields that the Soviets kept pushing back. Inside the pocket, rations were cut, horses were slaughtered, and fuel ran out. Field Marshal Manstein was put in charge of a new Army Group Don to relieve Stalingrad. In Tunisia, German forces stopped the Allied drive on Tunis in early December. In North Africa, Darlan was assassinated in Algiers on 24 December.
 
 @@ 172 | 21.36,-157.95 | Pearl Harbor | pacific
@@ -90,7 +90,7 @@ A: By mid-January the Stalingrad pocket had shrunk dramatically and its main air
 
 @@ 179 | 32.89,13.19 | Tripoli / Tunisia | africa
 H: Tripoli falls; Rommel's future in doubt
-P: w:Tunisian campaign ; s:Eighth Army Tripoli January 1943
+P: s:Tripoli 1943 Eighth Army ; s:Tripoli January 1943
 A: On 23 January the Eighth Army entered Tripoli, the capital of Italian Libya, three months after Alamein and some 2,200 kilometres further west. Mussolini's African empire was gone. Rommel, tired and ill, withdrew to the Mareth Line, old French fortifications in southern Tunisia. Italian and German commanders were frustrated with him; the Italian high command wanted him replaced. In Tunisia, Axis forces under General Hans-Jürgen von Arnim held a bridgehead around Tunis and Bizerte. On the Eastern Front, the Stalingrad pocket was split in two on 26 January. Paulus remained in a department store basement in the city centre. The desert war was entering its last act.
 
 @@ 179b | 48.71,44.51 | Stalingrad | east

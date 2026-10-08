@@ -20,7 +20,7 @@ A: On 10 July the French National Assembly, meeting in the spa town of Vichy, vo
 
 @@ 47 | 52.52,13.38 | Reichstag, Berlin | europe
 H: Hitler offers peace; Britain refuses
-P: w:Last Appeal to Reason ; s:Reichstag Sitzung 19 Juli 1940
+P: s:Hitler Reichstag Kroll 1940 ; s:Reichstag 1940 Sitzung
 A: On 19 July Hitler addressed the Reichstag, promoted a dozen generals to field marshal, and made what he called a final appeal to reason to Britain. He offered no actual terms, only the suggestion that Britain accept German domination of the continent. The British response came within an hour from a BBC journalist and officially on 22 July from Lord Halifax: no. Hitler had already issued Directive 16 on 16 July, ordering preparations for a landing in England, Operation Sea Lion, which would require the Luftwaffe to destroy the RAF first. Meanwhile Germany looked east: by late July Hitler was telling his generals that the USSR should be attacked in 1941.
 
 @@ 48 | 51.13,1.31 | English Channel, off Dover | europe
@@ -40,7 +40,7 @@ A: On 3 August Italian forces from Ethiopia, which Mussolini had conquered in 19
 
 @@ 51 | 10.44,45.01 | Berbera | africa
 H: Britain abandons Somaliland; Eagle Day
-P: w:Battle of Tug Argan ; w:Adlertag ; s:Berbera 1940 evacuation
+P: w:Battle of Tug Argan ; s:British Somaliland 1940
 A: After four days of fighting at Tug Argan, the British commander judged the position lost, and between 15 and 18 August about 7,000 troops and civilians were evacuated from Berbera to Aden. It was the only British colony Italy ever conquered. Churchill was furious at the small number of casualties, which he took to mean the position had not been properly defended. Over Britain the Luftwaffe launched Eagle Day on 13 August and on 15 August, the heaviest day of the campaign, attacked from Norway as well as France and lost heavily in the north. On 20 August Churchill told the Commons: "Never in the field of human conflict was so much owed by so many to so few."
 
 @@ 52 | 51.32,0.03 | Biggin Hill | europe
@@ -65,7 +65,7 @@ A: German invasion preparations were visible from the air: hundreds of river bar
 
 @@ 56 | 51.50,-0.13 | London skies | europe
 H: Battle of Britain Day
-P: s:Battle of Britain Day 15 September 1940 ; s:Heinkel He 111 over London 1940
+P: s:Dornier Do 17 1940 West Ham ; w:Battle of Britain Day
 A: On Sunday 15 September the Luftwaffe sent two large daylight raids against London expecting to find Fighter Command finished. Instead Park and Leigh-Mallory met them with most of their squadrons, including 12 Group's "Big Wing". German bomber formations were broken up and scattered. The RAF claimed far more kills than the actual figure of around 60 German aircraft, against about 29 British losses, but the meaning was clear in Berlin. On 17 September Hitler postponed Sea Lion indefinitely. Britain marks 15 September as Battle of Britain Day. Daylight fighting continued into October, but the Luftwaffe was turning to night bombing of cities. On 13 September Italian forces in Libya invaded Egypt.
 
 @@ 57 | 52.52,13.38 | Berlin | europe
@@ -75,7 +75,7 @@ A: On 27 September Germany, Italy and Japan signed the Tripartite Pact in Berlin
 
 @@ 58 | 43.36,-1.79 | Hendaye | europe
 H: Hitler and Franco at Hendaye
-P: w:Meeting at Hendaye ; s:Hitler Franco Hendaye 1940
+P: s:Hendaye 1940 Bundesarchiv ; w:Meeting at Hendaye
 A: Hitler hoped to bring Spain into the war and take Gibraltar, closing the western Mediterranean to Britain. Franco's price was high: large amounts of grain, fuel and weapons for a country ruined by its civil war, and much of French North Africa, which Hitler could not give without driving Vichy into the Allied camp. Throughout the autumn Spanish and German officials negotiated. On 4 October Hitler and Mussolini met again at the Brenner. On 23 October Hitler met Franco at Hendaye on the French–Spanish border and came away saying he would rather have teeth pulled than go through it again. Spain stayed out, though it remained friendly to the Axis. The London Blitz continued nightly.
 
 @@ 59 | 51.51,-0.12 | London Underground | europe
@@ -115,7 +115,7 @@ A: Molotov's visit to Berlin on 12–13 November was supposed to explore Soviet 
 
 @@ 66 | 48.86,2.33 | Occupied Paris | europe
 H: The occupation of France settles in
-P: w:German occupation of France during World War II ; w:Einsatzstab Reichsleiter Rosenberg ; s:Paris 1940 German soldiers café
+P: s:Vichy 1940 Pétain ; s:Vichy France 1940
 A: Five months in, occupied France had a routine: German clocks, German road signs, a curfew, and a demarcation line between the zones that needed a pass to cross. Food was rationed and getting scarcer. The Einsatzstab Reichsleiter Rosenberg was seizing art collections owned by Jews, with the Jeu de Paume museum used as a sorting depot. Vichy had already passed its own anti-Jewish statute in October, excluding Jews from public service and the professions without being asked. On 11 November students in Paris demonstrated at the Arc de Triomphe and were dispersed with arrests and shots. Resistance was still small and scattered, mostly leaflets and listening to the BBC.
 
 @@ 67 | 52.52,13.38 | OKH, Berlin | europe

@@ -5,7 +5,7 @@ A: The evacuation of Crete ended on 1 June. About 16,000 British, Australian and
 
 @@ 94 | 60.17,24.94 | Helsinki / Damascus | europe
 H: Finland drifts toward Germany; Syria invaded
-P: w:Syria–Lebanon campaign ; s:Free French Syria 1941 ; s:Finnish army June 1941
+P: s:Finnish troops 1941 ; w:Continuation War
 A: Finland, still smarting from the Winter War, had been drawn into Barbarossa planning. German troops were already in Finnish Lapland, and in early June Finnish officers coordinated mobilisation dates with Berlin, though Helsinki would insist it fought a separate "Continuation War". On 8 June British, Australian, Indian and Free French forces invaded Vichy-held Syria and Lebanon, after Vichy had allowed German aircraft to use Syrian airfields during the Iraq revolt. Vichy troops fought hard. Free French soldiers were now fighting French soldiers loyal to Pétain. In Libya, Wavell prepared Operation Battleaxe to relieve Tobruk, using tanks rushed across the Mediterranean.
 
 @@ 95 | 33.51,36.29 | Damascus | mideast
@@ -40,7 +40,7 @@ A: German troops took most of Smolensk on 16 July, but closing the pocket east o
 
 @@ 100 | 53.00,31.00 | Central front | east
 H: An army that marched on foot
-P: w:Horses in World War II ; s:Bundesarchiv Russland 1941 Pferde Wehrmacht
+P: s:Russland 1941 Pferdewagen Bundesarchiv ; s:Wehrmacht horse-drawn 1941
 A: Behind the panzer spearheads the Wehrmacht of 1941 looked much like the army of 1914. It used around 600,000 horses in the invasion of the USSR, pulling artillery, supply wagons and field kitchens. Most of its infantry walked, often 30 to 40 kilometres a day in summer heat and dust. Motor vehicles were a mixture of German and captured French, British and Czech types, which made spare parts a nightmare. The dirt roads of the western USSR turned into dust clouds in summer and mud in rain. The Soviets were in a similar position, but they were falling back toward their supplies while the Germans moved away from theirs. Soviet aircraft bombed Moscow's attackers; Moscow itself was bombed for the first time on 21–22 July.
 
 @@ 101 | 10.82,106.63 | Saigon | asia

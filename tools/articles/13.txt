@@ -125,12 +125,12 @@ A: On 1 January the Luftwaffe launched Operation Bodenplatte, a mass attack on A
 
 @@ 281 | 50.80,21.00 | Vistula bridgeheads | east | bb
 H: The Vistula–Oder offensive
-P: w:Vistula–Oder offensive ; s:Vistula-Oder offensive 1945 Soviet tanks
+P: s:Vistula-Oder 1945 Soviet tanks ; s:Soviet tanks January 1945 Poland
 A: On 12 January the First Ukrainian Front under Konev attacked from its Vistula bridgehead at Sandomierz, and on 14 January the First Belorussian Front under Zhukov attacked from bridgeheads south of Warsaw. The German front collapsed in days. Soviet tank armies advanced up to 70 kilometres a day across Poland in winter weather. The offensive had been brought forward, Stalin later claimed, to help the Western Allies in the Ardennes. On 9 January American troops landed in the Lingayen Gulf on Luzon. In the Ardennes, the US First and Third Armies met at Houffalize on 16 January, cutting the Bulge in half.
 
 @@ 282 | 52.23,21.01 | Warsaw / Kraków | east
 H: The Red Army overruns Poland
-P: w:Vistula–Oder offensive ; s:Warsaw January 1945 ruins
+P: f:Destroyed Warsaw, capital of Poland, January 1945.jpg ; s:Warsaw January 1945
 A: On 17 January Soviet and Polish troops entered the ruins of Warsaw, which had been almost totally destroyed. Kraków, whose historic centre the Germans had abandoned largely intact, fell on 19 January, and Łódź the same day. In the east, the East Prussian offensive had begun on 13 January, and millions of Germans began fleeing west in freezing weather. Many fled too late, because Nazi officials had forbidden evacuation, and were caught by Soviet troops, who committed mass rapes and killings. In the Ardennes, the Bulge had been eliminated by late January; the Americans had suffered about 80,000 casualties. Whole provinces of eastern Germany were emptying.
 
 @@ 283 | 50.03,19.18 | Oświęcim (Auschwitz) | europe | bb sober
@@ -150,7 +150,7 @@ A: From 4 to 11 February Churchill, Roosevelt and Stalin met at Yalta in Crimea.
 
 @@ 286 | 51.05,13.74 | Dresden | europe | bb sober
 H: Dresden is bombed
-P: s:Dresden 1945 Rathausturm Blick ; s:Dresden 1945 Frauenkirche ruins ; s:Dresden 1945 Altstadt Trümmer
+P: f:Bundesarchiv Bild 183-Z0309-310, Zerstörtes Dresden.jpg ; s:Dresden 1945 Rathausturm Blick ; s:Dresden 1945 Altstadt Trümmer
 A: On the night of 13–14 February RAF Bomber Command attacked Dresden in two waves, and the US Eighth Air Force followed with daylight raids on 14 and 15 February. The attacks created a firestorm that destroyed much of the historic city centre. Around 25,000 people were killed, according to a historians' commission in 2010; Nazi propaganda claimed far higher numbers, and inflated figures persisted for decades. Dresden was a rail and communications centre for the Eastern Front, but the scale of destruction so late in the war became one of the most debated actions of the Allied bombing campaign. Churchill himself questioned it in a memo in March. In Pomerania, a German counterattack, Operation Solstice, briefly struck at Zhukov's flank.
 
 @@ 287 | 24.78,141.32 | Iwo Jima | pacific

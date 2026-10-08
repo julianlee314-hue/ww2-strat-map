@@ -25,7 +25,7 @@ A: On 27 February a scratch force of Dutch, American, British and Australian cru
 
 @@ 132 | 48.88,2.24 | Boulogne-Billancourt / Broome | europe
 H: Japan bombs Australia; Britain bombs France
-P: w:Bombing of Broome ; w:Bruneval raid ; s:Renault factory Billancourt bombing 1942
+P: w:Bombing of Darwin ; s:Darwin 1942 bombing Neptuna
 A: In the first days of March, Japanese fighters raided Broome in Western Australia, destroying flying boats full of refugees from Java, and Japanese troops landed on Java itself; the Dutch surrendered on 8–9 March. In Europe, British paratroopers raided a German radar station at Bruneval on the French coast on 27–28 February and brought back key parts of a Würzburg radar. On 3–4 March RAF Bomber Command attacked the Renault works at Boulogne-Billancourt near Paris, which was building trucks for the Germans. The factory was badly damaged, but several hundred French civilians were killed. The raid foreshadowed the hard moral arithmetic of bombing occupied countries.
 
 @@ 133 | 16.84,96.17 | Rangoon | asia
@@ -40,7 +40,7 @@ A: MacArthur reached Melbourne on 21 March and was named Supreme Commander, Alli
 
 @@ 135 | 50.00,36.20 | Eastern Front | east
 H: The Red Army after its first winter
-P: w:Lyuban offensive operation ; s:Red Army spring 1942 tanks
+P: s:Red Army 1942 spring RIAN archive ; s:Soviet infantry 1942
 A: The Soviet winter counteroffensive had saved Moscow but then overreached. Stalin had ordered attacks along the whole front instead of concentrating, and by March they had largely stalled in the thaw. In the north, the Second Shock Army had pushed into a narrow salient toward Lyuban in an attempt to relieve Leningrad and was now in danger of being cut off. Both armies were rebuilding: the Red Army had nine million men under arms by the spring, but much of it was poorly trained. On 28 March Hitler issued instructions for the summer offensive in the south, aimed at the Caucasus oil fields. Soviet commanders expected the main German blow to fall on Moscow again.
 
 @@ 136 | 53.87,10.69 | Lübeck | europe
@@ -50,7 +50,7 @@ A: On the night of 28–29 March RAF Bomber Command dropped large numbers of inc
 
 @@ 137 | 14.68,120.54 | Bataan | pacific | sober
 H: Bataan surrenders
-P: w:Bataan Death March ; s:Bataan 1942 prisoners
+P: s:Bataan 1942 surrender King ; s:Corregidor 1942 surrender
 A: On 9 April Major General Edward King surrendered about 75,000 American and Filipino troops on Bataan, starving, sick and out of ammunition. It was the largest surrender of US forces in history. Japanese forces then marched the prisoners about 100 kilometres to a railhead in tropical heat with little food or water; those who fell behind were often beaten, bayoneted or shot. Thousands of Filipinos and hundreds of Americans died on what became known as the Bataan Death March, and many more died in the camps afterwards. Corregidor held out for another month. Japanese carriers raided Ceylon in early April and sank the British carrier Hermes and two cruisers.
 
 @@ 138 | 35.68,139.69 | Tokyo | pacific
@@ -60,7 +60,7 @@ A: On 18 April sixteen US Army B-25 bombers, led by Lieutenant Colonel James Doo
 
 @@ 139 | 21.31,-157.86 | Pearl Harbor | pacific
 H: Codebreakers read the Japanese plans
-P: w:Station HYPO ; w:Joseph Rochefort ; s:Joseph Rochefort
+P: s:Chester Nimitz 1942 ; w:Chester W. Nimitz
 A: At Pearl Harbor, the US Navy codebreaking unit known as Station HYPO, led by Commander Joseph Rochefort, had been working on the main Japanese naval code, JN-25. By late April it could read enough of the traffic to detect that Japan was preparing an operation against Port Moresby in New Guinea, to be covered by aircraft carriers. Nimitz acted on the intelligence and sent his own carriers south to the Coral Sea. The codebreakers also picked up hints of a larger operation in the central Pacific. In Burma, the Japanese captured Lashio on 29 April, cutting the Burma Road to China. In Germany, Hitler addressed the Reichstag on 26 April and was granted unlimited legal powers.
 
 @@ 140 | 22.00,96.00 | Burma | asia

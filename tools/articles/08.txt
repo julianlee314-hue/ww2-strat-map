@@ -30,7 +30,7 @@ A: On 13 July Hitler sacked Field Marshal von Bock, commander of Army Group Sout
 
 @@ 152 | 47.23,39.70 | Rostov-on-Don | east
 H: Across empty steppe to the Don
-P: w:Battle of Rostov (1942) ; s:Rostov 1942 Bundesarchiv
+P: s:Rostov-on-Don 1942 ; s:Don steppe 1942 Bundesarchiv
 A: German armour drove south-east across the steppe of the Don bend in July, covering huge distances against little resistance. Rostov, the gateway to the Caucasus, fell on 23–24 July after a short battle. The Wehrmacht had gained territory but not destroyed the Soviet armies it had come to encircle; they had retreated across the Don. German supply lines were stretched; fuel ran out frequently. In occupied Europe, the deportation of Jews was accelerating: the Vel' d'Hiv round-up in Paris on 16–17 July seized more than 13,000 Jews, including over 4,000 children, arrested by French police. The great deportations from the Warsaw Ghetto to Treblinka began on 22 July.
 
 @@ 152b | 47.50,40.70 | Lower Don | east
@@ -55,7 +55,7 @@ A: German armour of Army Group A reached Maikop, the first of the Caucasus oil c
 
 @@ 156 | 43.35,42.44 | Mount Elbrus | east
 H: The swastika on Elbrus
-P: w:Mount Elbrus ; s:Gebirgsjäger Elbrus 1942
+P: s:Gebirgsjäger Kaukasus 1942 ; s:Caucasus 1942 mountain troops
 A: On 21 August German mountain troops climbed Mount Elbrus, the highest peak in the Caucasus and in Europe, and planted the Reich war flag on its summit. Propaganda made much of it; Hitler was furious that his troops were climbing mountains while the oil fields remained out of reach. On 19 August, a mostly Canadian force raided the French port of Dieppe. Of about 6,000 men, nearly 1,000 were killed and around 2,000 captured in a few hours. The raid was a costly lesson in how not to attack a defended port. On 23 August, German forces reached the Volga north of Stalingrad, and the Luftwaffe bombed the city heavily.
 
 @@ 157 | -8.50,163.00 | Eastern Solomons | pacific

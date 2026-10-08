@@ -20,7 +20,7 @@ A: On 17 September the Red Army crossed Poland's eastern border with more than h
 
 @@ 5 | 52.23,21.01 | Warsaw | europe
 H: Warsaw surrenders
-P: w:Siege of Warsaw (1939) ; s:Warsaw September 1939 destroyed ; s:Bundesarchiv Warschau 1939
+P: s:Warschau Oktober 1939 ; s:Warsaw siege 1939 ; s:Warszawa wrzesień 1939
 A: Warsaw endured a week of heavy artillery fire and air raids, culminating in "Black Monday", 25 September, when the Luftwaffe dropped hundreds of tonnes of bombs and incendiaries on a city without water or power. Thousands of civilians were killed. The garrison capitulated on 27 September and the Modlin fortress a day later. On 28 September Germany and the USSR signed a new treaty adjusting their border: Lithuania went into the Soviet sphere in exchange for more of central Poland for Germany. Polish units still held out on the Hel peninsula and in the east. In Paris, General Sikorski began forming a Polish government-in-exile and an army from those who escaped. Tens of thousands of Polish soldiers and airmen made their way west through Romania and Hungary to keep fighting.
 
 @@ 6 | 51.75,22.05 | Kock, Poland | europe
@@ -35,7 +35,7 @@ A: With Poland divided, Moscow turned to the small states assigned to it. Estoni
 
 @@ 8 | 58.93,-3.10 | Scapa Flow | atlantic
 H: A U-boat inside Scapa Flow
-P: w:Sinking of HMS Royal Oak ; w:HMS Royal Oak (08) ; w:Günther Prien
+P: w:HMS Royal Oak (08) ; s:HMS Royal Oak 1937
 A: In the early hours of 14 October Kapitänleutnant Günther Prien took U-47 through a gap in the blockships guarding Scapa Flow, the Home Fleet's main anchorage in Orkney, and torpedoed the battleship Royal Oak. She capsized in minutes; 835 men and boys died. Prien slipped out the way he came and was received in Berlin as a hero. For the Royal Navy it was a humiliation that followed the loss of the carrier Courageous to a U-boat in September. The fleet was moved to temporary anchorages on Scotland's west coast while Scapa's defences were fixed. The war at sea, unlike the war on land, was already real: convoys had been reintroduced, merchant ships were being sunk weekly, and both sides were laying mines across the North Sea approaches.
 
 @@ 9 | 50.06,19.94 | Kraków, General Government | europe | sober
@@ -50,7 +50,7 @@ A: The Finnish delegation led by Juho Paasikivi spent October and early November
 
 @@ 11 | 48.14,11.58 | Munich | europe
 H: A bomb in the beer hall
-P: w:Georg Elser ; w:Bürgerbräukeller ; s:Bürgerbräukeller 1939 Zerstörung
+P: f:Bundesarchiv Bild 183-E12329, München, Bürgerbräukeller, Sprengstoffanschlag.jpg ; s:Bürgerbräukeller 1939
 A: On 8 November Hitler gave his annual speech in Munich's Bürgerbräukeller to mark the 1923 putsch. He cut it short to catch a train to Berlin and left thirteen minutes before a bomb hidden in a pillar behind the lectern exploded, killing eight people. It had been built and planted over many nights by Georg Elser, a carpenter acting alone. He was caught at the Swiss border the same evening. The regime blamed British intelligence, and the next day, in a separate operation, SS men kidnapped two British agents at Venlo on the Dutch border. Elser was held in concentration camps for most of the war and murdered at Dachau in April 1945. Hitler took the escape as proof of providence. Plans to attack France that autumn were postponed again, mainly because of weather.
 
 @@ 12 | 51.86,1.29 | Thames Estuary | atlantic
@@ -60,7 +60,7 @@ A: German aircraft and U-boats had been laying a new weapon in British shipping 
 
 @@ 13 | 63.00,-11.0 | Iceland–Faroes gap | atlantic
 H: The Rawalpindi goes down fighting
-P: w:HMS Rawalpindi ; w:German battleship Scharnhorst ; s:Scharnhorst 1939 Bundesarchiv
+P: w:HMS Rawalpindi ; s:HMS Rawalpindi
 A: On 23 November the German battleships Scharnhorst and Gneisenau broke out into the North Atlantic between Iceland and the Faroes. They ran into HMS Rawalpindi, a P&O liner converted into an armed merchant cruiser with old six-inch guns. Her captain, Edward Kennedy, refused to surrender and fought until his ship was set ablaze and sank; 238 of her crew died. The German ships turned for home rather than risk the Home Fleet. The Kriegsmarine was small compared with the Royal Navy, but its surface raiders and U-boats forced Britain to spread its ships thin across the world's oceans. In the South Atlantic, the pocket battleship Admiral Graf Spee had already sunk several merchant ships and was being hunted by a British cruiser force.
 
 @@ 14 | 60.36,28.60 | Mainila, Karelian Isthmus | europe
@@ -90,5 +90,5 @@ A: Stalin's east was quieter than his west because of a battle few in Europe had
 
 @@ 19 | 65.00,30.00 | Raate road | europe
 H: The Raate road and a stubborn Japan
-P: w:Battle of Raate Road ; w:Battle of Suomussalmi ; s:Raate road 1940
+P: s:Suomussalmi 1940 ; s:Raate road 1940
 A: In the first week of January Finnish troops completed the destruction of the Soviet 44th Division on the Raate road near Suomussalmi. Several thousand Soviet soldiers were killed or froze; the Finns captured dozens of tanks and field guns they badly needed. The division's commander, Alexei Vinogradov, escaped but was shot on Stalin's orders for the defeat. In Asia, Japan's war in China ground on. Its armies held the coast, the major cities and the railways but could not force Chiang Kai-shek's government in Chongqing to surrender. Tokyo was now looking at Western supply routes to China, through French Indochina and British Burma, as the thing to cut. The Finnish victories made great headlines; the Red Army quietly began to reorganise for a different kind of attack.

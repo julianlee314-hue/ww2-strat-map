@@ -30,7 +30,7 @@ A: With the ground hard, Army Group Centre attacked again in mid-November in a p
 
 @@ 119 | 55.75,37.62 | Moscow front | east
 H: The Soviet counteroffensive at Moscow
-P: f:RIAN archive 88775 Soviet soldiers attacking house.jpg ; s:Red Army winter counteroffensive December 1941 Moscow
+P: s:Battle of Moscow 1941 RIAN archive ; s:Moscow counteroffensive 1941
 A: The German attack stalled in the first days of December at temperatures of minus 30 and below. On 5 December, Soviet forces north of Moscow struck back, and the next day the counteroffensive widened along the whole front. German commanders, exhausted and freezing, asked to retreat. Hitler forbade it, then dismissed generals who disobeyed. The German army had suffered its first major defeat. On 7 December, Japanese aircraft attacked the US Pacific Fleet at Pearl Harbor and Japanese forces landed in Malaya; the United States declared war on Japan on the 8th, and Britain did the same. The war was now global.
 
 @@ 120k | 52.52,13.38 | Reichstag, Berlin | europe | sober
@@ -55,7 +55,7 @@ A: On 1 January 1942 twenty-six nations signed the "Declaration by United Nation
 
 @@ 124 | 14.68,120.54 | Bataan | pacific
 H: Holding on at Bataan
-P: w:Battle of Bataan ; s:Bataan 1942 Filipino soldiers
+P: w:Battle of Bataan ; s:Bataan 1942 troops
 A: About 80,000 American and Filipino troops under Douglas MacArthur dug in on the Bataan peninsula, while MacArthur himself directed the defence from the island fortress of Corregidor. They were short of food from the start, with supplies left behind in the hurried retreat, and soon on half rations. Malaria and dysentery spread. Washington knew it could not reinforce them through the Japanese blockade and decided to concentrate resources elsewhere; the men on Bataan increasingly felt abandoned. In Malaya, Japanese forces took Kuala Lumpur on 11 January. In the Soviet Union, the counteroffensive continued along the whole front. Those who were there called themselves the "battling bastards of Bataan".
 
 @@ 125 | 40.70,-73.50 | Off New York | atlantic
