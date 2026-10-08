@@ -102,9 +102,9 @@
   "sober": false,
   "headline": "Warsaw surrenders",
   "photo": [
-   "w:Siege of Warsaw (1939)",
-   "s:Warsaw September 1939 destroyed",
-   "s:Bundesarchiv Warschau 1939"
+   "s:Warschau Oktober 1939",
+   "s:Warsaw siege 1939",
+   "s:Warszawa wrzesień 1939"
   ],
   "article": "Warsaw endured a week of heavy artillery fire and air raids, culminating in \"Black Monday\", 25 September, when the Luftwaffe dropped hundreds of tonnes of bombs and incendiaries on a city without water or power. Thousands of civilians were killed. The garrison capitulated on 27 September and the Modlin fortress a day later. On 28 September Germany and the USSR signed a new treaty adjusting their border: Lithuania went into the Soviet sphere in exchange for more of central Poland for Germany. Polish units still held out on the Hel peninsula and in the east. In Paris, General Sikorski began forming a Polish government-in-exile and an army from those who escaped. Tens of thousands of Polish soldiers and airmen made their way west through Romania and Hungary to keep fighting.",
   "words": 130
@@ -168,9 +168,8 @@
   "sober": false,
   "headline": "A U-boat inside Scapa Flow",
   "photo": [
-   "w:Sinking of HMS Royal Oak",
    "w:HMS Royal Oak (08)",
-   "w:Günther Prien"
+   "s:HMS Royal Oak 1937"
   ],
   "article": "In the early hours of 14 October Kapitänleutnant Günther Prien took U-47 through a gap in the blockships guarding Scapa Flow, the Home Fleet's main anchorage in Orkney, and torpedoed the battleship Royal Oak. She capsized in minutes; 835 men and boys died. Prien slipped out the way he came and was received in Berlin as a hero. For the Royal Navy it was a humiliation that followed the loss of the carrier Courageous to a U-boat in September. The fleet was moved to temporary anchorages on Scotland's west coast while Scapa's defences were fixed. The war at sea, unlike the war on land, was already real: convoys had been reintroduced, merchant ships were being sunk weekly, and both sides were laying mines across the North Sea approaches.",
   "words": 128
@@ -234,9 +233,8 @@
   "sober": false,
   "headline": "A bomb in the beer hall",
   "photo": [
-   "w:Georg Elser",
-   "w:Bürgerbräukeller",
-   "s:Bürgerbräukeller 1939 Zerstörung"
+   "f:Bundesarchiv Bild 183-E12329, München, Bürgerbräukeller, Sprengstoffanschlag.jpg",
+   "s:Bürgerbräukeller 1939"
   ],
   "article": "On 8 November Hitler gave his annual speech in Munich's Bürgerbräukeller to mark the 1923 putsch. He cut it short to catch a train to Berlin and left thirteen minutes before a bomb hidden in a pillar behind the lectern exploded, killing eight people. It had been built and planted over many nights by Georg Elser, a carpenter acting alone. He was caught at the Swiss border the same evening. The regime blamed British intelligence, and the next day, in a separate operation, SS men kidnapped two British agents at Venlo on the Dutch border. Elser was held in concentration camps for most of the war and murdered at Dachau in April 1945. Hitler took the escape as proof of providence. Plans to attack France that autumn were postponed again, mainly because of weather.",
   "words": 134
@@ -279,8 +277,7 @@
   "headline": "The Rawalpindi goes down fighting",
   "photo": [
    "w:HMS Rawalpindi",
-   "w:German battleship Scharnhorst",
-   "s:Scharnhorst 1939 Bundesarchiv"
+   "s:HMS Rawalpindi"
   ],
   "article": "On 23 November the German battleships Scharnhorst and Gneisenau broke out into the North Atlantic between Iceland and the Faroes. They ran into HMS Rawalpindi, a P&O liner converted into an armed merchant cruiser with old six-inch guns. Her captain, Edward Kennedy, refused to surrender and fought until his ship was set ablaze and sank; 238 of her crew died. The German ships turned for home rather than risk the Home Fleet. The Kriegsmarine was small compared with the Royal Navy, but its surface raiders and U-boats forced Britain to spread its ships thin across the world's oceans. In the South Atlantic, the pocket battleship Admiral Graf Spee had already sunk several merchant ships and was being hunted by a British cruiser force.",
   "words": 123
@@ -410,8 +407,7 @@
   "sober": false,
   "headline": "The Raate road and a stubborn Japan",
   "photo": [
-   "w:Battle of Raate Road",
-   "w:Battle of Suomussalmi",
+   "s:Suomussalmi 1940",
    "s:Raate road 1940"
   ],
   "article": "In the first week of January Finnish troops completed the destruction of the Soviet 44th Division on the Raate road near Suomussalmi. Several thousand Soviet soldiers were killed or froze; the Finns captured dozens of tanks and field guns they badly needed. The division's commander, Alexei Vinogradov, escaped but was shot on Stalin's orders for the defeat. In Asia, Japan's war in China ground on. Its armies held the coast, the major cities and the railways but could not force Chiang Kai-shek's government in Chongqing to surrender. Tokyo was now looking at Western supply routes to China, through French Indochina and British Burma, as the thing to cut. The Finnish victories made great headlines; the Red Army quietly began to reorganise for a different kind of attack.",
@@ -433,7 +429,7 @@
   "headline": "Timoshenko takes over in Finland",
   "photo": [
    "w:Semyon Timoshenko",
-   "s:Winter War Red Army artillery 1940"
+   "s:Timoshenko 1940"
   ],
   "article": "After a month of failure Stalin reorganised the Finnish front. Semyon Timoshenko took command of a new North-Western Front on 7 January with orders to break the Mannerheim Line properly. The Red Army paused major attacks, brought up heavy artillery and fresh divisions, and trained infantry to work with tanks and engineers against bunkers. Soviet bombers kept striking Finnish towns. Finland used the lull to rest troops but had no reserves worth the name and was running short of shells. Britain and France talked about sending an expedition to help Finland through northern Norway and Sweden, which would conveniently also cut Germany off from Swedish iron ore. Oslo and Stockholm, determined to stay neutral, made clear they would not allow it.",
   "words": 121
@@ -539,8 +535,8 @@
   "sober": false,
   "headline": "The Mannerheim Line is broken",
   "photo": [
-   "w:Viipuri",
-   "s:Winter War Viipuri 1940"
+   "s:Viipuri 1940",
+   "s:Mannerheim Line 1940"
   ],
   "article": "On 11 February Soviet troops broke through at Lähde, near Summa, the decisive breach of the main Finnish defensive line. Mannerheim ordered a withdrawal to the intermediate and then rear lines closer to Viipuri, Finland's second city. The retreat was carried out in reasonable order, but the men were exhausted and shells were rationed. Finland's government, led by Risto Ryti with foreign minister Väinö Tanner, began exploring peace terms through Sweden. Stockholm told Helsinki plainly that Swedish troops would not come and that Finland should settle. The Allies, meanwhile, promised an expeditionary force of tens of thousands if Finland formally asked for it, an offer that Finnish leaders suspected was more about Narvik than about them.",
   "words": 116
@@ -582,8 +578,8 @@
   "sober": false,
   "headline": "Fall Gelb takes its final shape",
   "photo": [
-   "w:Battle of France",
-   "s:Bundesarchiv Westfeldzug 1940 Vorbereitung"
+   "w:Erich von Manstein",
+   "s:Manstein 1940"
   ],
   "article": "On 24 February the German army issued the revised directive for Fall Gelb, Case Yellow, built around Manstein's idea. Army Group B in the north would invade the Netherlands and Belgium loudly enough to draw the Allies forward. Army Group A, with most of the panzer divisions, would push through Luxembourg and the Ardennes, cross the Meuse and drive for the sea. Army Group C would hold the Maginot Line. Many generals thought the Ardennes too risky for tanks. In Allied headquarters the Dyle Plan stood: the best French armies and the British Expeditionary Force would move into Belgium the moment it was attacked. Each side's plan, in other words, fitted the other's almost perfectly, to Germany's advantage. In the north, Finland asked Moscow for terms.",
   "words": 126
@@ -753,8 +749,8 @@
   "sober": false,
   "headline": "Norway burns",
   "photo": [
-   "w:Battle of Kvam",
-   "s:Norway 1940 burning town Namsos"
+   "f:Troops pick through the ruins of Namsos in Norway after a German air raid, April 1940. N97.jpg",
+   "s:Namsos 1940"
   ],
   "article": "German columns pushed north from Oslo up the Gudbrandsdal and Østerdal valleys toward Trondheim, pushing Norwegian and newly arrived British troops back in a string of rearguard fights such as Kvam. The Luftwaffe bombed the small towns used as Allied ports, and Namsos, Åndalsnes, Molde and others were largely burned. British commanders reported that without air cover the positions south of Trondheim could not be held. In London the War Cabinet decided on 26–27 April to withdraw from central Norway and concentrate on Narvik. The campaign's handling, much of it directed by Churchill at the Admiralty, was becoming a political problem for Chamberlain.",
   "words": 103
@@ -1015,8 +1011,8 @@
   "sober": false,
   "headline": "Hitler offers peace; Britain refuses",
   "photo": [
-   "w:Last Appeal to Reason",
-   "s:Reichstag Sitzung 19 Juli 1940"
+   "s:Hitler Reichstag Kroll 1940",
+   "s:Reichstag 1940 Sitzung"
   ],
   "article": "On 19 July Hitler addressed the Reichstag, promoted a dozen generals to field marshal, and made what he called a final appeal to reason to Britain. He offered no actual terms, only the suggestion that Britain accept German domination of the continent. The British response came within an hour from a BBC journalist and officially on 22 July from Lord Halifax: no. Hitler had already issued Directive 16 on 16 July, ordering preparations for a landing in England, Operation Sea Lion, which would require the Luftwaffe to destroy the RAF first. Meanwhile Germany looked east: by late July Hitler was telling his generals that the USSR should be attacked in 1941.",
   "words": 111
@@ -1102,8 +1098,7 @@
   "headline": "Britain abandons Somaliland; Eagle Day",
   "photo": [
    "w:Battle of Tug Argan",
-   "w:Adlertag",
-   "s:Berbera 1940 evacuation"
+   "s:British Somaliland 1940"
   ],
   "article": "After four days of fighting at Tug Argan, the British commander judged the position lost, and between 15 and 18 August about 7,000 troops and civilians were evacuated from Berbera to Aden. It was the only British colony Italy ever conquered. Churchill was furious at the small number of casualties, which he took to mean the position had not been properly defended. Over Britain the Luftwaffe launched Eagle Day on 13 August and on 15 August, the heaviest day of the campaign, attacked from Norway as well as France and lost heavily in the north. On 20 August Churchill told the Commons: \"Never in the field of human conflict was so much owed by so many to so few.\"",
   "words": 119
@@ -1210,8 +1205,8 @@
   "sober": false,
   "headline": "Battle of Britain Day",
   "photo": [
-   "s:Battle of Britain Day 15 September 1940",
-   "s:Heinkel He 111 over London 1940"
+   "s:Dornier Do 17 1940 West Ham",
+   "w:Battle of Britain Day"
   ],
   "article": "On Sunday 15 September the Luftwaffe sent two large daylight raids against London expecting to find Fighter Command finished. Instead Park and Leigh-Mallory met them with most of their squadrons, including 12 Group's \"Big Wing\". German bomber formations were broken up and scattered. The RAF claimed far more kills than the actual figure of around 60 German aircraft, against about 29 British losses, but the meaning was clear in Berlin. On 17 September Hitler postponed Sea Lion indefinitely. Britain marks 15 September as Battle of Britain Day. Daylight fighting continued into October, but the Luftwaffe was turning to night bombing of cities. On 13 September Italian forces in Libya invaded Egypt.",
   "words": 111
@@ -1252,8 +1247,8 @@
   "sober": false,
   "headline": "Hitler and Franco at Hendaye",
   "photo": [
-   "w:Meeting at Hendaye",
-   "s:Hitler Franco Hendaye 1940"
+   "s:Hendaye 1940 Bundesarchiv",
+   "w:Meeting at Hendaye"
   ],
   "article": "Hitler hoped to bring Spain into the war and take Gibraltar, closing the western Mediterranean to Britain. Franco's price was high: large amounts of grain, fuel and weapons for a country ruined by its civil war, and much of French North Africa, which Hitler could not give without driving Vichy into the Allied camp. Throughout the autumn Spanish and German officials negotiated. On 4 October Hitler and Mussolini met again at the Brenner. On 23 October Hitler met Franco at Hendaye on the French–Spanish border and came away saying he would rather have teeth pulled than go through it again. Spain stayed out, though it remained friendly to the Axis. The London Blitz continued nightly.",
   "words": 115
@@ -1423,9 +1418,8 @@
   "sober": false,
   "headline": "The occupation of France settles in",
   "photo": [
-   "w:German occupation of France during World War II",
-   "w:Einsatzstab Reichsleiter Rosenberg",
-   "s:Paris 1940 German soldiers café"
+   "s:Vichy 1940 Pétain",
+   "s:Vichy France 1940"
   ],
   "article": "Five months in, occupied France had a routine: German clocks, German road signs, a curfew, and a demarcation line between the zones that needed a pass to cross. Food was rationed and getting scarcer. The Einsatzstab Reichsleiter Rosenberg was seizing art collections owned by Jews, with the Jeu de Paume museum used as a sorting depot. Vichy had already passed its own anti-Jewish statute in October, excluding Jews from public service and the professions without being asked. On 11 November students in Paris demonstrated at the Arc de Triomphe and were dispersed with arrests and shots. Resistance was still small and scattered, mostly leaflets and listening to the BBC.",
   "words": 109
@@ -1575,8 +1569,8 @@
   "sober": false,
   "headline": "China's war within a war",
   "photo": [
-   "w:New Fourth Army incident",
-   "s:New Fourth Army 1941"
+   "f:1941N4A.jpg",
+   "w:New Fourth Army incident"
   ],
   "article": "In the first weeks of January Nationalist troops ambushed and largely destroyed the headquarters of the communist New Fourth Army in southern Anhui as it moved north under orders from Chiang Kai-shek. Several thousand communist soldiers were killed or captured; the commander Ye Ting was imprisoned. The incident effectively ended the united front between the Nationalists and the Communists that had existed since 1937, though neither side formally renounced it. Both continued to fight Japan, but each also fought to position itself for the struggle that would follow. Japan held the coast and major cities but was bogged down. In Washington, China's supporters were lobbying for Lend-Lease aid to include Chongqing.",
   "words": 111
@@ -1939,8 +1933,8 @@
   "sober": false,
   "headline": "Rudolf Hess flies to Scotland",
   "photo": [
-   "w:Rudolf Hess",
-   "s:Rudolf Hess Messerschmitt wreck 1941"
+   "s:Hess Messerschmitt Bf 110 wreckage 1941",
+   "s:Bf 110 Hess Eaglesham"
   ],
   "article": "On the evening of 10 May Rudolf Hess, Hitler's deputy in the Nazi party, flew a Messerschmitt 110 alone from Augsburg to Scotland and parachuted near Eaglesham, apparently hoping to negotiate peace through the Duke of Hamilton. He was arrested and held for the rest of the war. Berlin declared him mentally disturbed; the British said very little, which fed Soviet suspicion for decades. The same night the Luftwaffe made its last major raid of the Blitz on London, killing about 1,400 people and damaging the Commons chamber. In East Africa, the Duke of Aosta's forces at Amba Alagi were surrounded and would surrender on 19 May.",
   "words": 107
@@ -2026,9 +2020,8 @@
   "sober": false,
   "headline": "Finland drifts toward Germany; Syria invaded",
   "photo": [
-   "w:Syria–Lebanon campaign",
-   "s:Free French Syria 1941",
-   "s:Finnish army June 1941"
+   "s:Finnish troops 1941",
+   "w:Continuation War"
   ],
   "article": "Finland, still smarting from the Winter War, had been drawn into Barbarossa planning. German troops were already in Finnish Lapland, and in early June Finnish officers coordinated mobilisation dates with Berlin, though Helsinki would insist it fought a separate \"Continuation War\". On 8 June British, Australian, Indian and Free French forces invaded Vichy-held Syria and Lebanon, after Vichy had allowed German aircraft to use Syrian airfields during the Iraq revolt. Vichy troops fought hard. Free French soldiers were now fighting French soldiers loyal to Pétain. In Libya, Wavell prepared Operation Battleaxe to relieve Tobruk, using tanks rushed across the Mediterranean.",
   "words": 100
@@ -2176,8 +2169,8 @@
   "sober": false,
   "headline": "An army that marched on foot",
   "photo": [
-   "w:Horses in World War II",
-   "s:Bundesarchiv Russland 1941 Pferde Wehrmacht"
+   "s:Russland 1941 Pferdewagen Bundesarchiv",
+   "s:Wehrmacht horse-drawn 1941"
   ],
   "article": "Behind the panzer spearheads the Wehrmacht of 1941 looked much like the army of 1914. It used around 600,000 horses in the invasion of the USSR, pulling artillery, supply wagons and field kitchens. Most of its infantry walked, often 30 to 40 kilometres a day in summer heat and dust. Motor vehicles were a mixture of German and captured French, British and Czech types, which made spare parts a nightmare. The dirt roads of the western USSR turned into dust clouds in summer and mud in rain. The Soviets were in a similar position, but they were falling back toward their supplies while the Germans moved away from theirs. Soviet aircraft bombed Moscow's attackers; Moscow itself was bombed for the first time on 21–22 July.",
   "words": 125
@@ -2580,8 +2573,8 @@
   "sober": false,
   "headline": "The Soviet counteroffensive at Moscow",
   "photo": [
-   "f:RIAN archive 88775 Soviet soldiers attacking house.jpg",
-   "s:Red Army winter counteroffensive December 1941 Moscow"
+   "s:Battle of Moscow 1941 RIAN archive",
+   "s:Moscow counteroffensive 1941"
   ],
   "article": "The German attack stalled in the first days of December at temperatures of minus 30 and below. On 5 December, Soviet forces north of Moscow struck back, and the next day the counteroffensive widened along the whole front. German commanders, exhausted and freezing, asked to retreat. Hitler forbade it, then dismissed generals who disobeyed. The German army had suffered its first major defeat. On 7 December, Japanese aircraft attacked the US Pacific Fleet at Pearl Harbor and Japanese forces landed in Malaya; the United States declared war on Japan on the 8th, and Britain did the same. The war was now global.",
   "words": 102
@@ -2686,7 +2679,7 @@
   "headline": "Holding on at Bataan",
   "photo": [
    "w:Battle of Bataan",
-   "s:Bataan 1942 Filipino soldiers"
+   "s:Bataan 1942 troops"
   ],
   "article": "About 80,000 American and Filipino troops under Douglas MacArthur dug in on the Bataan peninsula, while MacArthur himself directed the defence from the island fortress of Corregidor. They were short of food from the start, with supplies left behind in the hurried retreat, and soon on half rations. Malaria and dysentery spread. Washington knew it could not reinforce them through the Japanese blockade and decided to concentrate resources elsewhere; the men on Bataan increasingly felt abandoned. In Malaya, Japanese forces took Kuala Lumpur on 11 January. In the Soviet Union, the counteroffensive continued along the whole front. Those who were there called themselves the \"battling bastards of Bataan\".",
   "words": 108
@@ -2854,9 +2847,8 @@
   "sober": false,
   "headline": "Japan bombs Australia; Britain bombs France",
   "photo": [
-   "w:Bombing of Broome",
-   "w:Bruneval raid",
-   "s:Renault factory Billancourt bombing 1942"
+   "w:Bombing of Darwin",
+   "s:Darwin 1942 bombing Neptuna"
   ],
   "article": "In the first days of March, Japanese fighters raided Broome in Western Australia, destroying flying boats full of refugees from Java, and Japanese troops landed on Java itself; the Dutch surrendered on 8–9 March. In Europe, British paratroopers raided a German radar station at Bruneval on the French coast on 27–28 February and brought back key parts of a Würzburg radar. On 3–4 March RAF Bomber Command attacked the Renault works at Boulogne-Billancourt near Paris, which was building trucks for the Germans. The factory was badly damaged, but several hundred French civilians were killed. The raid foreshadowed the hard moral arithmetic of bombing occupied countries.",
   "words": 105
@@ -2918,8 +2910,8 @@
   "sober": false,
   "headline": "The Red Army after its first winter",
   "photo": [
-   "w:Lyuban offensive operation",
-   "s:Red Army spring 1942 tanks"
+   "s:Red Army 1942 spring RIAN archive",
+   "s:Soviet infantry 1942"
   ],
   "article": "The Soviet winter counteroffensive had saved Moscow but then overreached. Stalin had ordered attacks along the whole front instead of concentrating, and by March they had largely stalled in the thaw. In the north, the Second Shock Army had pushed into a narrow salient toward Lyuban in an attempt to relieve Leningrad and was now in danger of being cut off. Both armies were rebuilding: the Red Army had nine million men under arms by the spring, but much of it was poorly trained. On 28 March Hitler issued instructions for the summer offensive in the south, aimed at the Caucasus oil fields. Soviet commanders expected the main German blow to fall on Moscow again.",
   "words": 115
@@ -2961,8 +2953,8 @@
   "sober": true,
   "headline": "Bataan surrenders",
   "photo": [
-   "w:Bataan Death March",
-   "s:Bataan 1942 prisoners"
+   "s:Bataan 1942 surrender King",
+   "s:Corregidor 1942 surrender"
   ],
   "article": "On 9 April Major General Edward King surrendered about 75,000 American and Filipino troops on Bataan, starving, sick and out of ammunition. It was the largest surrender of US forces in history. Japanese forces then marched the prisoners about 100 kilometres to a railhead in tropical heat with little food or water; those who fell behind were often beaten, bayoneted or shot. Thousands of Filipinos and hundreds of Americans died on what became known as the Bataan Death March, and many more died in the camps afterwards. Corregidor held out for another month. Japanese carriers raided Ceylon in early April and sank the British carrier Hermes and two cruisers.",
   "words": 109
@@ -3003,9 +2995,8 @@
   "sober": false,
   "headline": "Codebreakers read the Japanese plans",
   "photo": [
-   "w:Station HYPO",
-   "w:Joseph Rochefort",
-   "s:Joseph Rochefort"
+   "s:Chester Nimitz 1942",
+   "w:Chester W. Nimitz"
   ],
   "article": "At Pearl Harbor, the US Navy codebreaking unit known as Station HYPO, led by Commander Joseph Rochefort, had been working on the main Japanese naval code, JN-25. By late April it could read enough of the traffic to detect that Japan was preparing an operation against Port Moresby in New Guinea, to be covered by aircraft carriers. Nimitz acted on the intelligence and sent his own carriers south to the Coral Sea. The codebreakers also picked up hints of a larger operation in the central Pacific. In Burma, the Japanese captured Lashio on 29 April, cutting the Burma Road to China. In Germany, Hitler addressed the Reichstag on 26 April and was granted unlimited legal powers.",
   "words": 116
@@ -3320,8 +3311,8 @@
   "sober": false,
   "headline": "Across empty steppe to the Don",
   "photo": [
-   "w:Battle of Rostov (1942)",
-   "s:Rostov 1942 Bundesarchiv"
+   "s:Rostov-on-Don 1942",
+   "s:Don steppe 1942 Bundesarchiv"
   ],
   "article": "German armour drove south-east across the steppe of the Don bend in July, covering huge distances against little resistance. Rostov, the gateway to the Caucasus, fell on 23–24 July after a short battle. The Wehrmacht had gained territory but not destroyed the Soviet armies it had come to encircle; they had retreated across the Don. German supply lines were stretched; fuel ran out frequently. In occupied Europe, the deportation of Jews was accelerating: the Vel' d'Hiv round-up in Paris on 16–17 July seized more than 13,000 Jews, including over 4,000 children, arrested by French police. The great deportations from the Warsaw Ghetto to Treblinka began on 22 July.",
   "words": 108
@@ -3425,8 +3416,8 @@
   "sober": false,
   "headline": "The swastika on Elbrus",
   "photo": [
-   "w:Mount Elbrus",
-   "s:Gebirgsjäger Elbrus 1942"
+   "s:Gebirgsjäger Kaukasus 1942",
+   "s:Caucasus 1942 mountain troops"
   ],
   "article": "On 21 August German mountain troops climbed Mount Elbrus, the highest peak in the Caucasus and in Europe, and planted the Reich war flag on its summit. Propaganda made much of it; Hitler was furious that his troops were climbing mountains while the oil fields remained out of reach. On 19 August, a mostly Canadian force raided the French port of Dieppe. Of about 6,000 men, nearly 1,000 were killed and around 2,000 captured in a few hours. The raid was a costly lesson in how not to attack a defended port. On 23 August, German forces reached the Volga north of Stalingrad, and the Luftwaffe bombed the city heavily.",
   "words": 110
@@ -3572,8 +3563,8 @@
   "sober": false,
   "headline": "The Soviet Thermopylae",
   "photo": [
-   "w:Mamayev Kurgan",
-   "s:Stalingrad October 1942 Soviet soldiers ruins"
+   "s:Stalingrad 1942 tractor factory",
+   "s:Pavlov House 1942"
   ],
   "article": "Soviet propaganda compared the defence of Stalingrad to the stand at Thermopylae. The hill of Mamayev Kurgan, which overlooked the city and the river crossings, changed hands repeatedly; its soil was later found to contain huge quantities of shell fragments. A building in the city centre held for nearly two months by a small group under Sergeant Yakov Pavlov became known as Pavlov's House. In the Caucasus the German advance had stalled short of Grozny and in the mountains above the Black Sea coast. In Egypt, Montgomery was building up the Eighth Army for a set-piece offensive, with new Sherman tanks arriving from America.",
   "words": 104
@@ -3594,8 +3585,7 @@
   "headline": "Paulus against Chuikov",
   "photo": [
    "w:Vasily Chuikov",
-   "w:Friedrich Paulus",
-   "s:Paulus Stalingrad 1942"
+   "s:Chuikov 1942"
   ],
   "article": "Friedrich Paulus, a careful staff officer commanding the Sixth Army, launched a series of attacks in October to clear the remaining Soviet bridgeheads on the Volga. On 14 October a massive assault on the Tractor Factory pushed the Germans to the river in the north and nearly split the 62nd Army. Vasily Chuikov, tough, blunt and willing to accept enormous losses, moved his headquarters into a bunker close to the river bank and kept counterattacking. German infantry companies were down to a few dozen men. Hitler declared in a speech that Stalingrad would be taken and that no power on earth would remove the Germans from it.",
   "words": 107
@@ -3679,8 +3669,8 @@
   "sober": false,
   "headline": "The breakthrough at El Alamein",
   "photo": [
-   "w:Operation Supercharge",
-   "s:Eighth Army November 1942 advance"
+   "w:Second Battle of El Alamein",
+   "s:El Alamein 1942 infantry"
   ],
   "article": "On 2 November Montgomery launched Operation Supercharge, a new thrust by British and New Zealand forces. After heavy fighting the Axis front cracked. On 3 November Hitler ordered Rommel to stand fast, \"victory or death\". Rommel obeyed for a day, then retreated on 4 November with what was left of his armour, leaving behind many of the Italian infantry, who had no transport. About 30,000 Axis soldiers were captured. Churchill ordered church bells rung across Britain on 15 November, the first time since 1940. He later wrote that before Alamein the Allies never had a victory, and after it they never had a defeat, which was not true but became famous.",
   "words": 111
@@ -3764,8 +3754,8 @@
   "sober": false,
   "headline": "The airlift fails",
   "photo": [
-   "w:Stalingrad airlift",
-   "s:Ju 52 winter Stalingrad"
+   "s:Pitomnik Ju 52",
+   "s:Stalingrad Ju 52"
   ],
   "article": "The Sixth Army needed at least 300 tonnes of supplies a day by air; the Luftwaffe rarely delivered a third of that. Transport aircraft were shot down by Soviet fighters and anti-aircraft guns, grounded by winter weather, or lost on the airfields that the Soviets kept pushing back. Inside the pocket, rations were cut, horses were slaughtered, and fuel ran out. Field Marshal Manstein was put in charge of a new Army Group Don to relieve Stalingrad. In Tunisia, German forces stopped the Allied drive on Tunis in early December. In North Africa, Darlan was assassinated in Algiers on 24 December.",
   "words": 101
@@ -3932,8 +3922,8 @@
   "sober": false,
   "headline": "Tripoli falls; Rommel's future in doubt",
   "photo": [
-   "w:Tunisian campaign",
-   "s:Eighth Army Tripoli January 1943"
+   "s:Tripoli 1943 Eighth Army",
+   "s:Tripoli January 1943"
   ],
   "article": "On 23 January the Eighth Army entered Tripoli, the capital of Italian Libya, three months after Alamein and some 2,200 kilometres further west. Mussolini's African empire was gone. Rommel, tired and ill, withdrew to the Mareth Line, old French fortifications in southern Tunisia. Italian and German commanders were frustrated with him; the Italian high command wanted him replaced. In Tunisia, Axis forces under General Hans-Jürgen von Arnim held a bridgehead around Tunis and Bizerte. On the Eastern Front, the Stalingrad pocket was split in two on 26 January. Paulus remained in a department store basement in the city centre. The desert war was entering its last act.",
   "words": 107
@@ -4185,8 +4175,8 @@
   "sober": false,
   "headline": "Mussolini wants out",
   "photo": [
-   "w:Benito Mussolini",
-   "s:Hitler Mussolini Klessheim 1943"
+   "s:Mussolini 1943",
+   "s:Benito Mussolini 1943"
   ],
   "article": "Mussolini met Hitler at Klessheim Castle near Salzburg from 7 to 10 April. Ill and depressed, he urged Hitler to make peace with Stalin so that the Axis could concentrate against the Western Allies in the Mediterranean. Hitler refused. Italy's war was going badly everywhere: its army in Russia had been destroyed, its African empire lost, its cities bombed, its navy hiding in port. Strikes broke out in Turin and Milan in March, the first mass strikes in Fascist Italy. Members of the Fascist leadership and the royal court were beginning to discuss removing Mussolini. In Tunisia, the Eighth Army broke through at Wadi Akarit on 6 April.",
   "words": 108
@@ -4799,7 +4789,7 @@
   "headline": "Stalin agrees to a United Nations",
   "photo": [
    "w:Moscow Conference (1943)",
-   "s:Moscow Conference 1943 Hull Eden Molotov"
+   "s:Moscow Conference 1943"
   ],
   "article": "At the Moscow Conference of foreign ministers from 18 October to 11 November, Cordell Hull, Anthony Eden and Vyacheslav Molotov agreed on a declaration calling for a general international organisation to maintain peace after the war, the seed of the United Nations. They also issued a declaration on Austria, calling it the first victim of Hitler's aggression, and a declaration on atrocities, warning Germans responsible for war crimes that they would be returned to the countries where they committed them for trial. China signed the Four Power Declaration. The Soviets were assured that the invasion of France would happen in spring 1944.",
   "words": 102
@@ -4946,8 +4936,8 @@
   "sober": false,
   "headline": "Toward Rome: the Gustav Line",
   "photo": [
-   "w:Gustav Line",
-   "s:Italy December 1943 mud Allied soldiers"
+   "s:Gustav Line 1944",
+   "s:Cassino 1944 infantry"
   ],
   "article": "In Italy, the Allied advance had become a slow, bloody crawl through mountains, rain and mud against successive German defensive lines. Field Marshal Kesselring had persuaded Hitler that Italy could be defended south of Rome, and the main line, the Gustav Line, ran across the narrowest part of the peninsula, anchored on the Garigliano and Rapido rivers and the town of Cassino. British and Canadian troops fought on the Adriatic side; Americans and British on the west. Allied planners began considering an amphibious landing behind the Gustav Line, near Anzio, to break the deadlock. Eisenhower was named supreme commander for Overlord on 7 December.",
   "words": 104
@@ -4968,7 +4958,7 @@
   "headline": "A super bomber to break Japan",
   "photo": [
    "w:Boeing B-29 Superfortress",
-   "s:B-29 1943 production"
+   "s:B-29 Superfortress 1944"
   ],
   "article": "By late 1943 the US Army Air Forces had a new aircraft, the Boeing B-29 Superfortress: pressurised, long-ranged and carrying a heavy bomb load. Its development had been troubled, with engine fires and production problems, and cost more than the atomic bomb project. The plan was to base it first in India and China and strike Japan from there; later, once the Marianas were taken, from Saipan and Guam. American planners saw it as a way to bomb Japan's cities and industries from the air. In Europe, the US Eighth Air Force was suffering heavy losses in daylight raids over Germany and waiting for long-range escort fighters.",
   "words": 107
@@ -5305,8 +5295,8 @@
   "sober": false,
   "headline": "A new offensive in Crimea",
   "photo": [
-   "w:Crimean offensive",
-   "s:Crimea April 1944 Soviet troops"
+   "s:Sevastopol 1944",
+   "w:Crimean offensive"
   ],
   "article": "On 8 April the Soviet Fourth Ukrainian Front attacked the German and Romanian Seventeenth Army in Crimea, breaking through the Perekop isthmus and the Sivash lagoon. At the same time Soviet forces attacked from the Kerch peninsula in the east. Hitler again ordered Crimea held. Simferopol fell on 13 April. The Germans and Romanians fell back toward Sevastopol, where Germans had fought their way in two years before. In the west, Soviet troops crossed into Romania. In the occupied Netherlands, preparations for a German defence of the coast continued. In Britain, the invasion forces were rehearsing landings on the south coast.",
   "words": 101
@@ -6132,8 +6122,8 @@
   "sober": false,
   "headline": "The Vistula–Oder offensive",
   "photo": [
-   "w:Vistula–Oder offensive",
-   "s:Vistula-Oder offensive 1945 Soviet tanks"
+   "s:Vistula-Oder 1945 Soviet tanks",
+   "s:Soviet tanks January 1945 Poland"
   ],
   "article": "On 12 January the First Ukrainian Front under Konev attacked from its Vistula bridgehead at Sandomierz, and on 14 January the First Belorussian Front under Zhukov attacked from bridgeheads south of Warsaw. The German front collapsed in days. Soviet tank armies advanced up to 70 kilometres a day across Poland in winter weather. The offensive had been brought forward, Stalin later claimed, to help the Western Allies in the Ardennes. On 9 January American troops landed in the Lingayen Gulf on Luzon. In the Ardennes, the US First and Third Armies met at Houffalize on 16 January, cutting the Bulge in half.",
   "words": 102
@@ -6153,8 +6143,8 @@
   "sober": false,
   "headline": "The Red Army overruns Poland",
   "photo": [
-   "w:Vistula–Oder offensive",
-   "s:Warsaw January 1945 ruins"
+   "f:Destroyed Warsaw, capital of Poland, January 1945.jpg",
+   "s:Warsaw January 1945"
   ],
   "article": "On 17 January Soviet and Polish troops entered the ruins of Warsaw, which had been almost totally destroyed. Kraków, whose historic centre the Germans had abandoned largely intact, fell on 19 January, and Łódź the same day. In the east, the East Prussian offensive had begun on 13 January, and millions of Germans began fleeing west in freezing weather. Many fled too late, because Nazi officials had forbidden evacuation, and were caught by Soviet troops, who committed mass rapes and killings. In the Ardennes, the Bulge had been eliminated by late January; the Americans had suffered about 80,000 casualties. Whole provinces of eastern Germany were emptying.",
   "words": 106
@@ -6239,8 +6229,8 @@
   "sober": true,
   "headline": "Dresden is bombed",
   "photo": [
+   "f:Bundesarchiv Bild 183-Z0309-310, Zerstörtes Dresden.jpg",
    "s:Dresden 1945 Rathausturm Blick",
-   "s:Dresden 1945 Frauenkirche ruins",
    "s:Dresden 1945 Altstadt Trümmer"
   ],
   "article": "On the night of 13–14 February RAF Bomber Command attacked Dresden in two waves, and the US Eighth Air Force followed with daylight raids on 14 and 15 February. The attacks created a firestorm that destroyed much of the historic city centre. Around 25,000 people were killed, according to a historians' commission in 2010; Nazi propaganda claimed far higher numbers, and inflated figures persisted for decades. Dresden was a rail and communications centre for the Eastern Front, but the scale of destruction so late in the war became one of the most debated actions of the Allied bombing campaign. Churchill himself questioned it in a memo in March. In Pomerania, a German counterattack, Operation Solstice, briefly struck at Zhukov's flank.",
