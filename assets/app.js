@@ -654,11 +654,11 @@ function drawRuler() {
     const x = rx(m); s.append("line").attr("class", "mt").attr("x1", x).attr("x2", x).attr("y1", by - 14).attr("y2", by + 6);
     if (mStep && m.getUTCMonth() !== 0) s.append("text").attr("class", "ml").attr("x", x + (rx(d3.utcMonth.offset(m, 1)) - x) / 2).attr("y", by + 17).text(width > 900 ? MON[m.getUTCMonth()][0] : "");
   });
-  const roomy = rx(pd("1940-01-01")) - rx(D0) > 62;
+  const roomy = rx(pd("1940-01-01")) - rx(D0) > 60;
   [D0, ...d3.utcYear.range(D0, D1)].forEach((y, i) => {
     const x = rx(y); s.append("line").attr("class", "yt").attr("x1", x).attr("x2", x).attr("y1", by - 26).attr("y2", by + 12);
     if (i === 0 && !roomy) return;
-    s.append("text").attr("class", "yl").attr("x", x).attr("y", by + 30).style("text-anchor", i === 0 ? "start" : "middle").text(i === 0 ? "Sep 1939" : y.getUTCFullYear());
+    s.append("text").attr("class", "yl").attr("x", x).attr("y", by + 30).style("text-anchor", i === 0 ? "start" : "middle").text(i === 0 ? "1939" : y.getUTCFullYear());
   });
   s.append("line").attr("class", "yt").attr("x1", rx(D1)).attr("x2", rx(D1)).attr("y1", by - 26).attr("y2", by + 12);
   if (roomy) s.append("text").attr("class", "yl").attr("x", rx(D1)).attr("y", by + 30).style("text-anchor", "end").text("VE Day");
