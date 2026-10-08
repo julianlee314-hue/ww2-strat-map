@@ -658,10 +658,10 @@ function drawRuler() {
   [D0, ...d3.utcYear.range(D0, D1)].forEach((y, i) => {
     const x = rx(y); s.append("line").attr("class", "yt").attr("x1", x).attr("x2", x).attr("y1", by - 26).attr("y2", by + 12);
     if (i === 0 && !roomy) return;
-    s.append("text").attr("class", "yl").attr("x", x).attr("y", by + 30).attr("text-anchor", i === 0 ? "start" : "middle").text(i === 0 ? "Sep 1939" : y.getUTCFullYear());
+    s.append("text").attr("class", "yl").attr("x", x).attr("y", by + 30).style("text-anchor", i === 0 ? "start" : "middle").text(i === 0 ? "Sep 1939" : y.getUTCFullYear());
   });
   s.append("line").attr("class", "yt").attr("x1", rx(D1)).attr("x2", rx(D1)).attr("y1", by - 26).attr("y2", by + 12);
-  if (roomy) s.append("text").attr("class", "yl").attr("x", rx(D1)).attr("y", by + 30).attr("text-anchor", "end").text("VE Day");
+  if (roomy) s.append("text").attr("class", "yl").attr("x", rx(D1)).attr("y", by + 30).style("text-anchor", "end").text("VE Day");
   s.append("line").attr("class", "base").attr("x1", rx(D0)).attr("x2", rx(D1)).attr("y1", by).attr("y2", by);
   const mk = s.append("g").attr("class", "mk");
   mk.append("line").attr("y1", 24).attr("y2", by + 10);
@@ -676,7 +676,7 @@ function drawRuler() {
 function drawRulerMarker() {
   const w = W[sel]; if (!rx || !w) return;
   const s = d3.select("#rulerSvg"); const x = rx(w.tm), width = rx.range()[1] + 14;
-  s.select(".mk").attr("transform", `translate(${x},0)`).select("text").text("W" + w.id).attr("text-anchor", x < 30 ? "start" : x > width - 30 ? "end" : "middle");
+  s.select(".mk").attr("transform", `translate(${x},0)`).select("text").text("W" + w.id).style("text-anchor", x < 30 ? "start" : x > width - 30 ? "end" : "middle");
   s.attr("aria-valuenow", sel + 1).attr("aria-valuetext", `Week ${w.id}, ${w.dates_label}`);
   const dl = w.start === w.end ? fmtD(w.t0) : `${fmtD(w.t0)} – ${fmtD(w.t1)}`;
   $("#rulerRead").innerHTML = `<b>Week ${esc(w.id)}</b> · ${esc(dl)}${w.bigboard ? ' · <span style="color:var(--bb)">Big Board</span>' : ""}<span class="rr-h">${esc(w.headline)}</span>`;
